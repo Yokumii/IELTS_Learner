@@ -8,9 +8,9 @@
         "Accommodation",
         "Evening time",
         "Sitting down",
-        "Feeling bored"
+        "Colors"
       ],
-      "reasoning": "These topics revolve around everyday experiences, personal habits, and preferences, which are common in IELTS Part 1 to assess the candidate's ability to discuss familiar topics fluently and coherently."
+      "reasoning": "These topics revolve around personal habits, living environments, and preferences, which are common in IELTS Part 1 to assess the candidate's ability to describe their daily life and express opinions about familiar settings."
     },
     {
       "theme_number": 2,
@@ -18,13 +18,25 @@
       "subtopics": [
         "Friends",
         "Borrowing and lending",
-        "Lost and found",
-        "Stories"
+        "Stories",
+        "Hometown"
       ],
-      "reasoning": "These topics focus on interpersonal relationships, social behaviors, and communication, which are essential for evaluating the candidate's ability to express opinions and share experiences about social dynamics."
+      "reasoning": "These topics focus on interpersonal relationships, social activities, and community connections, which are essential for evaluating the candidate's ability to discuss social dynamics and personal experiences."
     },
     {
       "theme_number": 3,
+      "theme_name": "Hobbies and Leisure Activities",
+      "subtopics": [
+        "Reading",
+        "Sports",
+        "Swimming",
+        "Art",
+        "Collecting things"
+      ],
+      "reasoning": "These topics explore the candidate's interests, hobbies, and leisure activities, allowing them to demonstrate vocabulary related to recreation and personal enjoyment."
+    },
+    {
+      "theme_number": 4,
       "theme_name": "Technology and Modern Life",
       "subtopics": [
         "Websites",
@@ -32,18 +44,7 @@
         "Emails",
         "Advertisements"
       ],
-      "reasoning": "These topics reflect the influence of technology and digital communication in modern life, allowing candidates to demonstrate their ability to discuss contemporary issues and trends."
-    },
-    {
-      "theme_number": 4,
-      "theme_name": "Hobbies and Interests",
-      "subtopics": [
-        "Reading",
-        "Sports",
-        "Art",
-        "Collecting things"
-      ],
-      "reasoning": "These topics explore personal interests and leisure activities, providing opportunities for candidates to showcase their vocabulary and ability to elaborate on their passions."
+      "reasoning": "These topics reflect the influence of technology and digital communication in modern life, providing opportunities for candidates to discuss contemporary trends and their personal experiences with technology."
     },
     {
       "theme_number": 5,
@@ -52,31 +53,33 @@
         "Study",
         "Work",
         "Dreams",
-        "Talents"
+        "Talents",
+        "Time management"
       ],
-      "reasoning": "These topics focus on self-improvement, career, and future goals, enabling candidates to discuss their ambitions and reflect on their personal growth."
+      "reasoning": "These topics focus on personal growth, career, and future goals, enabling candidates to showcase their ability to discuss aspirations, challenges, and self-improvement."
     },
     {
       "theme_number": 6,
       "theme_name": "Cultural and Historical Awareness",
       "subtopics": [
-        "Hometown",
         "Old buildings",
-        "Street markets",
-        "Colors"
+        "Hometown",
+        "Art",
+        "Street markets"
       ],
-      "reasoning": "These topics encourage candidates to discuss cultural heritage, traditions, and local environments, which are important for assessing their ability to describe and reflect on their cultural background."
+      "reasoning": "These topics encourage candidates to reflect on cultural heritage, traditions, and historical significance, which are often explored in IELTS to assess cultural awareness and descriptive skills."
     },
     {
       "theme_number": 7,
-      "theme_name": "Time and Lifestyle Management",
+      "theme_name": "Emotions and Experiences",
       "subtopics": [
-        "Time management",
-        "Watches",
-        "Evening time"
+        "Feeling bored",
+        "Lost and found",
+        "Mirrors",
+        "Watches"
       ],
-      "reasoning": "These topics revolve around time-related habits and lifestyle choices, allowing candidates to demonstrate their ability to discuss routines, priorities, and personal organization."
+      "reasoning": "These topics delve into personal emotions, memories, and experiences, allowing candidates to express themselves creatively and demonstrate their ability to narrate and reflect on past events."
     }
   ],
-  "summary": "The categorization aligns with IELTS Part 1's focus on familiar topics that allow candidates to demonstrate fluency, coherence, and vocabulary range. Each theme groups related subtopics to ensure a logical flow and provide opportunities for candidates to elaborate on their experiences, opinions, and preferences. This structure also reflects the exam's emphasis on personal, social, and cultural contexts."
+  "summary": "The categorization aligns with IELTS exam logic by grouping topics into themes that reflect common areas of human experience, such as daily life, social interactions, hobbies, technology, personal development, cultural awareness, and emotions. This structure ensures that candidates can demonstrate a wide range of vocabulary, fluency, and coherence while addressing familiar and relatable subjects."
 }

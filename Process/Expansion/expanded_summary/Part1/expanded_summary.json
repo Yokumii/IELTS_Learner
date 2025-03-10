@@ -1,0 +1,1013 @@
+{
+  "core_themes": [
+    {
+      "theme_number": 1,
+      "theme_name": "Daily Life and Personal Preferences",
+      "subtopics": [
+        "Old buildings",
+        "Accommodation",
+        "Evening time",
+        "Sitting down",
+        "Colors"
+      ],
+      "reasoning": "These topics revolve around personal habits, living environments, and preferences, which are common in IELTS Part 1 to assess the candidate's ability to describe their daily life and express opinions about familiar settings.",
+      "expanded_topics": [
+        {
+          "topic": "**Morning Routines Across Cultures** – Compare how people in different countries start their day and the significance of morning rituals."
+        },
+        {
+          "topic": "**The Role of Family Meals** – Discuss the importance of family dinners and how they differ across cultures."
+        },
+        {
+          "topic": "**Personal Workspaces at Home** – Describe your ideal home office setup and how it affects productivity."
+        },
+        {
+          "topic": "**The Impact of Colors on Mood** – How do different colors influence your emotions and daily life?"
+        },
+        {
+          "topic": "**Evening Relaxation Habits** – What activities do you enjoy in the evening to unwind, and how do they vary globally?"
+        },
+        {
+          "topic": "**Traditional vs. Modern Housing** – Compare the pros and cons of living in old buildings versus modern apartments."
+        },
+        {
+          "topic": "**The Importance of Natural Light** – How does natural light in your living space affect your daily life?"
+        },
+        {
+          "topic": "**Cultural Differences in Sleeping Habits** – Discuss siestas, bedtime routines, and sleep duration across cultures."
+        },
+        {
+          "topic": "**Personalizing Living Spaces** – How do you decorate your home to reflect your personality?"
+        },
+        {
+          "topic": "**The Role of Technology in Daily Life** – How has technology changed your daily routines and preferences?"
+        },
+        {
+          "topic": "**Favorite Hobbies and Their Benefits** – What hobbies do you enjoy, and how do they enhance your life?"
+        },
+        {
+          "topic": "**The Significance of Outdoor Spaces** – How do parks, gardens, or balconies influence your well-being?"
+        },
+        {
+          "topic": "**Cultural Attitudes Toward Clutter** – How do different cultures view cleanliness and organization in daily life?"
+        },
+        {
+          "topic": "**The Art of Sitting Comfortably** – Discuss the importance of ergonomic furniture and sitting habits."
+        },
+        {
+          "topic": "**Daily Commuting Experiences** – Compare commuting methods and their impact on daily life in urban vs. rural areas."
+        },
+        {
+          "topic": "**The Role of Music in Daily Life** – How does music influence your mood and daily activities?"
+        },
+        {
+          "topic": "**Cultural Perspectives on Time Management** – How do different cultures prioritize tasks and manage time?"
+        },
+        {
+          "topic": "**The Influence of Seasons on Daily Life** – How do seasonal changes affect your routines and preferences?"
+        },
+        {
+          "topic": "**The Role of Pets in Daily Life** – How do pets contribute to your daily happiness and routines?"
+        },
+        {
+          "topic": "**Personal Fitness Routines** – Describe your exercise habits and how they fit into your daily schedule."
+        },
+        {
+          "topic": "**Cultural Differences in Socializing** – How do people in different cultures spend their free time with friends and family?"
+        },
+        {
+          "topic": "**The Impact of Smart Homes** – How do smart devices and automation influence your daily life?"
+        },
+        {
+          "topic": "**The Role of Art in Living Spaces** – How does art or decor in your home reflect your personal tastes?"
+        },
+        {
+          "topic": "**Cultural Attitudes Toward Work-Life Balance** – How do different societies balance work and personal life?"
+        },
+        {
+          "topic": "**The Importance of Personal Hygiene Routines** – How do daily hygiene habits vary across cultures?"
+        },
+        {
+          "topic": "**The Role of Food in Daily Life** – How do your food preferences and eating habits shape your day?"
+        },
+        {
+          "topic": "**Cultural Perspectives on Privacy** – How do different cultures view privacy in living spaces?"
+        },
+        {
+          "topic": "**The Influence of Fashion on Daily Life** – How do your clothing choices reflect your personality and daily activities?"
+        },
+        {
+          "topic": "**The Role of Books in Daily Life** – How do reading habits influence your daily routines and preferences?"
+        },
+        {
+          "topic": "**Cultural Differences in Greetings** – How do greetings vary across cultures, and what do they reveal about daily life?"
+        },
+        {
+          "topic": "**The Impact of Social Media on Daily Life** – How does social media shape your daily habits and interactions?"
+        },
+        {
+          "topic": "**The Role of Meditation and Mindfulness** – How do mindfulness practices fit into your daily routine?"
+        },
+        {
+          "topic": "**Cultural Perspectives on Gift-Giving** – How do gift-giving traditions reflect daily life and relationships?"
+        },
+        {
+          "topic": "**The Influence of Weather on Daily Activities** – How does weather affect your daily plans and preferences?"
+        },
+        {
+          "topic": "**The Role of Festivals in Daily Life** – How do cultural festivals influence your routines and traditions?"
+        },
+        {
+          "topic": "**Personal Preferences in Entertainment** – What forms of entertainment do you enjoy, and how do they fit into your day?"
+        },
+        {
+          "topic": "**Cultural Attitudes Toward Aging** – How do different societies view aging and its impact on daily life?"
+        },
+        {
+          "topic": "**The Role of Community in Daily Life** – How does your community influence your daily routines and preferences?"
+        },
+        {
+          "topic": "**The Impact of Urbanization on Daily Life** – How has living in a city changed your daily habits and preferences?"
+        },
+        {
+          "topic": "**Cultural Perspectives on Personal Space** – How do different cultures define and respect personal space?"
+        },
+        {
+          "topic": "**The Role of Technology in Communication** – How has technology changed the way you communicate daily?"
+        },
+        {
+          "topic": "**Cultural Differences in Meal Times** – How do meal times and eating habits vary across cultures?"
+        },
+        {
+          "topic": "**The Role of Nature in Daily Life** – How does spending time in nature influence your daily well-being?"
+        },
+        {
+          "topic": "**Cultural Attitudes Toward Noise Levels** – How do different cultures view noise in daily living environments?"
+        },
+        {
+          "topic": "**The Role of Travel in Daily Life** – How do short trips or weekend getaways influence your daily routines?"
+        },
+        {
+          "topic": "**Cultural Perspectives on Personal Growth** – How do different cultures encourage self-improvement in daily life?"
+        },
+        {
+          "topic": "**The Role of Volunteering in Daily Life** – How does volunteering fit into your daily or weekly routine?"
+        },
+        {
+          "topic": "**Cultural Differences in Celebrating Milestones** – How do different cultures celebrate personal achievements and milestones?"
+        },
+        {
+          "topic": "**The Role of Technology in Learning** – How has technology changed the way you learn or acquire new skills daily?"
+        },
+        {
+          "topic": "**Cultural Perspectives on Leisure Time** – How do different cultures view and utilize leisure time?"
+        },
+        {
+          "topic": "**The Role of Friendships in Daily Life** – How do friendships influence your daily routines and preferences?"
+        }
+      ]
+    },
+    {
+      "theme_number": 2,
+      "theme_name": "Social Interactions and Relationships",
+      "subtopics": [
+        "Friends",
+        "Borrowing and lending",
+        "Stories",
+        "Hometown"
+      ],
+      "reasoning": "These topics focus on interpersonal relationships, social activities, and community connections, which are essential for evaluating the candidate's ability to discuss social dynamics and personal experiences.",
+      "expanded_topics": []
+    },
+    {
+      "theme_number": 3,
+      "theme_name": "Hobbies and Leisure Activities",
+      "subtopics": [
+        "Reading",
+        "Sports",
+        "Swimming",
+        "Art",
+        "Collecting things"
+      ],
+      "reasoning": "These topics explore the candidate's interests, hobbies, and leisure activities, allowing them to demonstrate vocabulary related to recreation and personal enjoyment.",
+      "expanded_topics": [
+        {
+          "topic": "**Reading Habits Across Cultures** – Compare how reading preferences and habits vary between cultures, such as fiction vs. non-fiction or digital vs. physical books."
+        },
+        {
+          "topic": "**Team Sports vs. Individual Sports** – Discuss the benefits and challenges of participating in team sports compared to individual sports."
+        },
+        {
+          "topic": "**Swimming as a Lifelong Skill** – Explore the importance of learning to swim and how it can be a hobby that spans all ages."
+        },
+        {
+          "topic": "**Art as a Form of Therapy** – Examine how engaging in art (painting, drawing, etc.) can improve mental health and well-being."
+        },
+        {
+          "topic": "**The Psychology of Collecting** – Analyze why people collect items (e.g., stamps, coins, memorabilia) and the emotional value attached to collections."
+        },
+        {
+          "topic": "**Hobbies in the Digital Age** – How technology has transformed traditional hobbies (e.g., online gaming, virtual art classes)."
+        },
+        {
+          "topic": "**Outdoor vs. Indoor Hobbies** – Compare the benefits of outdoor activities like hiking with indoor hobbies like knitting or reading."
+        },
+        {
+          "topic": "**Hobbies and Social Connections** – Discuss how hobbies can help people build friendships and communities."
+        },
+        {
+          "topic": "**The Role of Hobbies in Stress Relief** – Explore how engaging in leisure activities can reduce stress and improve work-life balance."
+        },
+        {
+          "topic": "**Hobbies Across Different Life Stages** – How hobbies change from childhood to adulthood and into retirement."
+        },
+        {
+          "topic": "**The Influence of Culture on Leisure Activities** – Compare how cultural traditions shape leisure activities in different countries."
+        },
+        {
+          "topic": "**The Rise of DIY Hobbies** – Discuss the popularity of DIY (do-it-yourself) hobbies like crafting, woodworking, or home improvement."
+        },
+        {
+          "topic": "**Hobbies and Personal Identity** – How hobbies reflect a person’s interests, values, and personality."
+        },
+        {
+          "topic": "**The Economic Impact of Hobbies** – Explore how hobbies can become profitable (e.g., selling art, starting a YouTube channel)."
+        },
+        {
+          "topic": "**Hobbies and Physical Health** – Discuss how physical hobbies like dancing, yoga, or cycling contribute to overall health."
+        },
+        {
+          "topic": "**The Role of Hobbies in Education** – How hobbies can complement formal education and enhance learning."
+        },
+        {
+          "topic": "**Hobbies in the Workplace** – How companies encourage employees to pursue hobbies for better productivity and morale."
+        },
+        {
+          "topic": "**The Environmental Impact of Hobbies** – Analyze how certain hobbies (e.g., gardening, upcycling) can be eco-friendly."
+        },
+        {
+          "topic": "**Hobbies and Technology Addiction** – Discuss the balance between screen-based hobbies and offline activities."
+        },
+        {
+          "topic": "**The Evolution of Hobbies Over Time** – How hobbies have changed from past generations to the present day."
+        },
+        {
+          "topic": "**Hobbies and Cultural Preservation** – Explore how traditional hobbies (e.g., folk dancing, pottery) help preserve cultural heritage."
+        },
+        {
+          "topic": "**The Role of Hobbies in Career Development** – How hobbies can influence career choices or provide transferable skills."
+        },
+        {
+          "topic": "**Hobbies and Time Management** – Discuss how people balance hobbies with work, family, and other commitments."
+        },
+        {
+          "topic": "**The Influence of Social Media on Hobbies** – How platforms like Instagram or TikTok have popularized certain hobbies."
+        },
+        {
+          "topic": "**Hobbies and Mental Stimulation** – Explore how hobbies like puzzles, chess, or learning languages keep the mind active."
+        },
+        {
+          "topic": "**The Role of Hobbies in Building Resilience** – How hobbies can help individuals cope with challenges or setbacks."
+        },
+        {
+          "topic": "**Hobbies and Intergenerational Bonding** – Discuss how hobbies can bring different generations together (e.g., cooking, gardening)."
+        },
+        {
+          "topic": "**The Role of Hobbies in Retirement** – How retirees use hobbies to stay active and engaged."
+        },
+        {
+          "topic": "**Hobbies and Creativity** – Explore how hobbies like writing, photography, or music foster creativity."
+        },
+        {
+          "topic": "**The Role of Hobbies in Travel** – How hobbies like photography or birdwatching enhance travel experiences."
+        },
+        {
+          "topic": "**Hobbies and Community Involvement** – Discuss how hobbies can lead to volunteering or community service."
+        },
+        {
+          "topic": "**The Role of Hobbies in Personal Growth** – How hobbies help individuals learn new skills and build confidence."
+        },
+        {
+          "topic": "**Hobbies and Seasonal Changes** – How hobbies adapt to different seasons (e.g., skiing in winter, gardening in summer)."
+        },
+        {
+          "topic": "**Hobbies and Cultural Exchange** – How hobbies can introduce people to new cultures (e.g., cooking international cuisines)."
+        },
+        {
+          "topic": "**The Role of Hobbies in Family Life** – How families bond over shared hobbies or activities."
+        },
+        {
+          "topic": "**Hobbies and Financial Investment** – Discuss hobbies that require significant financial investment (e.g., car restoration, photography)."
+        },
+        {
+          "topic": "**Hobbies and Minimalism** – Explore how hobbies align with minimalist lifestyles (e.g., reading, hiking)."
+        },
+        {
+          "topic": "**Hobbies and Urban vs. Rural Living** – How location influences the types of hobbies people pursue."
+        },
+        {
+          "topic": "**Hobbies and Gender Stereotypes** – Discuss how certain hobbies are traditionally associated with specific genders and how this is changing."
+        },
+        {
+          "topic": "**Hobbies and Accessibility** – Explore how hobbies can be adapted for people with disabilities or limited resources."
+        },
+        {
+          "topic": "**Hobbies and Mental Health Awareness** – How hobbies are used in therapeutic settings to support mental health recovery."
+        },
+        {
+          "topic": "**Hobbies and Technology-Free Living** – Discuss the appeal of hobbies that don’t involve technology (e.g., knitting, gardening)."
+        },
+        {
+          "topic": "**Hobbies and Historical Significance** – Explore hobbies that have historical roots (e.g., calligraphy, archery)."
+        },
+        {
+          "topic": "**Hobbies and Globalization** – How global trends influence local hobbies and leisure activities."
+        },
+        {
+          "topic": "**Hobbies and Personal Fulfillment** – Discuss how hobbies contribute to a sense of purpose and satisfaction."
+        },
+        {
+          "topic": "**Hobbies and Lifelong Learning** – How hobbies encourage continuous learning and skill development."
+        },
+        {
+          "topic": "**Hobbies and Environmental Awareness** – Explore hobbies that promote sustainability (e.g., upcycling, urban gardening)."
+        },
+        {
+          "topic": "**Hobbies and Cultural Adaptation** – How immigrants or expats use hobbies to adapt to new cultures."
+        },
+        {
+          "topic": "**Hobbies and Digital Detox** – Discuss the role of hobbies in helping people disconnect from technology."
+        },
+        {
+          "topic": "**Hobbies and Future Trends** – Predict how hobbies might evolve with advancements in technology and society."
+        }
+      ]
+    },
+    {
+      "theme_number": 4,
+      "theme_name": "Technology and Modern Life",
+      "subtopics": [
+        "Websites",
+        "Computers",
+        "Emails",
+        "Advertisements"
+      ],
+      "reasoning": "These topics reflect the influence of technology and digital communication in modern life, providing opportunities for candidates to discuss contemporary trends and their personal experiences with technology.",
+      "expanded_topics": [
+        {
+          "topic": "**The Role of Smartphones in Daily Life** – How smartphones have transformed communication, work, and entertainment."
+        },
+        {
+          "topic": "**Online Learning vs. Traditional Classrooms** – Compare the effectiveness and challenges of digital education versus in-person learning."
+        },
+        {
+          "topic": "**Social Media and Mental Health** – Discuss the impact of social media on self-esteem, relationships, and mental well-being."
+        },
+        {
+          "topic": "**Remote Work and Work-Life Balance** – How technology has enabled remote work and its effects on personal and professional life."
+        },
+        {
+          "topic": "**E-commerce and Shopping Habits** – The rise of online shopping and its impact on traditional retail stores."
+        },
+        {
+          "topic": "**Artificial Intelligence in Everyday Life** – How AI is used in personal assistants, healthcare, and other industries."
+        },
+        {
+          "topic": "**Cybersecurity and Privacy Concerns** – The importance of protecting personal data in the digital age."
+        },
+        {
+          "topic": "**The Digital Divide** – How access to technology varies across different socioeconomic groups and regions."
+        },
+        {
+          "topic": "**Technology in Healthcare** – The use of telemedicine, wearable devices, and health apps in modern healthcare."
+        },
+        {
+          "topic": "**The Impact of Streaming Services** – How platforms like Netflix and Spotify have changed entertainment consumption."
+        },
+        {
+          "topic": "**Gaming and Its Influence on Society** – The cultural and social impact of video games on individuals and communities."
+        },
+        {
+          "topic": "**Technology and Environmental Sustainability** – How tech innovations can help or harm the environment."
+        },
+        {
+          "topic": "**The Future of Transportation** – Discuss advancements like electric vehicles, self-driving cars, and hyperloops."
+        },
+        {
+          "topic": "**Digital Nomadism** – How technology enables people to work and travel simultaneously."
+        },
+        {
+          "topic": "**Technology and Aging Populations** – How tech assists elderly individuals in maintaining independence and health."
+        },
+        {
+          "topic": "**The Role of Technology in Disaster Management** – How tech is used in predicting, responding to, and recovering from natural disasters."
+        },
+        {
+          "topic": "**Smart Homes and IoT Devices** – The benefits and challenges of living in a connected home environment."
+        },
+        {
+          "topic": "**Technology in Agriculture** – How innovations like drones and AI are transforming farming practices."
+        },
+        {
+          "topic": "**The Influence of Technology on Language Learning** – The role of apps and online platforms in acquiring new languages."
+        },
+        {
+          "topic": "**Virtual Reality and Augmented Reality** – How VR and AR are used in gaming, education, and training."
+        },
+        {
+          "topic": "**Technology and Political Activism** – The role of social media and digital tools in modern political movements."
+        },
+        {
+          "topic": "**The Ethics of AI and Automation** – Discuss concerns about job displacement and ethical decision-making by machines."
+        },
+        {
+          "topic": "**Technology and Family Dynamics** – How devices and apps affect communication and relationships within families."
+        },
+        {
+          "topic": "**The Evolution of Email Communication** – How email has changed over time and its role in modern workplaces."
+        },
+        {
+          "topic": "**The Role of Technology in Creative Industries** – How tools like digital art software and music production apps have transformed creativity."
+        },
+        {
+          "topic": "**Technology and Urban Planning** – How smart city technologies are shaping the future of urban living."
+        },
+        {
+          "topic": "**The Impact of Technology on Traditional Media** – How newspapers, TV, and radio have adapted to the digital age."
+        },
+        {
+          "topic": "**Technology and Personal Fitness** – The role of fitness trackers, apps, and online workouts in maintaining health."
+        },
+        {
+          "topic": "**The Rise of Influencers and Content Creators** – How technology has enabled new career paths in social media and content creation."
+        },
+        {
+          "topic": "**Technology and Accessibility** – How tech innovations are improving accessibility for people with disabilities."
+        },
+        {
+          "topic": "**The Role of Technology in Financial Management** – The rise of online banking, budgeting apps, and cryptocurrency."
+        },
+        {
+          "topic": "**Technology and Food Delivery Services** – How apps like Uber Eats and DoorDash have changed dining habits."
+        },
+        {
+          "topic": "**The Impact of Technology on Travel Planning** – How apps and websites have simplified booking flights, hotels, and itineraries."
+        },
+        {
+          "topic": "**Technology and Child Development** – The effects of screen time and educational apps on children’s growth and learning."
+        },
+        {
+          "topic": "**The Role of Technology in Scientific Research** – How digital tools and AI are accelerating discoveries in various fields."
+        },
+        {
+          "topic": "**Technology and Language Translation** – The accuracy and limitations of tools like Google Translate in cross-cultural communication."
+        },
+        {
+          "topic": "**The Impact of Technology on Traditional Hobbies** – How digital tools have influenced activities like photography, knitting, or gardening."
+        },
+        {
+          "topic": "**Technology and Public Safety** – How tech is used in surveillance, emergency response, and crime prevention."
+        },
+        {
+          "topic": "**The Role of Technology in Sports** – How innovations like wearable tech and data analytics are changing the sports industry."
+        },
+        {
+          "topic": "**Technology and Personal Branding** – How individuals use social media and websites to build their personal brands."
+        },
+        {
+          "topic": "**The Impact of Technology on Time Management** – How apps and tools help people organize their schedules and tasks."
+        },
+        {
+          "topic": "**Technology and Cultural Preservation** – How digital archives and virtual museums are preserving cultural heritage."
+        },
+        {
+          "topic": "**The Role of Technology in Reducing Loneliness** – How social media and online communities connect isolated individuals."
+        },
+        {
+          "topic": "**Technology and Pet Care** – How apps and devices are improving the health and well-being of pets."
+        },
+        {
+          "topic": "**The Impact of Technology on Dating and Relationships** – How dating apps have changed the way people meet and form connections."
+        },
+        {
+          "topic": "**Technology and Energy Consumption** – How smart devices and renewable energy tech are reducing environmental impact."
+        },
+        {
+          "topic": "**The Role of Technology in Crisis Communication** – How digital tools are used during emergencies to disseminate information."
+        },
+        {
+          "topic": "**Technology and Personal Privacy** – The trade-offs between convenience and privacy in the digital age."
+        },
+        {
+          "topic": "**The Future of Human-Computer Interaction** – How advancements like brain-computer interfaces could change the way we interact with technology."
+        }
+      ]
+    },
+    {
+      "theme_number": 5,
+      "theme_name": "Personal Development and Aspirations",
+      "subtopics": [
+        "Study",
+        "Work",
+        "Dreams",
+        "Talents",
+        "Time management"
+      ],
+      "reasoning": "These topics focus on personal growth, career, and future goals, enabling candidates to showcase their ability to discuss aspirations, challenges, and self-improvement.",
+      "expanded_topics": [
+        {
+          "topic": "**Expanded Topic 1: Lifelong Learning** – Discuss the importance of continuous education and skill development throughout one's life."
+        },
+        {
+          "topic": "**Expanded Topic 2: Career Transitions** – Share experiences or plans about switching careers and the challenges involved."
+        },
+        {
+          "topic": "**Expanded Topic 3: Setting SMART Goals** – Explain how setting Specific, Measurable, Achievable, Relevant, and Time-bound goals can help in personal growth."
+        },
+        {
+          "topic": "**Expanded Topic 4: Work-Life Balance** – Discuss strategies to maintain a healthy balance between professional and personal life."
+        },
+        {
+          "topic": "**Expanded Topic 5: Overcoming Failure** – Talk about a time you failed and how you learned from the experience."
+        },
+        {
+          "topic": "**Expanded Topic 6: Mentorship and Guidance** – Describe the role of mentors in personal and professional development."
+        },
+        {
+          "topic": "**Expanded Topic 7: Cultural Influences on Ambitions** – Compare how cultural backgrounds shape people’s aspirations in different countries."
+        },
+        {
+          "topic": "**Expanded Topic 8: The Role of Hobbies in Self-Improvement** – Discuss how hobbies contribute to personal growth and stress management."
+        },
+        {
+          "topic": "**Expanded Topic 9: Digital Skills for the Future** – Explain why digital literacy is essential for career advancement in the modern world."
+        },
+        {
+          "topic": "**Expanded Topic 10: The Impact of Travel on Personal Growth** – Share how traveling has broadened your perspective or influenced your goals."
+        },
+        {
+          "topic": "**Expanded Topic 11: Time Management Techniques** – Discuss effective strategies for managing time and prioritizing tasks."
+        },
+        {
+          "topic": "**Expanded Topic 12: The Importance of Networking** – Explain how building professional relationships can help achieve career goals."
+        },
+        {
+          "topic": "**Expanded Topic 13: Pursuing Passion vs. Financial Stability** – Debate whether it’s better to follow one’s passion or choose a financially stable career."
+        },
+        {
+          "topic": "**Expanded Topic 14: The Role of Family in Shaping Aspirations** – Discuss how family expectations influence personal and career goals."
+        },
+        {
+          "topic": "**Expanded Topic 15: Volunteering and Personal Development** – Share how volunteering has contributed to your skills and outlook on life."
+        },
+        {
+          "topic": "**Expanded Topic 16: The Influence of Role Models** – Talk about someone who inspires you and how they’ve impacted your aspirations."
+        },
+        {
+          "topic": "**Expanded Topic 17: Adapting to Change** – Discuss how you handle unexpected changes in your personal or professional life."
+        },
+        {
+          "topic": "**Expanded Topic 18: The Value of Self-Reflection** – Explain how reflecting on your experiences helps you grow as a person."
+        },
+        {
+          "topic": "**Expanded Topic 19: The Role of Technology in Skill Development** – Discuss how online courses and apps have made learning more accessible."
+        },
+        {
+          "topic": "**Expanded Topic 20: Building Resilience** – Share strategies for staying motivated and resilient in the face of challenges."
+        },
+        {
+          "topic": "**Expanded Topic 21: The Importance of Emotional Intelligence** – Explain how understanding emotions can improve personal and professional relationships."
+        },
+        {
+          "topic": "**Expanded Topic 22: Cultural Differences in Work Ethics** – Compare work ethics and attitudes toward ambition in different cultures."
+        },
+        {
+          "topic": "**Expanded Topic 23: The Role of Luck vs. Hard Work** – Debate whether success is more about luck or consistent effort."
+        },
+        {
+          "topic": "**Expanded Topic 24: The Impact of Social Media on Aspirations** – Discuss how social media influences people’s goals and self-perception."
+        },
+        {
+          "topic": "**Expanded Topic 25: The Role of Education in Career Success** – Explain how formal education has shaped your career path."
+        },
+        {
+          "topic": "**Expanded Topic 26: The Importance of Taking Risks** – Share a time when taking a risk led to personal or professional growth."
+        },
+        {
+          "topic": "**Expanded Topic 27: The Role of Creativity in Problem-Solving** – Discuss how creative thinking has helped you overcome challenges."
+        },
+        {
+          "topic": "**Expanded Topic 28: The Influence of Childhood Dreams** – Reflect on how your childhood aspirations have evolved over time."
+        },
+        {
+          "topic": "**Expanded Topic 29: The Role of Language Skills in Global Careers** – Explain how learning a new language has expanded your opportunities."
+        },
+        {
+          "topic": "**Expanded Topic 30: The Impact of Health on Personal Growth** – Discuss how physical and mental health affect your ability to achieve goals."
+        },
+        {
+          "topic": "**Expanded Topic 31: The Role of Financial Planning in Achieving Goals** – Share how budgeting and saving have helped you work toward your aspirations."
+        },
+        {
+          "topic": "**Expanded Topic 32: The Importance of Adaptability in the Workplace** – Discuss how being adaptable has helped you succeed in your career."
+        },
+        {
+          "topic": "**Expanded Topic 33: The Role of Feedback in Self-Improvement** – Explain how receiving constructive feedback has helped you grow."
+        },
+        {
+          "topic": "**Expanded Topic 34: The Influence of Peer Pressure on Aspirations** – Discuss how friends and peers have shaped your goals and decisions."
+        },
+        {
+          "topic": "**Expanded Topic 35: The Role of Reading in Personal Development** – Share how reading books has contributed to your knowledge and growth."
+        },
+        {
+          "topic": "**Expanded Topic 36: The Importance of Cultural Awareness in Global Careers** – Discuss how understanding different cultures has helped you in your professional life."
+        },
+        {
+          "topic": "**Expanded Topic 37: The Role of Discipline in Achieving Goals** – Explain how self-discipline has been key to your success."
+        },
+        {
+          "topic": "**Expanded Topic 38: The Impact of Age on Aspirations** – Discuss how your goals have changed as you’ve grown older."
+        },
+        {
+          "topic": "**Expanded Topic 39: The Role of Positive Thinking** – Share how maintaining a positive mindset has helped you overcome challenges."
+        },
+        {
+          "topic": "**Expanded Topic 40: The Importance of Networking Events** – Discuss how attending professional events has helped you build connections."
+        },
+        {
+          "topic": "**Expanded Topic 41: The Role of Internships in Career Development** – Share how internships have prepared you for your future career."
+        },
+        {
+          "topic": "**Expanded Topic 42: The Influence of Media on Career Choices** – Discuss how movies, TV shows, or books have inspired your career aspirations."
+        },
+        {
+          "topic": "**Expanded Topic 43: The Role of Passion Projects** – Share how pursuing a personal project has contributed to your growth."
+        },
+        {
+          "topic": "**Expanded Topic 44: The Importance of Work Experience** – Discuss how part-time jobs or internships have shaped your career goals."
+        },
+        {
+          "topic": "**Expanded Topic 45: The Role of Self-Confidence in Success** – Explain how building self-confidence has helped you achieve your aspirations."
+        },
+        {
+          "topic": "**Expanded Topic 46: The Impact of Globalization on Career Opportunities** – Discuss how global trends have influenced your career choices."
+        },
+        {
+          "topic": "**Expanded Topic 47: The Role of Failure in Building Resilience** – Share how experiencing failure has made you stronger and more determined."
+        },
+        {
+          "topic": "**Expanded Topic 48: The Importance of Setting Boundaries** – Discuss how setting personal and professional boundaries has improved your life."
+        },
+        {
+          "topic": "**Expanded Topic 49: The Role of Curiosity in Personal Growth** – Explain how staying curious has helped you learn and grow."
+        },
+        {
+          "topic": "**Expanded Topic 50: The Impact of Cultural Traditions on Aspirations** – Discuss how cultural traditions have influenced your goals and values."
+        }
+      ]
+    },
+    {
+      "theme_number": 6,
+      "theme_name": "Cultural and Historical Awareness",
+      "subtopics": [
+        "Old buildings",
+        "Hometown",
+        "Art",
+        "Street markets"
+      ],
+      "reasoning": "These topics encourage candidates to reflect on cultural heritage, traditions, and historical significance, which are often explored in IELTS to assess cultural awareness and descriptive skills.",
+      "expanded_topics": [
+        {
+          "topic": "**Preservation of Historical Monuments** – Discuss the importance of maintaining old buildings and monuments for future generations."
+        },
+        {
+          "topic": "**Cultural Festivals in Your Hometown** – Describe a traditional festival in your hometown and its significance."
+        },
+        {
+          "topic": "**The Role of Museums in Preserving History** – How do museums contribute to cultural and historical awareness?"
+        },
+        {
+          "topic": "**Traditional Foods and Their Cultural Significance** – Explore how certain dishes reflect a country’s history and traditions."
+        },
+        {
+          "topic": "**The Impact of Urbanization on Historical Sites** – How does modern development affect the preservation of old buildings?"
+        },
+        {
+          "topic": "**Cultural Differences in Celebrating National Holidays** – Compare how different countries celebrate their national days."
+        },
+        {
+          "topic": "**The Influence of Colonial History on Modern Culture** – How has colonial history shaped the culture of a country?"
+        },
+        {
+          "topic": "**Street Markets as Cultural Hubs** – Discuss the role of street markets in showcasing local traditions and crafts."
+        },
+        {
+          "topic": "**Traditional Clothing and Its Evolution** – How has traditional attire changed over time, and what does it symbolize?"
+        },
+        {
+          "topic": "**The Role of Art in Documenting History** – How do paintings, sculptures, and other art forms preserve historical events?"
+        },
+        {
+          "topic": "**Cultural Heritage in School Curriculums** – Should schools teach more about local history and traditions? Why or why not?"
+        },
+        {
+          "topic": "**The Importance of Oral History** – How do stories passed down through generations contribute to cultural awareness?"
+        },
+        {
+          "topic": "**The Role of Libraries in Preserving Culture** – How do libraries help maintain historical records and cultural knowledge?"
+        },
+        {
+          "topic": "**Cultural Exchange Programs** – Discuss the benefits of cultural exchange programs for students and professionals."
+        },
+        {
+          "topic": "**The Influence of Historical Figures on Modern Society** – How do historical leaders or thinkers impact today’s culture?"
+        },
+        {
+          "topic": "**The Decline of Traditional Crafts** – Why are some traditional crafts disappearing, and how can they be preserved?"
+        },
+        {
+          "topic": "**Cultural Significance of Street Art** – How does street art reflect a city’s history and culture?"
+        },
+        {
+          "topic": "**The Role of Religion in Shaping Culture** – How does religion influence cultural practices and traditions?"
+        },
+        {
+          "topic": "**The Impact of Tourism on Cultural Heritage** – Discuss the positive and negative effects of tourism on historical sites."
+        },
+        {
+          "topic": "**Cultural Awareness in the Workplace** – How can understanding cultural differences improve workplace dynamics?"
+        },
+        {
+          "topic": "**The Role of Music in Preserving Culture** – How does traditional music reflect a country’s history and identity?"
+        },
+        {
+          "topic": "**The Evolution of Traditional Dances** – How have traditional dances changed over time, and why are they important?"
+        },
+        {
+          "topic": "**Cultural Significance of Historical Battles** – How do historical conflicts shape a nation’s identity?"
+        },
+        {
+          "topic": "**The Role of Language in Preserving Culture** – How does language reflect a community’s history and traditions?"
+        },
+        {
+          "topic": "**The Influence of Immigration on Cultural Diversity** – How has immigration shaped the culture of your country?"
+        },
+        {
+          "topic": "**The Role of Folklore in Cultural Identity** – How do myths and legends contribute to a community’s sense of identity?"
+        },
+        {
+          "topic": "**The Importance of Cultural Awareness in Education** – Why should students learn about different cultures and histories?"
+        },
+        {
+          "topic": "**The Role of Technology in Preserving Cultural Heritage** – How can digital tools help protect and share cultural traditions?"
+        },
+        {
+          "topic": "**The Cultural Significance of Historical Artifacts** – Why are artifacts important, and how should they be protected?"
+        },
+        {
+          "topic": "**The Impact of Globalization on Cultural Traditions** – How has globalization affected local customs and traditions?"
+        },
+        {
+          "topic": "**The Role of Historical Reenactments** – How do reenactments help people understand and appreciate history?"
+        },
+        {
+          "topic": "**Cultural Awareness in International Relations** – Why is it important for countries to understand each other’s cultures?"
+        },
+        {
+          "topic": "**The Role of Historical Novels in Understanding the Past** – How do historical novels contribute to cultural awareness?"
+        },
+        {
+          "topic": "**The Cultural Significance of Ancient Ruins** – Why are ancient ruins important, and how should they be preserved?"
+        },
+        {
+          "topic": "**The Role of Cultural Awareness in Conflict Resolution** – How can understanding cultural differences help resolve conflicts?"
+        },
+        {
+          "topic": "**The Influence of Historical Events on Modern Art** – How do historical events inspire contemporary artists?"
+        },
+        {
+          "topic": "**The Role of Cultural Awareness in Media** – How can media promote cultural understanding and respect?"
+        },
+        {
+          "topic": "**The Cultural Significance of Traditional Games** – How do traditional games reflect a community’s history and values?"
+        },
+        {
+          "topic": "**The Role of Cultural Awareness in Healthcare** – Why is it important for healthcare professionals to understand cultural differences?"
+        },
+        {
+          "topic": "**The Influence of Historical Architecture on Modern Design** – How does historical architecture inspire modern buildings?"
+        },
+        {
+          "topic": "**The Role of Cultural Awareness in Environmental Conservation** – How do cultural beliefs influence attitudes toward nature?"
+        },
+        {
+          "topic": "**The Cultural Significance of Historical Clothing** – How does clothing reflect the history and values of a society?"
+        },
+        {
+          "topic": "**The Role of Cultural Awareness in Business** – How can understanding cultural differences improve international business relations?"
+        },
+        {
+          "topic": "**The Influence of Historical Literature on Modern Culture** – How do classic literary works shape contemporary culture?"
+        },
+        {
+          "topic": "**The Role of Cultural Awareness in Social Media** – How can social media promote or hinder cultural understanding?"
+        },
+        {
+          "topic": "**The Cultural Significance of Historical Gardens** – How do historical gardens reflect a society’s values and traditions?"
+        },
+        {
+          "topic": "**The Role of Cultural Awareness in Sports** – How does cultural understanding enhance international sports events?"
+        },
+        {
+          "topic": "**The Influence of Historical Figures on Modern Education** – How do historical educators inspire today’s teaching methods?"
+        },
+        {
+          "topic": "**The Role of Cultural Awareness in Food Trends** – How do cultural traditions influence global food trends?"
+        },
+        {
+          "topic": "**The Cultural Significance of Historical Music Festivals** – How do music festivals reflect a society’s history and identity?"
+        }
+      ]
+    },
+    {
+      "theme_number": 7,
+      "theme_name": "Emotions and Experiences",
+      "subtopics": [
+        "Feeling bored",
+        "Lost and found",
+        "Mirrors",
+        "Watches"
+      ],
+      "reasoning": "These topics delve into personal emotions, memories, and experiences, allowing candidates to express themselves creatively and demonstrate their ability to narrate and reflect on past events.",
+      "expanded_topics": [
+        {
+          "topic": "**Feeling Bored at Work** – Discuss how boredom affects productivity and how people cope with monotonous tasks in the workplace."
+        },
+        {
+          "topic": "**Childhood Boredom** – Reflect on how children experience and deal with boredom compared to adults."
+        },
+        {
+          "topic": "**Boredom and Creativity** – Explore the idea that boredom can sometimes spark creativity and innovation."
+        },
+        {
+          "topic": "**Cultural Attitudes Towards Boredom** – Compare how different cultures view and handle boredom."
+        },
+        {
+          "topic": "**Boredom in the Digital Age** – Discuss whether technology has reduced or increased feelings of boredom."
+        },
+        {
+          "topic": "**Losing a Valuable Item** – Share a personal experience of losing something important and the emotions involved."
+        },
+        {
+          "topic": "**Finding Something Unexpected** – Describe a time when you found something surprising or valuable."
+        },
+        {
+          "topic": "**Lost and Found in Public Places** – Discuss the systems and processes in place for lost items in public spaces like airports or parks."
+        },
+        {
+          "topic": "**Emotional Impact of Losing a Pet** – Reflect on the feelings associated with losing a beloved pet."
+        },
+        {
+          "topic": "**Lost in Translation** – Explore the challenges and emotions of being lost in a foreign country due to language barriers."
+        },
+        {
+          "topic": "**Mirrors and Self-Perception** – Discuss how mirrors influence the way people see themselves and their self-esteem."
+        },
+        {
+          "topic": "**Cultural Significance of Mirrors** – Compare the role of mirrors in different cultures, such as in superstitions or rituals."
+        },
+        {
+          "topic": "**Mirrors in Art and Literature** – Explore the symbolic use of mirrors in various forms of art and storytelling."
+        },
+        {
+          "topic": "**Mirrors and Technology** – Discuss how modern technology, like smart mirrors, is changing the way people interact with their reflections."
+        },
+        {
+          "topic": "**A Time You Avoided Looking in the Mirror** – Share a personal experience where you avoided your reflection and why."
+        },
+        {
+          "topic": "**The Role of Watches in Time Management** – Discuss how wearing a watch can influence punctuality and time management."
+        },
+        {
+          "topic": "**Watches as Fashion Statements** – Explore how watches are used as accessories and status symbols in different cultures."
+        },
+        {
+          "topic": "**Emotional Value of Inherited Watches** – Reflect on the sentimental value of receiving a watch from a family member."
+        },
+        {
+          "topic": "**The Decline of Traditional Watches** – Discuss how smartphones have impacted the use of traditional watches."
+        },
+        {
+          "topic": "**A Memorable Watch You Owned** – Share a story about a watch that holds special meaning to you."
+        },
+        {
+          "topic": "**Dealing with Grief** – Discuss the different ways people cope with the loss of a loved one."
+        },
+        {
+          "topic": "**The Joy of Achieving a Goal** – Reflect on a time when you achieved something significant and the emotions you felt."
+        },
+        {
+          "topic": "**Feeling Overwhelmed** – Share an experience where you felt overwhelmed and how you managed the situation."
+        },
+        {
+          "topic": "**The Impact of Positive Feedback** – Discuss how receiving praise or positive feedback can influence emotions and motivation."
+        },
+        {
+          "topic": "**Nostalgia and Childhood Memories** – Explore the emotions tied to revisiting childhood memories or places."
+        },
+        {
+          "topic": "**The Role of Music in Shaping Emotions** – Discuss how music can influence and reflect your emotional state."
+        },
+        {
+          "topic": "**A Time You Felt Proud** – Share a personal experience where you felt a strong sense of pride."
+        },
+        {
+          "topic": "**Coping with Failure** – Reflect on how you deal with setbacks and the emotions involved."
+        },
+        {
+          "topic": "**The Feeling of Being Misunderstood** – Discuss an experience where you felt misunderstood and how it affected you."
+        },
+        {
+          "topic": "**The Excitement of New Beginnings** – Explore the emotions tied to starting a new chapter in life, such as a new job or moving to a new city."
+        },
+        {
+          "topic": "**The Role of Humor in Diffusing Tension** – Discuss how humor can be used to lighten emotional situations."
+        },
+        {
+          "topic": "**A Time You Felt Genuinely Happy** – Share a moment when you experienced pure happiness and why it was meaningful."
+        },
+        {
+          "topic": "**The Impact of Social Media on Emotions** – Explore how social media can both positively and negatively affect emotions."
+        },
+        {
+          "topic": "**The Feeling of Being Homesick** – Reflect on a time when you felt homesick and how you coped."
+        },
+        {
+          "topic": "**The Role of Pets in Emotional Support** – Discuss how pets can provide comfort and emotional stability."
+        },
+        {
+          "topic": "**The Emotions of Public Speaking** – Share your feelings and experiences when speaking in front of an audience."
+        },
+        {
+          "topic": "**A Time You Felt Betrayed** – Discuss an experience where you felt betrayed and how it impacted your emotions."
+        },
+        {
+          "topic": "**The Role of Travel in Shaping Emotions** – Explore how traveling to new places can evoke a range of emotions."
+        },
+        {
+          "topic": "**The Feeling of Accomplishment After Hard Work** – Reflect on a time when hard work led to a significant achievement."
+        },
+        {
+          "topic": "**The Emotions of Falling in Love** – Discuss the feelings and experiences associated with falling in love."
+        },
+        {
+          "topic": "**The Impact of Seasonal Changes on Emotions** – Explore how different seasons can affect your mood and emotions."
+        },
+        {
+          "topic": "**A Time You Felt Scared** – Share a personal experience where you felt genuine fear."
+        },
+        {
+          "topic": "**The Role of Friends in Emotional Support** – Discuss how friends can help you through difficult emotional times."
+        },
+        {
+          "topic": "**The Feeling of Relief** – Reflect on a time when you felt a strong sense of relief and why."
+        },
+        {
+          "topic": "**The Emotions of Letting Go** – Discuss the feelings involved in letting go of something or someone important."
+        },
+        {
+          "topic": "**The Role of Exercise in Managing Emotions** – Explore how physical activity can influence your emotional well-being."
+        },
+        {
+          "topic": "**A Time You Felt Inspired** – Share an experience where you felt particularly inspired and what triggered it."
+        },
+        {
+          "topic": "**The Impact of Art on Emotions** – Discuss how engaging with art, whether creating or viewing, can affect your emotions."
+        },
+        {
+          "topic": "**The Feeling of Being in Sync with Others** – Reflect on a time when you felt a strong connection or harmony with others."
+        },
+        {
+          "topic": "**The Emotions of Saying Goodbye** – Discuss the feelings involved in saying goodbye to someone or something significant."
+        },
+        {
+          "topic": "**The Role of Nature in Calming Emotions** – Explore how spending time in nature can influence your emotional state."
+        },
+        {
+          "topic": "**A Time You Felt Surprised** – Share a personal experience where you were genuinely surprised."
+        },
+        {
+          "topic": "**The Impact of Acts of Kindness on Emotions** – Discuss how receiving or giving kindness can affect your emotions."
+        },
+        {
+          "topic": "**The Feeling of Being Under Pressure** – Reflect on a time when you felt under significant pressure and how you handled it."
+        },
+        {
+          "topic": "**The Emotions of Reconnecting with Someone** – Discuss the feelings involved in reconnecting with someone after a long time."
+        }
+      ]
+    }
+  ],
+  "summary": "The categorization aligns with IELTS exam logic by grouping topics into themes that reflect common areas of human experience, such as daily life, social interactions, hobbies, technology, personal development, cultural awareness, and emotions. This structure ensures that candidates can demonstrate a wide range of vocabulary, fluency, and coherence while addressing familiar and relatable subjects."
+}
