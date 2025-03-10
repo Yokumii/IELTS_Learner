@@ -1,0 +1,1553 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        90,
+                        157,
+                        266,
+                        206
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                91,
+                                161,
+                                262,
+                                204
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        91,
+                                        161,
+                                        262,
+                                        204
+                                    ],
+                                    "score": 1.0,
+                                    "content": "外国食物",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        372,
+                        167,
+                        523,
+                        221
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                371,
+                                169,
+                                523,
+                                223
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        371,
+                                        169,
+                                        523,
+                                        223
+                                    ],
+                                    "score": 1.0,
+                                    "content": "雅思哥",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        119,
+                        233,
+                        228,
+                        268
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                120,
+                                233,
+                                229,
+                                268
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        120,
+                                        233,
+                                        229,
+                                        268
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Part2",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        372,
+                        223,
+                        520,
+                        248
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                383,
+                                226,
+                                517,
+                                246
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        383,
+                                        226,
+                                        517,
+                                        246
+                                    ],
+                                    "score": 0.86,
+                                    "content": "ELTS BR笛",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        89,
+                        291,
+                        762,
+                        363
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                92,
+                                295,
+                                757,
+                                327
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        295,
+                                        757,
+                                        327
+                                    ],
+                                    "score": 0.95,
+                                    "content": "Describe a kind of foreign food you like and you",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                90,
+                                336,
+                                220,
+                                365
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        90,
+                                        336,
+                                        220,
+                                        365
+                                    ],
+                                    "score": 0.99,
+                                    "content": "havehad",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        }
+                    ],
+                    "index": 4.5
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        563,
+                        359,
+                        714,
+                        411
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                561,
+                                359,
+                                709,
+                                412
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        561,
+                                        359,
+                                        709,
+                                        412
+                                    ],
+                                    "score": 1.0,
+                                    "content": "雅思哥",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        89,
+                        372,
+                        572,
+                        572
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                91,
+                                372,
+                                302,
+                                410
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        91,
+                                        372,
+                                        302,
+                                        410
+                                    ],
+                                    "score": 1.0,
+                                    "content": "You should say:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                119,
+                                416,
+                                248,
+                                445
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        119,
+                                        416,
+                                        248,
+                                        445
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Whatitis",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                116,
+                                455,
+                                489,
+                                489
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        116,
+                                        455,
+                                        489,
+                                        489
+                                    ],
+                                    "score": 0.96,
+                                    "content": "When andwhereyou had it",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                118,
+                                497,
+                                319,
+                                529
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        118,
+                                        497,
+                                        319,
+                                        529
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Whyyoulikeit",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                118,
+                                538,
+                                569,
+                                569
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        118,
+                                        538,
+                                        569,
+                                        569
+                                    ],
+                                    "score": 0.97,
+                                    "content": "And explain how you feel about it",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        }
+                    ],
+                    "index": 9
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        119,
+                        644,
+                        228,
+                        680
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                121,
+                                644,
+                                228,
+                                679
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        121,
+                                        644,
+                                        228,
+                                        679
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Part3",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        }
+                    ],
+                    "index": 12
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        92,
+                        703,
+                        782,
+                        1022
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                96,
+                                705,
+                                717,
+                                739
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        96,
+                                        705,
+                                        717,
+                                        739
+                                    ],
+                                    "score": 0.95,
+                                    "content": "1. Do most people like to eat the food they are",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                126,
+                                747,
+                                704,
+                                781
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        126,
+                                        747,
+                                        522,
+                                        778
+                                    ],
+                                    "score": 0.97,
+                                    "content": "familiar with or try new food?",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        566,
+                                        747,
+                                        704,
+                                        781
+                                    ],
+                                    "score": 0.87,
+                                    "content": "雅思号",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                95,
+                                787,
+                                745,
+                                821
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        787,
+                                        745,
+                                        821
+                                    ],
+                                    "score": 0.97,
+                                    "content": "2. What kinds of foreign food are popular in your",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                126,
+                                827,
+                                245,
+                                863
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        126,
+                                        827,
+                                        245,
+                                        863
+                                    ],
+                                    "score": 0.99,
+                                    "content": "country?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                97,
+                                870,
+                                513,
+                                898
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        97,
+                                        870,
+                                        513,
+                                        898
+                                    ],
+                                    "score": 0.98,
+                                    "content": "3.Doyou liketocookathome?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                95,
+                                907,
+                                677,
+                                947
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        907,
+                                        677,
+                                        947
+                                    ],
+                                    "score": 1.0,
+                                    "content": "4. Is it expensive to eat out in your country?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                97,
+                                950,
+                                772,
+                                978
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        97,
+                                        950,
+                                        772,
+                                        978
+                                    ],
+                                    "score": 0.97,
+                                    "content": "5.What's thedifferencebetweenChinesefood anc",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                127,
+                                990,
+                                319,
+                                1019
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        127,
+                                        990,
+                                        319,
+                                        1019
+                                    ],
+                                    "score": 0.97,
+                                    "content": "westernfood?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        }
+                    ],
+                    "index": 16.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        89,
+                        1066,
+                        735,
+                        1102
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                92,
+                                1071,
+                                726,
+                                1099
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        1071,
+                                        726,
+                                        1099
+                                    ],
+                                    "score": 0.98,
+                                    "content": "温馨提示：非大陆考区疑似新题，随时关注更新哦",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        }
+                    ],
+                    "index": 21
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        189,
+                        1104,
+                        337,
+                        1155
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                186,
+                                1102,
+                                338,
+                                1158
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        186,
+                                        1102,
+                                        338,
+                                        1158
+                                    ],
+                                    "score": 1.0,
+                                    "content": "雅思哥",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        }
+                    ],
+                    "index": 22
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        564,
+                        1107,
+                        714,
+                        1158
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                563,
+                                1106,
+                                698,
+                                1158
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        563,
+                                        1106,
+                                        698,
+                                        1158
+                                    ],
+                                    "score": 0.87,
+                                    "content": "雅思哥",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        }
+                    ],
+                    "index": 23
+                }
+            ],
+            "layout_bboxes": [],
+            "page_idx": 0,
+            "page_size": [
+                900.0,
+                1350.0
+            ],
+            "_layout_tree": [],
+            "images": [],
+            "tables": [],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        741,
+                        171,
+                        854,
+                        250
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        102,
+                        1227,
+                        792,
+                        1256
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        45,
+                        1,
+                        131,
+                        140
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        48,
+                        1278,
+                        850,
+                        1349
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        665,
+                        72,
+                        854,
+                        132
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        83,
+                        0,
+                        858,
+                        72
+                    ],
+                    "lines": []
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        90,
+                        157,
+                        266,
+                        206
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                91,
+                                161,
+                                262,
+                                204
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        91,
+                                        161,
+                                        262,
+                                        204
+                                    ],
+                                    "score": 1.0,
+                                    "content": "外国食物",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        372,
+                        167,
+                        523,
+                        221
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                371,
+                                169,
+                                523,
+                                223
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        371,
+                                        169,
+                                        523,
+                                        223
+                                    ],
+                                    "score": 1.0,
+                                    "content": "雅思哥",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        }
+                    ],
+                    "index": 1,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        119,
+                        233,
+                        228,
+                        268
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                120,
+                                233,
+                                229,
+                                268
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        120,
+                                        233,
+                                        229,
+                                        268
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Part2",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 2,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        372,
+                        223,
+                        520,
+                        248
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                383,
+                                226,
+                                517,
+                                246
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        383,
+                                        226,
+                                        517,
+                                        246
+                                    ],
+                                    "score": 0.86,
+                                    "content": "ELTS BR笛",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        383,
+                        226,
+                        517,
+                        246
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        89,
+                        291,
+                        762,
+                        363
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                92,
+                                295,
+                                757,
+                                327
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        295,
+                                        757,
+                                        327
+                                    ],
+                                    "score": 0.95,
+                                    "content": "Describe a kind of foreign food you like and you",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                90,
+                                336,
+                                220,
+                                365
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        90,
+                                        336,
+                                        220,
+                                        365
+                                    ],
+                                    "score": 0.99,
+                                    "content": "havehad",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        }
+                    ],
+                    "index": 4.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        90,
+                        295,
+                        757,
+                        365
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        563,
+                        359,
+                        714,
+                        411
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                561,
+                                359,
+                                709,
+                                412
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        561,
+                                        359,
+                                        709,
+                                        412
+                                    ],
+                                    "score": 1.0,
+                                    "content": "雅思哥",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        }
+                    ],
+                    "index": 7,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        89,
+                        372,
+                        572,
+                        572
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                91,
+                                372,
+                                302,
+                                410
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        91,
+                                        372,
+                                        302,
+                                        410
+                                    ],
+                                    "score": 1.0,
+                                    "content": "You should say:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                119,
+                                416,
+                                248,
+                                445
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        119,
+                                        416,
+                                        248,
+                                        445
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Whatitis",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                116,
+                                455,
+                                489,
+                                489
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        116,
+                                        455,
+                                        489,
+                                        489
+                                    ],
+                                    "score": 0.96,
+                                    "content": "When andwhereyou had it",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                118,
+                                497,
+                                319,
+                                529
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        118,
+                                        497,
+                                        319,
+                                        529
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Whyyoulikeit",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                118,
+                                538,
+                                569,
+                                569
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        118,
+                                        538,
+                                        569,
+                                        569
+                                    ],
+                                    "score": 0.97,
+                                    "content": "And explain how you feel about it",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        }
+                    ],
+                    "index": 9,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        91,
+                        372,
+                        569,
+                        569
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        119,
+                        644,
+                        228,
+                        680
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                121,
+                                644,
+                                228,
+                                679
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        121,
+                                        644,
+                                        228,
+                                        679
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Part3",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        }
+                    ],
+                    "index": 12,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "list",
+                    "bbox": [
+                        92,
+                        703,
+                        782,
+                        1022
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                96,
+                                705,
+                                717,
+                                739
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        96,
+                                        705,
+                                        717,
+                                        739
+                                    ],
+                                    "score": 0.95,
+                                    "content": "1. Do most people like to eat the food they are",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13,
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                126,
+                                747,
+                                704,
+                                781
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        126,
+                                        747,
+                                        522,
+                                        778
+                                    ],
+                                    "score": 0.97,
+                                    "content": "familiar with or try new food?",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        566,
+                                        747,
+                                        704,
+                                        781
+                                    ],
+                                    "score": 0.87,
+                                    "content": "雅思号",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                95,
+                                787,
+                                745,
+                                821
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        787,
+                                        745,
+                                        821
+                                    ],
+                                    "score": 0.97,
+                                    "content": "2. What kinds of foreign food are popular in your",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                126,
+                                827,
+                                245,
+                                863
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        126,
+                                        827,
+                                        245,
+                                        863
+                                    ],
+                                    "score": 0.99,
+                                    "content": "country?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                97,
+                                870,
+                                513,
+                                898
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        97,
+                                        870,
+                                        513,
+                                        898
+                                    ],
+                                    "score": 0.98,
+                                    "content": "3.Doyou liketocookathome?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17,
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                95,
+                                907,
+                                677,
+                                947
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        907,
+                                        677,
+                                        947
+                                    ],
+                                    "score": 1.0,
+                                    "content": "4. Is it expensive to eat out in your country?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18,
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                97,
+                                950,
+                                772,
+                                978
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        97,
+                                        950,
+                                        772,
+                                        978
+                                    ],
+                                    "score": 0.97,
+                                    "content": "5.What's thedifferencebetweenChinesefood anc",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                127,
+                                990,
+                                319,
+                                1019
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        127,
+                                        990,
+                                        319,
+                                        1019
+                                    ],
+                                    "score": 0.97,
+                                    "content": "westernfood?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20,
+                            "is_list_end_line": true
+                        }
+                    ],
+                    "index": 16.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        95,
+                        705,
+                        772,
+                        1019
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        89,
+                        1066,
+                        735,
+                        1102
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                92,
+                                1071,
+                                726,
+                                1099
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        1071,
+                                        726,
+                                        1099
+                                    ],
+                                    "score": 0.98,
+                                    "content": "温馨提示：非大陆考区疑似新题，随时关注更新哦",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        }
+                    ],
+                    "index": 21,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        92,
+                        1071,
+                        726,
+                        1099
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        189,
+                        1104,
+                        337,
+                        1155
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                186,
+                                1102,
+                                338,
+                                1158
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        186,
+                                        1102,
+                                        338,
+                                        1158
+                                    ],
+                                    "score": 1.0,
+                                    "content": "雅思哥",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        }
+                    ],
+                    "index": 22,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        564,
+                        1107,
+                        714,
+                        1158
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                563,
+                                1106,
+                                698,
+                                1158
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        563,
+                                        1106,
+                                        698,
+                                        1158
+                                    ],
+                                    "score": 0.87,
+                                    "content": "雅思哥",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        }
+                    ],
+                    "index": 23,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                }
+            ]
+        }
+    ],
+    "_parse_type": "ocr",
+    "_version_name": "1.2.2"
+}

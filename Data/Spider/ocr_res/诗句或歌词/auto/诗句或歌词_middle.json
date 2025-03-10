@@ -1,0 +1,1480 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        90,
+                        157,
+                        308,
+                        207
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                92,
+                                161,
+                                304,
+                                205
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        161,
+                                        304,
+                                        205
+                                    ],
+                                    "score": 0.99,
+                                    "content": "诗句或歌词",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        372,
+                        167,
+                        522,
+                        221
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                371,
+                                169,
+                                523,
+                                222
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        371,
+                                        169,
+                                        523,
+                                        222
+                                    ],
+                                    "score": 1.0,
+                                    "content": "雅思哥",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        119,
+                        233,
+                        228,
+                        268
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                120,
+                                232,
+                                229,
+                                268
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        120,
+                                        232,
+                                        229,
+                                        268
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Part2",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        372,
+                        223,
+                        520,
+                        248
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                383,
+                                226,
+                                517,
+                                246
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        383,
+                                        226,
+                                        517,
+                                        246
+                                    ],
+                                    "score": 0.86,
+                                    "content": "ELTS BR笛",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        87,
+                        291,
+                        804,
+                        368
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                91,
+                                292,
+                                800,
+                                329
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        91,
+                                        292,
+                                        800,
+                                        329
+                                    ],
+                                    "score": 0.97,
+                                    "content": "Describe a line(or a few words) that you remember",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                90,
+                                333,
+                                382,
+                                376
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        90,
+                                        333,
+                                        382,
+                                        376
+                                    ],
+                                    "score": 0.98,
+                                    "content": "from a poem or song",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        }
+                    ],
+                    "index": 4.5
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        564,
+                        360,
+                        714,
+                        411
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                560,
+                                359,
+                                707,
+                                412
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        560,
+                                        359,
+                                        707,
+                                        412
+                                    ],
+                                    "score": 1.0,
+                                    "content": "雅思哥",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        90,
+                        374,
+                        558,
+                        572
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                91,
+                                372,
+                                302,
+                                411
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        91,
+                                        372,
+                                        302,
+                                        411
+                                    ],
+                                    "score": 1.0,
+                                    "content": "You should say:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                106,
+                                415,
+                                236,
+                                446
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        415,
+                                        236,
+                                        446
+                                    ],
+                                    "score": 0.91,
+                                    "content": "What it is",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                103,
+                                453,
+                                511,
+                                493
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        103,
+                                        453,
+                                        511,
+                                        493
+                                    ],
+                                    "score": 0.98,
+                                    "content": "Which song or poem it is from",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                107,
+                                498,
+                                334,
+                                528
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        107,
+                                        498,
+                                        334,
+                                        528
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Howyouknewit",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                105,
+                                538,
+                                558,
+                                570
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        538,
+                                        558,
+                                        570
+                                    ],
+                                    "score": 0.97,
+                                    "content": "And explain how you feel about it",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        }
+                    ],
+                    "index": 9
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        119,
+                        604,
+                        228,
+                        640
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                120,
+                                604,
+                                227,
+                                640
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        120,
+                                        604,
+                                        227,
+                                        640
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Part3",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        }
+                    ],
+                    "index": 12
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        91,
+                        663,
+                        813,
+                        1061
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                96,
+                                664,
+                                733,
+                                702
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        96,
+                                        664,
+                                        733,
+                                        702
+                                    ],
+                                    "score": 0.98,
+                                    "content": "1. What can people learn from songs or poems?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                94,
+                                702,
+                                807,
+                                742
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        94,
+                                        702,
+                                        807,
+                                        742
+                                    ],
+                                    "score": 1.0,
+                                    "content": "2. Do you think it is easier for children to learn a song",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                127,
+                                746,
+                                491,
+                                781
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        127,
+                                        746,
+                                        491,
+                                        781
+                                    ],
+                                    "score": 0.98,
+                                    "content": "or poem than adults? Why?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                96,
+                                787,
+                                747,
+                                820
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        96,
+                                        787,
+                                        747,
+                                        820
+                                    ],
+                                    "score": 0.98,
+                                    "content": "3.Doyou think childrenwould like therhythm of",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                124,
+                                829,
+                                433,
+                                863
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        124,
+                                        829,
+                                        433,
+                                        863
+                                    ],
+                                    "score": 0.99,
+                                    "content": "songs or poems?Why?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                95,
+                                868,
+                                612,
+                                903
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        868,
+                                        612,
+                                        903
+                                    ],
+                                    "score": 1.0,
+                                    "content": "4. Are you good at memorizing things?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                97,
+                                909,
+                                782,
+                                941
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        97,
+                                        909,
+                                        782,
+                                        941
+                                    ],
+                                    "score": 0.96,
+                                    "content": "5. Do you think it is a waste of time for kids to learn",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                127,
+                                951,
+                                353,
+                                981
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        127,
+                                        951,
+                                        353,
+                                        981
+                                    ],
+                                    "score": 0.99,
+                                    "content": "songsorpoems?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                95,
+                                987,
+                                810,
+                                1026
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        987,
+                                        810,
+                                        1026
+                                    ],
+                                    "score": 0.99,
+                                    "content": "6. Do you think it is important for kids to learn history",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                124,
+                                1030,
+                                264,
+                                1061
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        124,
+                                        1030,
+                                        264,
+                                        1061
+                                    ],
+                                    "score": 0.99,
+                                    "content": "atschool?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        }
+                    ],
+                    "index": 17.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        84,
+                        1106,
+                        733,
+                        1143
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                92,
+                                1112,
+                                727,
+                                1140
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        1112,
+                                        727,
+                                        1140
+                                    ],
+                                    "score": 0.98,
+                                    "content": "温馨提示非大陆考区疑似新题，随时关注更新哦！",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        }
+                    ],
+                    "index": 23
+                }
+            ],
+            "layout_bboxes": [],
+            "page_idx": 0,
+            "page_size": [
+                900.0,
+                1350.0
+            ],
+            "_layout_tree": [],
+            "images": [],
+            "tables": [],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        741,
+                        171,
+                        854,
+                        250
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        102,
+                        1226,
+                        792,
+                        1256
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        48,
+                        1276,
+                        850,
+                        1349
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        44,
+                        1,
+                        131,
+                        140
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        665,
+                        72,
+                        854,
+                        132
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        85,
+                        0,
+                        858,
+                        72
+                    ],
+                    "lines": []
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        90,
+                        157,
+                        308,
+                        207
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                92,
+                                161,
+                                304,
+                                205
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        161,
+                                        304,
+                                        205
+                                    ],
+                                    "score": 0.99,
+                                    "content": "诗句或歌词",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        372,
+                        167,
+                        522,
+                        221
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                371,
+                                169,
+                                523,
+                                222
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        371,
+                                        169,
+                                        523,
+                                        222
+                                    ],
+                                    "score": 1.0,
+                                    "content": "雅思哥",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        }
+                    ],
+                    "index": 1,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        119,
+                        233,
+                        228,
+                        268
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                120,
+                                232,
+                                229,
+                                268
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        120,
+                                        232,
+                                        229,
+                                        268
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Part2",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 2,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        372,
+                        223,
+                        520,
+                        248
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                383,
+                                226,
+                                517,
+                                246
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        383,
+                                        226,
+                                        517,
+                                        246
+                                    ],
+                                    "score": 0.86,
+                                    "content": "ELTS BR笛",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        383,
+                        226,
+                        517,
+                        246
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        87,
+                        291,
+                        804,
+                        368
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                91,
+                                292,
+                                800,
+                                329
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        91,
+                                        292,
+                                        800,
+                                        329
+                                    ],
+                                    "score": 0.97,
+                                    "content": "Describe a line(or a few words) that you remember",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                90,
+                                333,
+                                382,
+                                376
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        90,
+                                        333,
+                                        382,
+                                        376
+                                    ],
+                                    "score": 0.98,
+                                    "content": "from a poem or song",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        }
+                    ],
+                    "index": 4.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        90,
+                        292,
+                        800,
+                        376
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        564,
+                        360,
+                        714,
+                        411
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                560,
+                                359,
+                                707,
+                                412
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        560,
+                                        359,
+                                        707,
+                                        412
+                                    ],
+                                    "score": 1.0,
+                                    "content": "雅思哥",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        }
+                    ],
+                    "index": 7,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "list",
+                    "bbox": [
+                        90,
+                        374,
+                        558,
+                        572
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                91,
+                                372,
+                                302,
+                                411
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        91,
+                                        372,
+                                        302,
+                                        411
+                                    ],
+                                    "score": 1.0,
+                                    "content": "You should say:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                106,
+                                415,
+                                236,
+                                446
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        415,
+                                        236,
+                                        446
+                                    ],
+                                    "score": 0.91,
+                                    "content": "What it is",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                103,
+                                453,
+                                511,
+                                493
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        103,
+                                        453,
+                                        511,
+                                        493
+                                    ],
+                                    "score": 0.98,
+                                    "content": "Which song or poem it is from",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                107,
+                                498,
+                                334,
+                                528
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        107,
+                                        498,
+                                        334,
+                                        528
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Howyouknewit",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                105,
+                                538,
+                                558,
+                                570
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        538,
+                                        558,
+                                        570
+                                    ],
+                                    "score": 0.97,
+                                    "content": "And explain how you feel about it",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11,
+                            "is_list_start_line": true
+                        }
+                    ],
+                    "index": 9,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        91,
+                        372,
+                        558,
+                        570
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        119,
+                        604,
+                        228,
+                        640
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                120,
+                                604,
+                                227,
+                                640
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        120,
+                                        604,
+                                        227,
+                                        640
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Part3",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        }
+                    ],
+                    "index": 12,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "list",
+                    "bbox": [
+                        91,
+                        663,
+                        813,
+                        1061
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                96,
+                                664,
+                                733,
+                                702
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        96,
+                                        664,
+                                        733,
+                                        702
+                                    ],
+                                    "score": 0.98,
+                                    "content": "1. What can people learn from songs or poems?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13,
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                94,
+                                702,
+                                807,
+                                742
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        94,
+                                        702,
+                                        807,
+                                        742
+                                    ],
+                                    "score": 1.0,
+                                    "content": "2. Do you think it is easier for children to learn a song",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                127,
+                                746,
+                                491,
+                                781
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        127,
+                                        746,
+                                        491,
+                                        781
+                                    ],
+                                    "score": 0.98,
+                                    "content": "or poem than adults? Why?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                96,
+                                787,
+                                747,
+                                820
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        96,
+                                        787,
+                                        747,
+                                        820
+                                    ],
+                                    "score": 0.98,
+                                    "content": "3.Doyou think childrenwould like therhythm of",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16,
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                124,
+                                829,
+                                433,
+                                863
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        124,
+                                        829,
+                                        433,
+                                        863
+                                    ],
+                                    "score": 0.99,
+                                    "content": "songs or poems?Why?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                95,
+                                868,
+                                612,
+                                903
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        868,
+                                        612,
+                                        903
+                                    ],
+                                    "score": 1.0,
+                                    "content": "4. Are you good at memorizing things?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18,
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                97,
+                                909,
+                                782,
+                                941
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        97,
+                                        909,
+                                        782,
+                                        941
+                                    ],
+                                    "score": 0.96,
+                                    "content": "5. Do you think it is a waste of time for kids to learn",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                127,
+                                951,
+                                353,
+                                981
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        127,
+                                        951,
+                                        353,
+                                        981
+                                    ],
+                                    "score": 0.99,
+                                    "content": "songsorpoems?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                95,
+                                987,
+                                810,
+                                1026
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        987,
+                                        810,
+                                        1026
+                                    ],
+                                    "score": 0.99,
+                                    "content": "6. Do you think it is important for kids to learn history",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                124,
+                                1030,
+                                264,
+                                1061
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        124,
+                                        1030,
+                                        264,
+                                        1061
+                                    ],
+                                    "score": 0.99,
+                                    "content": "atschool?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22,
+                            "is_list_end_line": true
+                        }
+                    ],
+                    "index": 17.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        94,
+                        664,
+                        810,
+                        1061
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        84,
+                        1106,
+                        733,
+                        1143
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                92,
+                                1112,
+                                727,
+                                1140
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        1112,
+                                        727,
+                                        1140
+                                    ],
+                                    "score": 0.98,
+                                    "content": "温馨提示非大陆考区疑似新题，随时关注更新哦！",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        }
+                    ],
+                    "index": 23,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        92,
+                        1112,
+                        727,
+                        1140
+                    ]
+                }
+            ]
+        }
+    ],
+    "_parse_type": "ocr",
+    "_version_name": "1.2.2"
+}

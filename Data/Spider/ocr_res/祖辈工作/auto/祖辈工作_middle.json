@@ -1,0 +1,1498 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        91,
+                        157,
+                        266,
+                        206
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                92,
+                                160,
+                                263,
+                                204
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        160,
+                                        263,
+                                        204
+                                    ],
+                                    "score": 0.98,
+                                    "content": "祖辈工作",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        372,
+                        167,
+                        523,
+                        221
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                371,
+                                169,
+                                523,
+                                223
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        371,
+                                        169,
+                                        523,
+                                        223
+                                    ],
+                                    "score": 1.0,
+                                    "content": "雅思哥",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        119,
+                        233,
+                        228,
+                        268
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                120,
+                                232,
+                                229,
+                                269
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        120,
+                                        232,
+                                        229,
+                                        269
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Part2",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        372,
+                        223,
+                        520,
+                        248
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                383,
+                                226,
+                                517,
+                                246
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        383,
+                                        226,
+                                        517,
+                                        246
+                                    ],
+                                    "score": 0.86,
+                                    "content": "ELTS BR笛",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        88,
+                        292,
+                        645,
+                        368
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                92,
+                                294,
+                                640,
+                                327
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        294,
+                                        640,
+                                        327
+                                    ],
+                                    "score": 0.95,
+                                    "content": "Describe one of your grandparents' job",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                92,
+                                335,
+                                300,
+                                367
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        335,
+                                        300,
+                                        367
+                                    ],
+                                    "score": 0.98,
+                                    "content": "You should say:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        }
+                    ],
+                    "index": 4.5
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        564,
+                        359,
+                        714,
+                        410
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                564,
+                                359,
+                                714,
+                                410
+                            ],
+                            "spans": [],
+                            "index": 7
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        110,
+                        374,
+                        794,
+                        611
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                117,
+                                358,
+                                703,
+                                412
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        117,
+                                        374,
+                                        279,
+                                        407
+                                    ],
+                                    "score": 0.96,
+                                    "content": "What itwas",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        562,
+                                        358,
+                                        703,
+                                        412
+                                    ],
+                                    "score": 0.99,
+                                    "content": "雅思哥",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                117,
+                                415,
+                                709,
+                                450
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        117,
+                                        415,
+                                        543,
+                                        450
+                                    ],
+                                    "score": 0.96,
+                                    "content": "How long he or she had this job",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        578,
+                                        415,
+                                        709,
+                                        435
+                                    ],
+                                    "score": 0.98,
+                                    "content": "ELTSBRO",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                116,
+                                455,
+                                467,
+                                491
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        116,
+                                        455,
+                                        467,
+                                        491
+                                    ],
+                                    "score": 0.96,
+                                    "content": "How he or she got the job",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                116,
+                                495,
+                                459,
+                                531
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        116,
+                                        495,
+                                        459,
+                                        531
+                                    ],
+                                    "score": 0.98,
+                                    "content": "What skills this job needs",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                116,
+                                536,
+                                788,
+                                570
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        116,
+                                        536,
+                                        788,
+                                        570
+                                    ],
+                                    "score": 0.98,
+                                    "content": "And whether you would like to have this job in the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                115,
+                                576,
+                                203,
+                                610
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        115,
+                                        576,
+                                        203,
+                                        610
+                                    ],
+                                    "score": 1.0,
+                                    "content": "future",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        }
+                    ],
+                    "index": 9.5
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        119,
+                        685,
+                        228,
+                        720
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                120,
+                                685,
+                                228,
+                                720
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        120,
+                                        685,
+                                        228,
+                                        720
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Part3",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        }
+                    ],
+                    "index": 13
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        91,
+                        742,
+                        814,
+                        1104
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                96,
+                                746,
+                                698,
+                                778
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        96,
+                                        746,
+                                        698,
+                                        778
+                                    ],
+                                    "score": 0.98,
+                                    "content": "1. What jobs do you think are rather difficult?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                96,
+                                788,
+                                801,
+                                822
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        96,
+                                        788,
+                                        801,
+                                        822
+                                    ],
+                                    "score": 0.96,
+                                    "content": "2. What qualities do people need to do difficult jobs?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                96,
+                                826,
+                                795,
+                                862
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        96,
+                                        826,
+                                        795,
+                                        862
+                                    ],
+                                    "score": 0.97,
+                                    "content": "3. Do you think difficult jobs deserve higher salaries?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                95,
+                                867,
+                                809,
+                                901
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        867,
+                                        809,
+                                        901
+                                    ],
+                                    "score": 0.97,
+                                    "content": "4.What are the differences between difficult jobs and",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                125,
+                                909,
+                                266,
+                                942
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        125,
+                                        909,
+                                        266,
+                                        942
+                                    ],
+                                    "score": 1.0,
+                                    "content": "easyjobs?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                96,
+                                950,
+                                780,
+                                982
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        96,
+                                        950,
+                                        780,
+                                        982
+                                    ],
+                                    "score": 0.98,
+                                    "content": "5. Do you think robots can replace human beings in",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                128,
+                                990,
+                                332,
+                                1025
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        128,
+                                        990,
+                                        332,
+                                        1025
+                                    ],
+                                    "score": 0.99,
+                                    "content": "everyindustry?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                94,
+                                1028,
+                                808,
+                                1065
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        94,
+                                        1028,
+                                        808,
+                                        1065
+                                    ],
+                                    "score": 0.99,
+                                    "content": "6. What role can robots play in the car manufacturing",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                127,
+                                1070,
+                                246,
+                                1107
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        127,
+                                        1070,
+                                        246,
+                                        1107
+                                    ],
+                                    "score": 1.0,
+                                    "content": "process?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        }
+                    ],
+                    "index": 18
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        87,
+                        1147,
+                        736,
+                        1184
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                93,
+                                1152,
+                                727,
+                                1180
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        93,
+                                        1152,
+                                        727,
+                                        1180
+                                    ],
+                                    "score": 0.98,
+                                    "content": "温馨提示：非大陆考区疑似新题，随时关注更新哦！",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        }
+                    ],
+                    "index": 23
+                }
+            ],
+            "layout_bboxes": [],
+            "page_idx": 0,
+            "page_size": [
+                900.0,
+                1350.0
+            ],
+            "_layout_tree": [],
+            "images": [],
+            "tables": [],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        100,
+                        1226,
+                        792,
+                        1256
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        49,
+                        1274,
+                        850,
+                        1349
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        43,
+                        1,
+                        131,
+                        140
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        741,
+                        171,
+                        854,
+                        250
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        665,
+                        72,
+                        854,
+                        132
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        93,
+                        0,
+                        859,
+                        72
+                    ],
+                    "lines": []
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        91,
+                        157,
+                        266,
+                        206
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                92,
+                                160,
+                                263,
+                                204
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        160,
+                                        263,
+                                        204
+                                    ],
+                                    "score": 0.98,
+                                    "content": "祖辈工作",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        372,
+                        167,
+                        523,
+                        221
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                371,
+                                169,
+                                523,
+                                223
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        371,
+                                        169,
+                                        523,
+                                        223
+                                    ],
+                                    "score": 1.0,
+                                    "content": "雅思哥",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        }
+                    ],
+                    "index": 1,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        119,
+                        233,
+                        228,
+                        268
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                120,
+                                232,
+                                229,
+                                269
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        120,
+                                        232,
+                                        229,
+                                        269
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Part2",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 2,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        372,
+                        223,
+                        520,
+                        248
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                383,
+                                226,
+                                517,
+                                246
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        383,
+                                        226,
+                                        517,
+                                        246
+                                    ],
+                                    "score": 0.86,
+                                    "content": "ELTS BR笛",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        383,
+                        226,
+                        517,
+                        246
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        88,
+                        292,
+                        645,
+                        368
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                92,
+                                294,
+                                640,
+                                327
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        294,
+                                        640,
+                                        327
+                                    ],
+                                    "score": 0.95,
+                                    "content": "Describe one of your grandparents' job",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                92,
+                                335,
+                                300,
+                                367
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        335,
+                                        300,
+                                        367
+                                    ],
+                                    "score": 0.98,
+                                    "content": "You should say:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        }
+                    ],
+                    "index": 4.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        92,
+                        294,
+                        640,
+                        367
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        564,
+                        359,
+                        714,
+                        410
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                564,
+                                359,
+                                714,
+                                410
+                            ],
+                            "spans": [],
+                            "index": 7
+                        }
+                    ],
+                    "index": 7,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "list",
+                    "bbox": [
+                        110,
+                        374,
+                        794,
+                        611
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                117,
+                                358,
+                                703,
+                                412
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        117,
+                                        374,
+                                        279,
+                                        407
+                                    ],
+                                    "score": 0.96,
+                                    "content": "What itwas",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        562,
+                                        358,
+                                        703,
+                                        412
+                                    ],
+                                    "score": 0.99,
+                                    "content": "雅思哥",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                117,
+                                415,
+                                709,
+                                450
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        117,
+                                        415,
+                                        543,
+                                        450
+                                    ],
+                                    "score": 0.96,
+                                    "content": "How long he or she had this job",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        578,
+                                        415,
+                                        709,
+                                        435
+                                    ],
+                                    "score": 0.98,
+                                    "content": "ELTSBRO",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                116,
+                                455,
+                                467,
+                                491
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        116,
+                                        455,
+                                        467,
+                                        491
+                                    ],
+                                    "score": 0.96,
+                                    "content": "How he or she got the job",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                116,
+                                495,
+                                459,
+                                531
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        116,
+                                        495,
+                                        459,
+                                        531
+                                    ],
+                                    "score": 0.98,
+                                    "content": "What skills this job needs",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                116,
+                                536,
+                                788,
+                                570
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        116,
+                                        536,
+                                        788,
+                                        570
+                                    ],
+                                    "score": 0.98,
+                                    "content": "And whether you would like to have this job in the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                115,
+                                576,
+                                203,
+                                610
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        115,
+                                        576,
+                                        203,
+                                        610
+                                    ],
+                                    "score": 1.0,
+                                    "content": "future",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12,
+                            "is_list_start_line": true
+                        }
+                    ],
+                    "index": 9.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        115,
+                        358,
+                        788,
+                        610
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        119,
+                        685,
+                        228,
+                        720
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                120,
+                                685,
+                                228,
+                                720
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        120,
+                                        685,
+                                        228,
+                                        720
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Part3",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        }
+                    ],
+                    "index": 13,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "list",
+                    "bbox": [
+                        91,
+                        742,
+                        814,
+                        1104
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                96,
+                                746,
+                                698,
+                                778
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        96,
+                                        746,
+                                        698,
+                                        778
+                                    ],
+                                    "score": 0.98,
+                                    "content": "1. What jobs do you think are rather difficult?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14,
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                96,
+                                788,
+                                801,
+                                822
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        96,
+                                        788,
+                                        801,
+                                        822
+                                    ],
+                                    "score": 0.96,
+                                    "content": "2. What qualities do people need to do difficult jobs?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                96,
+                                826,
+                                795,
+                                862
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        96,
+                                        826,
+                                        795,
+                                        862
+                                    ],
+                                    "score": 0.97,
+                                    "content": "3. Do you think difficult jobs deserve higher salaries?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                95,
+                                867,
+                                809,
+                                901
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        867,
+                                        809,
+                                        901
+                                    ],
+                                    "score": 0.97,
+                                    "content": "4.What are the differences between difficult jobs and",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                125,
+                                909,
+                                266,
+                                942
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        125,
+                                        909,
+                                        266,
+                                        942
+                                    ],
+                                    "score": 1.0,
+                                    "content": "easyjobs?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                96,
+                                950,
+                                780,
+                                982
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        96,
+                                        950,
+                                        780,
+                                        982
+                                    ],
+                                    "score": 0.98,
+                                    "content": "5. Do you think robots can replace human beings in",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                128,
+                                990,
+                                332,
+                                1025
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        128,
+                                        990,
+                                        332,
+                                        1025
+                                    ],
+                                    "score": 0.99,
+                                    "content": "everyindustry?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                94,
+                                1028,
+                                808,
+                                1065
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        94,
+                                        1028,
+                                        808,
+                                        1065
+                                    ],
+                                    "score": 0.99,
+                                    "content": "6. What role can robots play in the car manufacturing",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                127,
+                                1070,
+                                246,
+                                1107
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        127,
+                                        1070,
+                                        246,
+                                        1107
+                                    ],
+                                    "score": 1.0,
+                                    "content": "process?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22,
+                            "is_list_end_line": true
+                        }
+                    ],
+                    "index": 18,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        94,
+                        746,
+                        809,
+                        1107
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        87,
+                        1147,
+                        736,
+                        1184
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                93,
+                                1152,
+                                727,
+                                1180
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        93,
+                                        1152,
+                                        727,
+                                        1180
+                                    ],
+                                    "score": 0.98,
+                                    "content": "温馨提示：非大陆考区疑似新题，随时关注更新哦！",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        }
+                    ],
+                    "index": 23,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        93,
+                        1152,
+                        727,
+                        1180
+                    ]
+                }
+            ]
+        }
+    ],
+    "_parse_type": "ocr",
+    "_version_name": "1.2.2"
+}

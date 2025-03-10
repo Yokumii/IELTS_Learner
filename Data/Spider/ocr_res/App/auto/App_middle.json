@@ -1,0 +1,1270 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        154,
+                        20,
+                        383,
+                        59
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                157,
+                                23,
+                                381,
+                                57
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        157,
+                                        23,
+                                        276,
+                                        57
+                                    ],
+                                    "score": 0.99,
+                                    "content": "【2025年",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        280,
+                                        24,
+                                        381,
+                                        57
+                                    ],
+                                    "score": 0.99,
+                                    "content": "1-4月】",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        89,
+                        163,
+                        181,
+                        212
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                92,
+                                165,
+                                179,
+                                212
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        165,
+                                        179,
+                                        212
+                                    ],
+                                    "score": 0.99,
+                                    "content": "App",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        372,
+                        167,
+                        523,
+                        221
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                371,
+                                169,
+                                522,
+                                222
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        371,
+                                        169,
+                                        522,
+                                        222
+                                    ],
+                                    "score": 1.0,
+                                    "content": "雅思哥",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        118,
+                        232,
+                        225,
+                        268
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                120,
+                                233,
+                                224,
+                                268
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        120,
+                                        233,
+                                        224,
+                                        268
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Part1",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        372,
+                        223,
+                        520,
+                        248
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                381,
+                                226,
+                                517,
+                                246
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        381,
+                                        227,
+                                        448,
+                                        244
+                                    ],
+                                    "score": 0.98,
+                                    "content": "ELTS",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        451,
+                                        226,
+                                        517,
+                                        246
+                                    ],
+                                    "score": 0.77,
+                                    "content": "BR笛",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        96,
+                        291,
+                        789,
+                        365
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                95,
+                                293,
+                                783,
+                                330
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        293,
+                                        783,
+                                        330
+                                    ],
+                                    "score": 0.97,
+                                    "content": "1. What kind of apps have you downloaded on your",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                125,
+                                335,
+                                228,
+                                370
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        125,
+                                        335,
+                                        228,
+                                        370
+                                    ],
+                                    "score": 0.97,
+                                    "content": "phone?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        }
+                    ],
+                    "index": 5.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        93,
+                        373,
+                        498,
+                        409
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                93,
+                                374,
+                                495,
+                                410
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        93,
+                                        374,
+                                        495,
+                                        410
+                                    ],
+                                    "score": 0.98,
+                                    "content": "2. What apps do you still use?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        564,
+                        362,
+                        713,
+                        409
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                564,
+                                362,
+                                713,
+                                409
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        564,
+                                        362,
+                                        713,
+                                        409
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                564,
+                                                362,
+                                                713,
+                                                409
+                                            ],
+                                            "score": 0.122,
+                                            "type": "image",
+                                            "image_path": "bb43d7ed34bf15b804e96c0b1ec3a1633d4e306e7cdcf1dcc1f81f55ff688756.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 8,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        564,
+                                        362,
+                                        713,
+                                        409
+                                    ],
+                                    "spans": [],
+                                    "index": 8
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        96,
+                        415,
+                        604,
+                        450
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                95,
+                                416,
+                                599,
+                                450
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        416,
+                                        599,
+                                        450
+                                    ],
+                                    "score": 0.97,
+                                    "content": "3. What apps don't you use anymore?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        }
+                    ],
+                    "index": 9
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        95,
+                        455,
+                        718,
+                        491
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                94,
+                                455,
+                                716,
+                                494
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        94,
+                                        455,
+                                        716,
+                                        494
+                                    ],
+                                    "score": 1.0,
+                                    "content": "4. What kind of apps do you spend money on?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        }
+                    ],
+                    "index": 10
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        41,
+                        513,
+                        852,
+                        1335
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                41,
+                                513,
+                                852,
+                                1335
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        41,
+                                        513,
+                                        852,
+                                        1335
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                41,
+                                                513,
+                                                852,
+                                                1335
+                                            ],
+                                            "score": 0.491,
+                                            "type": "image",
+                                            "image_path": "b235536f96b9f0e151aa3f4e44dcbd60474f8fc23bd40a29a808f49d95c1392a.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 12,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        41,
+                                        513,
+                                        852,
+                                        787.0
+                                    ],
+                                    "spans": [],
+                                    "index": 11
+                                },
+                                {
+                                    "bbox": [
+                                        41,
+                                        787.0,
+                                        852,
+                                        1061.0
+                                    ],
+                                    "spans": [],
+                                    "index": 12
+                                },
+                                {
+                                    "bbox": [
+                                        41,
+                                        1061.0,
+                                        852,
+                                        1335.0
+                                    ],
+                                    "spans": [],
+                                    "index": 13
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 12
+                }
+            ],
+            "layout_bboxes": [],
+            "page_idx": 0,
+            "page_size": [
+                900.0,
+                1350.0
+            ],
+            "_layout_tree": [],
+            "images": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        564,
+                        362,
+                        713,
+                        409
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                564,
+                                362,
+                                713,
+                                409
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        564,
+                                        362,
+                                        713,
+                                        409
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                564,
+                                                362,
+                                                713,
+                                                409
+                                            ],
+                                            "score": 0.122,
+                                            "type": "image",
+                                            "image_path": "bb43d7ed34bf15b804e96c0b1ec3a1633d4e306e7cdcf1dcc1f81f55ff688756.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 8,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        564,
+                                        362,
+                                        713,
+                                        409
+                                    ],
+                                    "spans": [],
+                                    "index": 8
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        41,
+                        513,
+                        852,
+                        1335
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                41,
+                                513,
+                                852,
+                                1335
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        41,
+                                        513,
+                                        852,
+                                        1335
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                41,
+                                                513,
+                                                852,
+                                                1335
+                                            ],
+                                            "score": 0.491,
+                                            "type": "image",
+                                            "image_path": "b235536f96b9f0e151aa3f4e44dcbd60474f8fc23bd40a29a808f49d95c1392a.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 12,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        41,
+                                        513,
+                                        852,
+                                        787.0
+                                    ],
+                                    "spans": [],
+                                    "index": 11
+                                },
+                                {
+                                    "bbox": [
+                                        41,
+                                        787.0,
+                                        852,
+                                        1061.0
+                                    ],
+                                    "spans": [],
+                                    "index": 12
+                                },
+                                {
+                                    "bbox": [
+                                        41,
+                                        1061.0,
+                                        852,
+                                        1335.0
+                                    ],
+                                    "spans": [],
+                                    "index": 13
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 12
+                }
+            ],
+            "tables": [],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        741,
+                        171,
+                        854,
+                        250
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        99,
+                        1226,
+                        794,
+                        1256
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        44,
+                        1,
+                        131,
+                        141
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        47,
+                        1282,
+                        850,
+                        1348
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        665,
+                        72,
+                        854,
+                        132
+                    ],
+                    "lines": []
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        154,
+                        20,
+                        383,
+                        59
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                157,
+                                23,
+                                381,
+                                57
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        157,
+                                        23,
+                                        276,
+                                        57
+                                    ],
+                                    "score": 0.99,
+                                    "content": "【2025年",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        280,
+                                        24,
+                                        381,
+                                        57
+                                    ],
+                                    "score": 0.99,
+                                    "content": "1-4月】",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        89,
+                        163,
+                        181,
+                        212
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                92,
+                                165,
+                                179,
+                                212
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        165,
+                                        179,
+                                        212
+                                    ],
+                                    "score": 0.99,
+                                    "content": "App",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        }
+                    ],
+                    "index": 1,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        372,
+                        167,
+                        523,
+                        221
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                371,
+                                169,
+                                522,
+                                222
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        371,
+                                        169,
+                                        522,
+                                        222
+                                    ],
+                                    "score": 1.0,
+                                    "content": "雅思哥",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 2,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        118,
+                        232,
+                        225,
+                        268
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                120,
+                                233,
+                                224,
+                                268
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        120,
+                                        233,
+                                        224,
+                                        268
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Part1",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        372,
+                        223,
+                        520,
+                        248
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                381,
+                                226,
+                                517,
+                                246
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        381,
+                                        227,
+                                        448,
+                                        244
+                                    ],
+                                    "score": 0.98,
+                                    "content": "ELTS",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        451,
+                                        226,
+                                        517,
+                                        246
+                                    ],
+                                    "score": 0.77,
+                                    "content": "BR笛",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 4,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        381,
+                        226,
+                        517,
+                        246
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        96,
+                        291,
+                        789,
+                        365
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                95,
+                                293,
+                                783,
+                                330
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        293,
+                                        783,
+                                        330
+                                    ],
+                                    "score": 0.97,
+                                    "content": "1. What kind of apps have you downloaded on your",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                125,
+                                335,
+                                228,
+                                370
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        125,
+                                        335,
+                                        228,
+                                        370
+                                    ],
+                                    "score": 0.97,
+                                    "content": "phone?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        }
+                    ],
+                    "index": 5.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        95,
+                        293,
+                        783,
+                        370
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        93,
+                        373,
+                        498,
+                        409
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                93,
+                                374,
+                                495,
+                                410
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        93,
+                                        374,
+                                        495,
+                                        410
+                                    ],
+                                    "score": 0.98,
+                                    "content": "2. What apps do you still use?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        }
+                    ],
+                    "index": 7,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        93,
+                        374,
+                        495,
+                        410
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        564,
+                        362,
+                        713,
+                        409
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                564,
+                                362,
+                                713,
+                                409
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        564,
+                                        362,
+                                        713,
+                                        409
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                564,
+                                                362,
+                                                713,
+                                                409
+                                            ],
+                                            "score": 0.122,
+                                            "type": "image",
+                                            "image_path": "bb43d7ed34bf15b804e96c0b1ec3a1633d4e306e7cdcf1dcc1f81f55ff688756.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 8,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        564,
+                                        362,
+                                        713,
+                                        409
+                                    ],
+                                    "spans": [],
+                                    "index": 8
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        96,
+                        415,
+                        604,
+                        450
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                95,
+                                416,
+                                599,
+                                450
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        416,
+                                        599,
+                                        450
+                                    ],
+                                    "score": 0.97,
+                                    "content": "3. What apps don't you use anymore?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        }
+                    ],
+                    "index": 9,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        95,
+                        416,
+                        599,
+                        450
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        95,
+                        455,
+                        718,
+                        491
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                94,
+                                455,
+                                716,
+                                494
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        94,
+                                        455,
+                                        716,
+                                        494
+                                    ],
+                                    "score": 1.0,
+                                    "content": "4. What kind of apps do you spend money on?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        }
+                    ],
+                    "index": 10,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        94,
+                        455,
+                        716,
+                        494
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        41,
+                        513,
+                        852,
+                        1335
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                41,
+                                513,
+                                852,
+                                1335
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        41,
+                                        513,
+                                        852,
+                                        1335
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                41,
+                                                513,
+                                                852,
+                                                1335
+                                            ],
+                                            "score": 0.491,
+                                            "type": "image",
+                                            "image_path": "b235536f96b9f0e151aa3f4e44dcbd60474f8fc23bd40a29a808f49d95c1392a.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 12,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        41,
+                                        513,
+                                        852,
+                                        787.0
+                                    ],
+                                    "spans": [],
+                                    "index": 11
+                                },
+                                {
+                                    "bbox": [
+                                        41,
+                                        787.0,
+                                        852,
+                                        1061.0
+                                    ],
+                                    "spans": [],
+                                    "index": 12
+                                },
+                                {
+                                    "bbox": [
+                                        41,
+                                        1061.0,
+                                        852,
+                                        1335.0
+                                    ],
+                                    "spans": [],
+                                    "index": 13
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 12,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                }
+            ]
+        }
+    ],
+    "_parse_type": "ocr",
+    "_version_name": "1.2.2"
+}

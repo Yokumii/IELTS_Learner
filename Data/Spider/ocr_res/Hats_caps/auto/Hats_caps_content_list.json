@@ -1,0 +1,42 @@
+[
+    {
+        "type": "text",
+        "text": "Hats/caps ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "雅思哥",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Part1 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "IELTS BR ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Is wearing hats popular in your country?   \n2. Where do you like to buy hats?   \n3. What kinds of hats do you have? 雅思哥   \n4.Doyou like towear hats? ELT ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "BRC ",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/2fefc4635a51c36c4f304afe3cc3865936e024136e62eb28087c458b2709a0d7.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    }
+]

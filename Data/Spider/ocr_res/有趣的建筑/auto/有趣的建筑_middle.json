@@ -1,0 +1,1651 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        154,
+                        20,
+                        383,
+                        59
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                157,
+                                23,
+                                381,
+                                57
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        157,
+                                        23,
+                                        276,
+                                        57
+                                    ],
+                                    "score": 0.99,
+                                    "content": "【2025年",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        280,
+                                        24,
+                                        381,
+                                        57
+                                    ],
+                                    "score": 0.99,
+                                    "content": "1-4月】",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        723,
+                        82,
+                        797,
+                        123
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                725,
+                                83,
+                                798,
+                                124
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        725,
+                                        83,
+                                        798,
+                                        124
+                                    ],
+                                    "score": 1.0,
+                                    "content": "新题",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        91,
+                        157,
+                        309,
+                        206
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                92,
+                                162,
+                                306,
+                                203
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        162,
+                                        306,
+                                        203
+                                    ],
+                                    "score": 1.0,
+                                    "content": "有趣的建筑",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        372,
+                        168,
+                        523,
+                        221
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                371,
+                                169,
+                                522,
+                                221
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        371,
+                                        169,
+                                        522,
+                                        221
+                                    ],
+                                    "score": 1.0,
+                                    "content": "雅思哥",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        372,
+                        223,
+                        520,
+                        248
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                386,
+                                226,
+                                517,
+                                246
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        386,
+                                        226,
+                                        517,
+                                        246
+                                    ],
+                                    "score": 0.84,
+                                    "content": "ELTS BR笛",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        119,
+                        233,
+                        228,
+                        268
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                120,
+                                232,
+                                229,
+                                269
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        120,
+                                        232,
+                                        229,
+                                        269
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Part2",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        743,
+                        172,
+                        849,
+                        223
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                742,
+                                171,
+                                847,
+                                225
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        742,
+                                        171,
+                                        847,
+                                        225
+                                    ],
+                                    "score": 1.0,
+                                    "content": "雅思",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        89,
+                        292,
+                        543,
+                        368
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                91,
+                                292,
+                                537,
+                                328
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        91,
+                                        292,
+                                        537,
+                                        328
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Describe an interesting building",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                92,
+                                331,
+                                301,
+                                370
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        331,
+                                        301,
+                                        370
+                                    ],
+                                    "score": 0.97,
+                                    "content": "You should say:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        }
+                    ],
+                    "index": 7.5
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        564,
+                        358,
+                        714,
+                        410
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                563,
+                                358,
+                                711,
+                                412
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        563,
+                                        358,
+                                        711,
+                                        412
+                                    ],
+                                    "score": 1.0,
+                                    "content": "雅思哥",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        }
+                    ],
+                    "index": 10
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        101,
+                        375,
+                        669,
+                        532
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                105,
+                                374,
+                                253,
+                                405
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        374,
+                                        253,
+                                        405
+                                    ],
+                                    "score": 0.93,
+                                    "content": "Where it is",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                106,
+                                416,
+                                336,
+                                445
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        416,
+                                        336,
+                                        445
+                                    ],
+                                    "score": 0.94,
+                                    "content": "Whatit looks like",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                107,
+                                457,
+                                379,
+                                484
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        107,
+                                        457,
+                                        379,
+                                        484
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Whatfunctionithas",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                105,
+                                497,
+                                662,
+                                529
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        497,
+                                        662,
+                                        529
+                                    ],
+                                    "score": 0.96,
+                                    "content": "And explain why you think it is interesting",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        }
+                    ],
+                    "index": 12.0
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        566,
+                        414,
+                        712,
+                        437
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                566,
+                                414,
+                                712,
+                                437
+                            ],
+                            "spans": [],
+                            "index": 12
+                        }
+                    ],
+                    "index": 12
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        119,
+                        563,
+                        228,
+                        599
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                120,
+                                563,
+                                227,
+                                599
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        120,
+                                        563,
+                                        199,
+                                        599
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Part",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        202,
+                                        564,
+                                        227,
+                                        596
+                                    ],
+                                    "score": 1.0,
+                                    "content": "3",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        }
+                    ],
+                    "index": 15
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        90,
+                        622,
+                        803,
+                        894
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                97,
+                                625,
+                                707,
+                                660
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        97,
+                                        625,
+                                        707,
+                                        660
+                                    ],
+                                    "score": 0.98,
+                                    "content": "1. What types of buildings are popular in your",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                124,
+                                666,
+                                247,
+                                702
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        124,
+                                        666,
+                                        247,
+                                        702
+                                    ],
+                                    "score": 0.99,
+                                    "content": "country?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                95,
+                                707,
+                                800,
+                                740
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        707,
+                                        800,
+                                        740
+                                    ],
+                                    "score": 0.98,
+                                    "content": "2. Is it worth spending a lot of money on the exterior",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                127,
+                                747,
+                                702,
+                                781
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        127,
+                                        747,
+                                        473,
+                                        781
+                                    ],
+                                    "score": 0.99,
+                                    "content": "appearance of a building?",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        568,
+                                        748,
+                                        702,
+                                        778
+                                    ],
+                                    "score": 0.84,
+                                    "content": "雅思号",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                94,
+                                786,
+                                797,
+                                821
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        94,
+                                        786,
+                                        797,
+                                        821
+                                    ],
+                                    "score": 0.98,
+                                    "content": "3. Is it more important for a building to look good on",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                127,
+                                828,
+                                507,
+                                858
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        127,
+                                        828,
+                                        507,
+                                        858
+                                    ],
+                                    "score": 0.97,
+                                    "content": "the outsideorontheinside?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                97,
+                                869,
+                                691,
+                                901
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        97,
+                                        869,
+                                        691,
+                                        901
+                                    ],
+                                    "score": 0.96,
+                                    "content": "4. Why do people like to visit historical sites?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        }
+                    ],
+                    "index": 19
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        91,
+                        866,
+                        695,
+                        901
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                91,
+                                866,
+                                695,
+                                901
+                            ],
+                            "spans": [],
+                            "index": 22
+                        }
+                    ],
+                    "index": 22
+                }
+            ],
+            "layout_bboxes": [],
+            "page_idx": 0,
+            "page_size": [
+                900.0,
+                1350.0
+            ],
+            "_layout_tree": [],
+            "images": [],
+            "tables": [],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        100,
+                        1227,
+                        793,
+                        1256
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        45,
+                        1,
+                        131,
+                        140
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        90,
+                        945,
+                        736,
+                        982
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        742,
+                        537,
+                        854,
+                        615
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        47,
+                        1283,
+                        848,
+                        1348
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        566,
+                        1160,
+                        711,
+                        1184
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        188,
+                        1157,
+                        335,
+                        1182
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        563,
+                        1103,
+                        715,
+                        1157
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        187,
+                        1101,
+                        338,
+                        1155
+                    ],
+                    "lines": []
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        154,
+                        20,
+                        383,
+                        59
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                157,
+                                23,
+                                381,
+                                57
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        157,
+                                        23,
+                                        276,
+                                        57
+                                    ],
+                                    "score": 0.99,
+                                    "content": "【2025年",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        280,
+                                        24,
+                                        381,
+                                        57
+                                    ],
+                                    "score": 0.99,
+                                    "content": "1-4月】",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        157,
+                        23,
+                        381,
+                        57
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        723,
+                        82,
+                        797,
+                        123
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                725,
+                                83,
+                                798,
+                                124
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        725,
+                                        83,
+                                        798,
+                                        124
+                                    ],
+                                    "score": 1.0,
+                                    "content": "新题",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        }
+                    ],
+                    "index": 1,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        91,
+                        157,
+                        309,
+                        206
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                92,
+                                162,
+                                306,
+                                203
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        162,
+                                        306,
+                                        203
+                                    ],
+                                    "score": 1.0,
+                                    "content": "有趣的建筑",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 2,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        372,
+                        168,
+                        523,
+                        221
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                371,
+                                169,
+                                522,
+                                221
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        371,
+                                        169,
+                                        522,
+                                        221
+                                    ],
+                                    "score": 1.0,
+                                    "content": "雅思哥",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        372,
+                        223,
+                        520,
+                        248
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                386,
+                                226,
+                                517,
+                                246
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        386,
+                                        226,
+                                        517,
+                                        246
+                                    ],
+                                    "score": 0.84,
+                                    "content": "ELTS BR笛",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 4,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        386,
+                        226,
+                        517,
+                        246
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        119,
+                        233,
+                        228,
+                        268
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                120,
+                                232,
+                                229,
+                                269
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        120,
+                                        232,
+                                        229,
+                                        269
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Part2",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        }
+                    ],
+                    "index": 5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        743,
+                        172,
+                        849,
+                        223
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                742,
+                                171,
+                                847,
+                                225
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        742,
+                                        171,
+                                        847,
+                                        225
+                                    ],
+                                    "score": 1.0,
+                                    "content": "雅思",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        }
+                    ],
+                    "index": 6,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        89,
+                        292,
+                        543,
+                        368
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                91,
+                                292,
+                                537,
+                                328
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        91,
+                                        292,
+                                        537,
+                                        328
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Describe an interesting building",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                92,
+                                331,
+                                301,
+                                370
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        331,
+                                        301,
+                                        370
+                                    ],
+                                    "score": 0.97,
+                                    "content": "You should say:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        }
+                    ],
+                    "index": 7.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        91,
+                        292,
+                        537,
+                        370
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        564,
+                        358,
+                        714,
+                        410
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                563,
+                                358,
+                                711,
+                                412
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        563,
+                                        358,
+                                        711,
+                                        412
+                                    ],
+                                    "score": 1.0,
+                                    "content": "雅思哥",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        }
+                    ],
+                    "index": 10,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "list",
+                    "bbox": [
+                        101,
+                        375,
+                        669,
+                        532
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                105,
+                                374,
+                                253,
+                                405
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        374,
+                                        253,
+                                        405
+                                    ],
+                                    "score": 0.93,
+                                    "content": "Where it is",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                106,
+                                416,
+                                336,
+                                445
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        416,
+                                        336,
+                                        445
+                                    ],
+                                    "score": 0.94,
+                                    "content": "Whatit looks like",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                107,
+                                457,
+                                379,
+                                484
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        107,
+                                        457,
+                                        379,
+                                        484
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Whatfunctionithas",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                105,
+                                497,
+                                662,
+                                529
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        497,
+                                        662,
+                                        529
+                                    ],
+                                    "score": 0.96,
+                                    "content": "And explain why you think it is interesting",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14,
+                            "is_list_start_line": true
+                        }
+                    ],
+                    "index": 12.0,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        105,
+                        374,
+                        662,
+                        529
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        566,
+                        414,
+                        712,
+                        437
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                566,
+                                414,
+                                712,
+                                437
+                            ],
+                            "spans": [],
+                            "index": 12
+                        }
+                    ],
+                    "index": 12,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        566,
+                        414,
+                        712,
+                        437
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        119,
+                        563,
+                        228,
+                        599
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                120,
+                                563,
+                                227,
+                                599
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        120,
+                                        563,
+                                        199,
+                                        599
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Part",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        202,
+                                        564,
+                                        227,
+                                        596
+                                    ],
+                                    "score": 1.0,
+                                    "content": "3",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        }
+                    ],
+                    "index": 15,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "list",
+                    "bbox": [
+                        90,
+                        622,
+                        803,
+                        894
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                97,
+                                625,
+                                707,
+                                660
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        97,
+                                        625,
+                                        707,
+                                        660
+                                    ],
+                                    "score": 0.98,
+                                    "content": "1. What types of buildings are popular in your",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16,
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                124,
+                                666,
+                                247,
+                                702
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        124,
+                                        666,
+                                        247,
+                                        702
+                                    ],
+                                    "score": 0.99,
+                                    "content": "country?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                95,
+                                707,
+                                800,
+                                740
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        707,
+                                        800,
+                                        740
+                                    ],
+                                    "score": 0.98,
+                                    "content": "2. Is it worth spending a lot of money on the exterior",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                127,
+                                747,
+                                702,
+                                781
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        127,
+                                        747,
+                                        473,
+                                        781
+                                    ],
+                                    "score": 0.99,
+                                    "content": "appearance of a building?",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        568,
+                                        748,
+                                        702,
+                                        778
+                                    ],
+                                    "score": 0.84,
+                                    "content": "雅思号",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                94,
+                                786,
+                                797,
+                                821
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        94,
+                                        786,
+                                        797,
+                                        821
+                                    ],
+                                    "score": 0.98,
+                                    "content": "3. Is it more important for a building to look good on",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                127,
+                                828,
+                                507,
+                                858
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        127,
+                                        828,
+                                        507,
+                                        858
+                                    ],
+                                    "score": 0.97,
+                                    "content": "the outsideorontheinside?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                97,
+                                869,
+                                691,
+                                901
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        97,
+                                        869,
+                                        691,
+                                        901
+                                    ],
+                                    "score": 0.96,
+                                    "content": "4. Why do people like to visit historical sites?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23,
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        }
+                    ],
+                    "index": 19,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        94,
+                        625,
+                        800,
+                        901
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        91,
+                        866,
+                        695,
+                        901
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                91,
+                                866,
+                                695,
+                                901
+                            ],
+                            "spans": [],
+                            "index": 22
+                        }
+                    ],
+                    "index": 22,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        91,
+                        866,
+                        695,
+                        901
+                    ]
+                }
+            ]
+        }
+    ],
+    "_parse_type": "ocr",
+    "_version_name": "1.2.2"
+}

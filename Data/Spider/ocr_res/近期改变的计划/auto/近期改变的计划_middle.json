@@ -1,0 +1,1775 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        89,
+                        156,
+                        393,
+                        206
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                92,
+                                161,
+                                390,
+                                204
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        161,
+                                        390,
+                                        204
+                                    ],
+                                    "score": 1.0,
+                                    "content": "近期改变的计划",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        423,
+                        170,
+                        523,
+                        220
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                428,
+                                173,
+                                520,
+                                218
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        428,
+                                        173,
+                                        520,
+                                        218
+                                    ],
+                                    "score": 0.99,
+                                    "content": "思哥",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        119,
+                        233,
+                        228,
+                        268
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                120,
+                                233,
+                                229,
+                                268
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        120,
+                                        233,
+                                        229,
+                                        268
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Part2",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        371,
+                        223,
+                        520,
+                        248
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                387,
+                                227,
+                                517,
+                                246
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        387,
+                                        227,
+                                        448,
+                                        243
+                                    ],
+                                    "score": 0.98,
+                                    "content": "ELTS",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        454,
+                                        227,
+                                        517,
+                                        246
+                                    ],
+                                    "score": 0.71,
+                                    "content": "BR笛",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        88,
+                        291,
+                        766,
+                        367
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                94,
+                                296,
+                                758,
+                                329
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        94,
+                                        296,
+                                        758,
+                                        329
+                                    ],
+                                    "score": 0.96,
+                                    "content": "Describe a plan that you had to change recently",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                92,
+                                331,
+                                302,
+                                370
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        331,
+                                        302,
+                                        370
+                                    ],
+                                    "score": 0.97,
+                                    "content": "You should say:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        }
+                    ],
+                    "index": 4.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        98,
+                        372,
+                        579,
+                        531
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                106,
+                                374,
+                                385,
+                                407
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        374,
+                                        385,
+                                        407
+                                    ],
+                                    "score": 0.97,
+                                    "content": "When this happened",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                105,
+                                415,
+                                543,
+                                450
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        415,
+                                        543,
+                                        450
+                                    ],
+                                    "score": 0.98,
+                                    "content": "What made you change the plan",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                107,
+                                457,
+                                423,
+                                488
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        107,
+                                        457,
+                                        423,
+                                        488
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Whatthenewplanwas",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                105,
+                                496,
+                                578,
+                                530
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        496,
+                                        578,
+                                        530
+                                    ],
+                                    "score": 0.96,
+                                    "content": "And how you felt about the change",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        }
+                    ],
+                    "index": 7.5
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        563,
+                        359,
+                        715,
+                        439
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                563,
+                                359,
+                                715,
+                                439
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        563,
+                                        359,
+                                        715,
+                                        439
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                563,
+                                                359,
+                                                715,
+                                                439
+                                            ],
+                                            "score": 0.13,
+                                            "type": "image",
+                                            "image_path": "a0f61cc8f56d848e06412841a2a48e6e36656a360fe3524c517f917dd7a868df.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 9.5,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        563,
+                                        359,
+                                        715,
+                                        399.0
+                                    ],
+                                    "spans": [],
+                                    "index": 9
+                                },
+                                {
+                                    "bbox": [
+                                        563,
+                                        399.0,
+                                        715,
+                                        439.0
+                                    ],
+                                    "spans": [],
+                                    "index": 10
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 9.5
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        119,
+                        563,
+                        228,
+                        599
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                120,
+                                563,
+                                227,
+                                599
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        120,
+                                        563,
+                                        199,
+                                        599
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Part",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        201,
+                                        564,
+                                        227,
+                                        597
+                                    ],
+                                    "score": 1.0,
+                                    "content": "3",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        }
+                    ],
+                    "index": 12
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        90,
+                        623,
+                        806,
+                        821
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                99,
+                                626,
+                                613,
+                                659
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        99,
+                                        626,
+                                        613,
+                                        659
+                                    ],
+                                    "score": 0.97,
+                                    "content": "1. Do people often change their plans?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                95,
+                                664,
+                                746,
+                                702
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        664,
+                                        746,
+                                        702
+                                    ],
+                                    "score": 0.98,
+                                    "content": "2. Would you tell others if you change your plan?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                93,
+                                705,
+                                758,
+                                743
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        93,
+                                        705,
+                                        758,
+                                        743
+                                    ],
+                                    "score": 0.99,
+                                    "content": "3. How does technology help people make plans?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                95,
+                                747,
+                                798,
+                                781
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        747,
+                                        798,
+                                        781
+                                    ],
+                                    "score": 0.99,
+                                    "content": "4. Why do you think parents still make plans for their",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                128,
+                                785,
+                                390,
+                                821
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        128,
+                                        785,
+                                        390,
+                                        821
+                                    ],
+                                    "score": 0.99,
+                                    "content": "childrennowadays?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        }
+                    ],
+                    "index": 15
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        86,
+                        864,
+                        675,
+                        900
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                92,
+                                869,
+                                668,
+                                897
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        869,
+                                        668,
+                                        897
+                                    ],
+                                    "score": 0.98,
+                                    "content": "温馨提示：疑似新题待确认，随时关注更新哦！",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        }
+                    ],
+                    "index": 18
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        372,
+                        914,
+                        523,
+                        968
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                373,
+                                915,
+                                522,
+                                968
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        373,
+                                        915,
+                                        522,
+                                        968
+                                    ],
+                                    "score": 1.0,
+                                    "content": "雅思哥",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        }
+                    ],
+                    "index": 19
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        187,
+                        1102,
+                        338,
+                        1154
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                186,
+                                1101,
+                                338,
+                                1158
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        186,
+                                        1101,
+                                        338,
+                                        1158
+                                    ],
+                                    "score": 1.0,
+                                    "content": "雅思哥",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        }
+                    ],
+                    "index": 20
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        563,
+                        1104,
+                        715,
+                        1157
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                562,
+                                1105,
+                                706,
+                                1158
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        562,
+                                        1105,
+                                        706,
+                                        1158
+                                    ],
+                                    "score": 1.0,
+                                    "content": "雅思哥",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        }
+                    ],
+                    "index": 21
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        188,
+                        1157,
+                        335,
+                        1182
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                194,
+                                1160,
+                                334,
+                                1180
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        194,
+                                        1160,
+                                        334,
+                                        1180
+                                    ],
+                                    "score": 0.95,
+                                    "content": "ELTS BRO",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        }
+                    ],
+                    "index": 22
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        566,
+                        1160,
+                        711,
+                        1184
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                649,
+                                1164,
+                                707,
+                                1181
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        649,
+                                        1164,
+                                        707,
+                                        1181
+                                    ],
+                                    "score": 0.72,
+                                    "content": "BRe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        }
+                    ],
+                    "index": 23
+                }
+            ],
+            "layout_bboxes": [],
+            "page_idx": 0,
+            "page_size": [
+                900.0,
+                1350.0
+            ],
+            "_layout_tree": [],
+            "images": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        563,
+                        359,
+                        715,
+                        439
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                563,
+                                359,
+                                715,
+                                439
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        563,
+                                        359,
+                                        715,
+                                        439
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                563,
+                                                359,
+                                                715,
+                                                439
+                                            ],
+                                            "score": 0.13,
+                                            "type": "image",
+                                            "image_path": "a0f61cc8f56d848e06412841a2a48e6e36656a360fe3524c517f917dd7a868df.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 9.5,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        563,
+                                        359,
+                                        715,
+                                        399.0
+                                    ],
+                                    "spans": [],
+                                    "index": 9
+                                },
+                                {
+                                    "bbox": [
+                                        563,
+                                        399.0,
+                                        715,
+                                        439.0
+                                    ],
+                                    "spans": [],
+                                    "index": 10
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 9.5
+                }
+            ],
+            "tables": [],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        741,
+                        171,
+                        854,
+                        250
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        99,
+                        1227,
+                        794,
+                        1256
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        43,
+                        1,
+                        131,
+                        140
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        742,
+                        537,
+                        854,
+                        615
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        665,
+                        72,
+                        854,
+                        132
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        48,
+                        1280,
+                        849,
+                        1349
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        78,
+                        0,
+                        858,
+                        72
+                    ],
+                    "lines": []
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        89,
+                        156,
+                        393,
+                        206
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                92,
+                                161,
+                                390,
+                                204
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        161,
+                                        390,
+                                        204
+                                    ],
+                                    "score": 1.0,
+                                    "content": "近期改变的计划",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        423,
+                        170,
+                        523,
+                        220
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                428,
+                                173,
+                                520,
+                                218
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        428,
+                                        173,
+                                        520,
+                                        218
+                                    ],
+                                    "score": 0.99,
+                                    "content": "思哥",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        }
+                    ],
+                    "index": 1,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        119,
+                        233,
+                        228,
+                        268
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                120,
+                                233,
+                                229,
+                                268
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        120,
+                                        233,
+                                        229,
+                                        268
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Part2",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 2,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        371,
+                        223,
+                        520,
+                        248
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                387,
+                                227,
+                                517,
+                                246
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        387,
+                                        227,
+                                        448,
+                                        243
+                                    ],
+                                    "score": 0.98,
+                                    "content": "ELTS",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        454,
+                                        227,
+                                        517,
+                                        246
+                                    ],
+                                    "score": 0.71,
+                                    "content": "BR笛",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        387,
+                        227,
+                        517,
+                        246
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        88,
+                        291,
+                        766,
+                        367
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                94,
+                                296,
+                                758,
+                                329
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        94,
+                                        296,
+                                        758,
+                                        329
+                                    ],
+                                    "score": 0.96,
+                                    "content": "Describe a plan that you had to change recently",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                92,
+                                331,
+                                302,
+                                370
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        331,
+                                        302,
+                                        370
+                                    ],
+                                    "score": 0.97,
+                                    "content": "You should say:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        }
+                    ],
+                    "index": 4.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        92,
+                        296,
+                        758,
+                        370
+                    ]
+                },
+                {
+                    "type": "list",
+                    "bbox": [
+                        98,
+                        372,
+                        579,
+                        531
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                106,
+                                374,
+                                385,
+                                407
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        374,
+                                        385,
+                                        407
+                                    ],
+                                    "score": 0.97,
+                                    "content": "When this happened",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                105,
+                                415,
+                                543,
+                                450
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        415,
+                                        543,
+                                        450
+                                    ],
+                                    "score": 0.98,
+                                    "content": "What made you change the plan",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                107,
+                                457,
+                                423,
+                                488
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        107,
+                                        457,
+                                        423,
+                                        488
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Whatthenewplanwas",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                105,
+                                496,
+                                578,
+                                530
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        496,
+                                        578,
+                                        530
+                                    ],
+                                    "score": 0.96,
+                                    "content": "And how you felt about the change",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11,
+                            "is_list_start_line": true
+                        }
+                    ],
+                    "index": 7.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        105,
+                        374,
+                        578,
+                        530
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        563,
+                        359,
+                        715,
+                        439
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                563,
+                                359,
+                                715,
+                                439
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        563,
+                                        359,
+                                        715,
+                                        439
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                563,
+                                                359,
+                                                715,
+                                                439
+                                            ],
+                                            "score": 0.13,
+                                            "type": "image",
+                                            "image_path": "a0f61cc8f56d848e06412841a2a48e6e36656a360fe3524c517f917dd7a868df.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 9.5,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        563,
+                                        359,
+                                        715,
+                                        399.0
+                                    ],
+                                    "spans": [],
+                                    "index": 9
+                                },
+                                {
+                                    "bbox": [
+                                        563,
+                                        399.0,
+                                        715,
+                                        439.0
+                                    ],
+                                    "spans": [],
+                                    "index": 10
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 9.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        119,
+                        563,
+                        228,
+                        599
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                120,
+                                563,
+                                227,
+                                599
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        120,
+                                        563,
+                                        199,
+                                        599
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Part",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        201,
+                                        564,
+                                        227,
+                                        597
+                                    ],
+                                    "score": 1.0,
+                                    "content": "3",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        }
+                    ],
+                    "index": 12,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "index",
+                    "bbox": [
+                        90,
+                        623,
+                        806,
+                        821
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                99,
+                                626,
+                                613,
+                                659
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        99,
+                                        626,
+                                        613,
+                                        659
+                                    ],
+                                    "score": 0.97,
+                                    "content": "1. Do people often change their plans?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                95,
+                                664,
+                                746,
+                                702
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        664,
+                                        746,
+                                        702
+                                    ],
+                                    "score": 0.98,
+                                    "content": "2. Would you tell others if you change your plan?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                93,
+                                705,
+                                758,
+                                743
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        93,
+                                        705,
+                                        758,
+                                        743
+                                    ],
+                                    "score": 0.99,
+                                    "content": "3. How does technology help people make plans?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                95,
+                                747,
+                                798,
+                                781
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        747,
+                                        798,
+                                        781
+                                    ],
+                                    "score": 0.99,
+                                    "content": "4. Why do you think parents still make plans for their",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                128,
+                                785,
+                                390,
+                                821
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        128,
+                                        785,
+                                        390,
+                                        821
+                                    ],
+                                    "score": 0.99,
+                                    "content": "childrennowadays?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17,
+                            "is_list_start_line": true
+                        }
+                    ],
+                    "index": 15,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        93,
+                        626,
+                        798,
+                        821
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        86,
+                        864,
+                        675,
+                        900
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                92,
+                                869,
+                                668,
+                                897
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        869,
+                                        668,
+                                        897
+                                    ],
+                                    "score": 0.98,
+                                    "content": "温馨提示：疑似新题待确认，随时关注更新哦！",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        }
+                    ],
+                    "index": 18,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        92,
+                        869,
+                        668,
+                        897
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        372,
+                        914,
+                        523,
+                        968
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                373,
+                                915,
+                                522,
+                                968
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        373,
+                                        915,
+                                        522,
+                                        968
+                                    ],
+                                    "score": 1.0,
+                                    "content": "雅思哥",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        }
+                    ],
+                    "index": 19,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        187,
+                        1102,
+                        338,
+                        1154
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                186,
+                                1101,
+                                338,
+                                1158
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        186,
+                                        1101,
+                                        338,
+                                        1158
+                                    ],
+                                    "score": 1.0,
+                                    "content": "雅思哥",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        }
+                    ],
+                    "index": 20,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        563,
+                        1104,
+                        715,
+                        1157
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                562,
+                                1105,
+                                706,
+                                1158
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        562,
+                                        1105,
+                                        706,
+                                        1158
+                                    ],
+                                    "score": 1.0,
+                                    "content": "雅思哥",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        }
+                    ],
+                    "index": 21,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        188,
+                        1157,
+                        335,
+                        1182
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                194,
+                                1160,
+                                334,
+                                1180
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        194,
+                                        1160,
+                                        334,
+                                        1180
+                                    ],
+                                    "score": 0.95,
+                                    "content": "ELTS BRO",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        }
+                    ],
+                    "index": 22,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        194,
+                        1160,
+                        334,
+                        1180
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        566,
+                        1160,
+                        711,
+                        1184
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                649,
+                                1164,
+                                707,
+                                1181
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        649,
+                                        1164,
+                                        707,
+                                        1181
+                                    ],
+                                    "score": 0.72,
+                                    "content": "BRe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        }
+                    ],
+                    "index": 23,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        649,
+                        1164,
+                        707,
+                        1181
+                    ]
+                }
+            ]
+        }
+    ],
+    "_parse_type": "ocr",
+    "_version_name": "1.2.2"
+}

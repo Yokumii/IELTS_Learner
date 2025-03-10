@@ -1,0 +1,1447 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        90,
+                        156,
+                        543,
+                        207
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                95,
+                                163,
+                                534,
+                                204
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        163,
+                                        534,
+                                        204
+                                    ],
+                                    "score": 0.99,
+                                    "content": "学校/工作中的重要规则",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        119,
+                        233,
+                        228,
+                        268
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                120,
+                                233,
+                                229,
+                                268
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        120,
+                                        233,
+                                        229,
+                                        268
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Part2",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        372,
+                        222,
+                        521,
+                        248
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                383,
+                                226,
+                                517,
+                                246
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        383,
+                                        226,
+                                        517,
+                                        246
+                                    ],
+                                    "score": 0.83,
+                                    "content": "ELTS BR笛",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        89,
+                        291,
+                        789,
+                        362
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                92,
+                                293,
+                                785,
+                                330
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        293,
+                                        785,
+                                        330
+                                    ],
+                                    "score": 0.98,
+                                    "content": "Describe a rule that is important in your school or",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                90,
+                                335,
+                                202,
+                                367
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        90,
+                                        335,
+                                        202,
+                                        367
+                                    ],
+                                    "score": 1.0,
+                                    "content": "atwork",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 3.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        90,
+                        374,
+                        302,
+                        408
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                91,
+                                371,
+                                301,
+                                411
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        91,
+                                        371,
+                                        301,
+                                        411
+                                    ],
+                                    "score": 0.99,
+                                    "content": "You should say:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        563,
+                        360,
+                        714,
+                        411
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                561,
+                                359,
+                                710,
+                                412
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        561,
+                                        359,
+                                        710,
+                                        412
+                                    ],
+                                    "score": 1.0,
+                                    "content": "雅思哥",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        104,
+                        409,
+                        693,
+                        572
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                119,
+                                416,
+                                419,
+                                445
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        119,
+                                        416,
+                                        419,
+                                        445
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Whattheruleisabout",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                118,
+                                454,
+                                688,
+                                492
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        118,
+                                        454,
+                                        688,
+                                        492
+                                    ],
+                                    "score": 0.95,
+                                    "content": "What happens when people break the rule",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                116,
+                                495,
+                                606,
+                                532
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        116,
+                                        495,
+                                        606,
+                                        532
+                                    ],
+                                    "score": 0.98,
+                                    "content": "Why you think it is an important rule",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                118,
+                                539,
+                                651,
+                                568
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        118,
+                                        539,
+                                        651,
+                                        568
+                                    ],
+                                    "score": 0.96,
+                                    "content": "And explainhowyou feel abouttherule",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        }
+                    ],
+                    "index": 8.5
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        119,
+                        604,
+                        228,
+                        640
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                120,
+                                604,
+                                227,
+                                640
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        120,
+                                        604,
+                                        227,
+                                        640
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Part3",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        }
+                    ],
+                    "index": 11
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        88,
+                        662,
+                        812,
+                        1150
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                96,
+                                664,
+                                788,
+                                697
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        96,
+                                        664,
+                                        788,
+                                        697
+                                    ],
+                                    "score": 0.96,
+                                    "content": "1.What rules should children follow at home in your",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                125,
+                                704,
+                                245,
+                                741
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        125,
+                                        704,
+                                        245,
+                                        741
+                                    ],
+                                    "score": 1.0,
+                                    "content": "country?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                95,
+                                741,
+                                800,
+                                783
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        741,
+                                        800,
+                                        783
+                                    ],
+                                    "score": 0.98,
+                                    "content": "2. On what occasions can children be forgiven if they",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                127,
+                                786,
+                                448,
+                                816
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        127,
+                                        786,
+                                        448,
+                                        816
+                                    ],
+                                    "score": 0.96,
+                                    "content": "don't follow some rules?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                95,
+                                826,
+                                807,
+                                863
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        826,
+                                        807,
+                                        863
+                                    ],
+                                    "score": 0.98,
+                                    "content": "3. What rules should people follow when using public",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                126,
+                                867,
+                                266,
+                                901
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        126,
+                                        867,
+                                        266,
+                                        901
+                                    ],
+                                    "score": 1.0,
+                                    "content": "transport?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                95,
+                                907,
+                                761,
+                                943
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        907,
+                                        761,
+                                        943
+                                    ],
+                                    "score": 0.99,
+                                    "content": "4. What kinds of rules do people need to follow in",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                124,
+                                948,
+                                317,
+                                983
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        124,
+                                        948,
+                                        317,
+                                        983
+                                    ],
+                                    "score": 0.97,
+                                    "content": "public places?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                96,
+                                986,
+                                778,
+                                1025
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        96,
+                                        986,
+                                        778,
+                                        1025
+                                    ],
+                                    "score": 0.97,
+                                    "content": "5.What are the reasons that cause people tobreak",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                127,
+                                1029,
+                                208,
+                                1063
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        127,
+                                        1029,
+                                        208,
+                                        1063
+                                    ],
+                                    "score": 1.0,
+                                    "content": "rules?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                97,
+                                1072,
+                                730,
+                                1103
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        97,
+                                        1072,
+                                        730,
+                                        1103
+                                    ],
+                                    "score": 0.96,
+                                    "content": "6. When people break rules, how would they be",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                126,
+                                1112,
+                                474,
+                                1147
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        126,
+                                        1112,
+                                        474,
+                                        1147
+                                    ],
+                                    "score": 0.99,
+                                    "content": "punished in your country?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        }
+                    ],
+                    "index": 17.5
+                }
+            ],
+            "layout_bboxes": [],
+            "page_idx": 0,
+            "page_size": [
+                900.0,
+                1350.0
+            ],
+            "_layout_tree": [],
+            "images": [],
+            "tables": [],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        210,
+                        1226,
+                        688,
+                        1256
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        742,
+                        171,
+                        854,
+                        250
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        664,
+                        72,
+                        855,
+                        132
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        50,
+                        1277,
+                        851,
+                        1349
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        43,
+                        1,
+                        131,
+                        140
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        103,
+                        0,
+                        858,
+                        72
+                    ],
+                    "lines": []
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        90,
+                        156,
+                        543,
+                        207
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                95,
+                                163,
+                                534,
+                                204
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        163,
+                                        534,
+                                        204
+                                    ],
+                                    "score": 0.99,
+                                    "content": "学校/工作中的重要规则",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        119,
+                        233,
+                        228,
+                        268
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                120,
+                                233,
+                                229,
+                                268
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        120,
+                                        233,
+                                        229,
+                                        268
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Part2",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        }
+                    ],
+                    "index": 1,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        372,
+                        222,
+                        521,
+                        248
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                383,
+                                226,
+                                517,
+                                246
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        383,
+                                        226,
+                                        517,
+                                        246
+                                    ],
+                                    "score": 0.83,
+                                    "content": "ELTS BR笛",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 2,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        383,
+                        226,
+                        517,
+                        246
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        89,
+                        291,
+                        789,
+                        362
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                92,
+                                293,
+                                785,
+                                330
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        293,
+                                        785,
+                                        330
+                                    ],
+                                    "score": 0.98,
+                                    "content": "Describe a rule that is important in your school or",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                90,
+                                335,
+                                202,
+                                367
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        90,
+                                        335,
+                                        202,
+                                        367
+                                    ],
+                                    "score": 1.0,
+                                    "content": "atwork",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 3.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        90,
+                        293,
+                        785,
+                        367
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        90,
+                        374,
+                        302,
+                        408
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                91,
+                                371,
+                                301,
+                                411
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        91,
+                                        371,
+                                        301,
+                                        411
+                                    ],
+                                    "score": 0.99,
+                                    "content": "You should say:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        }
+                    ],
+                    "index": 5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        91,
+                        371,
+                        301,
+                        411
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        563,
+                        360,
+                        714,
+                        411
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                561,
+                                359,
+                                710,
+                                412
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        561,
+                                        359,
+                                        710,
+                                        412
+                                    ],
+                                    "score": 1.0,
+                                    "content": "雅思哥",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        }
+                    ],
+                    "index": 6,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        104,
+                        409,
+                        693,
+                        572
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                119,
+                                416,
+                                419,
+                                445
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        119,
+                                        416,
+                                        419,
+                                        445
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Whattheruleisabout",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                118,
+                                454,
+                                688,
+                                492
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        118,
+                                        454,
+                                        688,
+                                        492
+                                    ],
+                                    "score": 0.95,
+                                    "content": "What happens when people break the rule",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                116,
+                                495,
+                                606,
+                                532
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        116,
+                                        495,
+                                        606,
+                                        532
+                                    ],
+                                    "score": 0.98,
+                                    "content": "Why you think it is an important rule",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                118,
+                                539,
+                                651,
+                                568
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        118,
+                                        539,
+                                        651,
+                                        568
+                                    ],
+                                    "score": 0.96,
+                                    "content": "And explainhowyou feel abouttherule",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        }
+                    ],
+                    "index": 8.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        116,
+                        416,
+                        688,
+                        568
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        119,
+                        604,
+                        228,
+                        640
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                120,
+                                604,
+                                227,
+                                640
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        120,
+                                        604,
+                                        227,
+                                        640
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Part3",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        }
+                    ],
+                    "index": 11,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "list",
+                    "bbox": [
+                        88,
+                        662,
+                        812,
+                        1150
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                96,
+                                664,
+                                788,
+                                697
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        96,
+                                        664,
+                                        788,
+                                        697
+                                    ],
+                                    "score": 0.96,
+                                    "content": "1.What rules should children follow at home in your",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                125,
+                                704,
+                                245,
+                                741
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        125,
+                                        704,
+                                        245,
+                                        741
+                                    ],
+                                    "score": 1.0,
+                                    "content": "country?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                95,
+                                741,
+                                800,
+                                783
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        741,
+                                        800,
+                                        783
+                                    ],
+                                    "score": 0.98,
+                                    "content": "2. On what occasions can children be forgiven if they",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                127,
+                                786,
+                                448,
+                                816
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        127,
+                                        786,
+                                        448,
+                                        816
+                                    ],
+                                    "score": 0.96,
+                                    "content": "don't follow some rules?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                95,
+                                826,
+                                807,
+                                863
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        826,
+                                        807,
+                                        863
+                                    ],
+                                    "score": 0.98,
+                                    "content": "3. What rules should people follow when using public",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                126,
+                                867,
+                                266,
+                                901
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        126,
+                                        867,
+                                        266,
+                                        901
+                                    ],
+                                    "score": 1.0,
+                                    "content": "transport?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                95,
+                                907,
+                                761,
+                                943
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        907,
+                                        761,
+                                        943
+                                    ],
+                                    "score": 0.99,
+                                    "content": "4. What kinds of rules do people need to follow in",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18,
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                124,
+                                948,
+                                317,
+                                983
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        124,
+                                        948,
+                                        317,
+                                        983
+                                    ],
+                                    "score": 0.97,
+                                    "content": "public places?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                96,
+                                986,
+                                778,
+                                1025
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        96,
+                                        986,
+                                        778,
+                                        1025
+                                    ],
+                                    "score": 0.97,
+                                    "content": "5.What are the reasons that cause people tobreak",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                127,
+                                1029,
+                                208,
+                                1063
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        127,
+                                        1029,
+                                        208,
+                                        1063
+                                    ],
+                                    "score": 1.0,
+                                    "content": "rules?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                97,
+                                1072,
+                                730,
+                                1103
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        97,
+                                        1072,
+                                        730,
+                                        1103
+                                    ],
+                                    "score": 0.96,
+                                    "content": "6. When people break rules, how would they be",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22,
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                126,
+                                1112,
+                                474,
+                                1147
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        126,
+                                        1112,
+                                        474,
+                                        1147
+                                    ],
+                                    "score": 0.99,
+                                    "content": "punished in your country?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23,
+                            "is_list_end_line": true
+                        }
+                    ],
+                    "index": 17.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        95,
+                        664,
+                        807,
+                        1147
+                    ]
+                }
+            ]
+        }
+    ],
+    "_parse_type": "ocr",
+    "_version_name": "1.2.2"
+}

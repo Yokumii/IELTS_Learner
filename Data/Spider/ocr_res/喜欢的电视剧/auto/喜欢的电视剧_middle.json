@@ -1,0 +1,1725 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        723,
+                        82,
+                        797,
+                        123
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                725,
+                                83,
+                                798,
+                                124
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        725,
+                                        83,
+                                        798,
+                                        124
+                                    ],
+                                    "score": 1.0,
+                                    "content": "新题",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        90,
+                        157,
+                        351,
+                        206
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                93,
+                                162,
+                                346,
+                                203
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        93,
+                                        162,
+                                        346,
+                                        203
+                                    ],
+                                    "score": 1.0,
+                                    "content": "喜欢的电视剧",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        374,
+                        169,
+                        522,
+                        221
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                372,
+                                169,
+                                523,
+                                222
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        372,
+                                        169,
+                                        523,
+                                        222
+                                    ],
+                                    "score": 1.0,
+                                    "content": "雅思哥",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        119,
+                        233,
+                        228,
+                        268
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                120,
+                                233,
+                                229,
+                                268
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        120,
+                                        233,
+                                        229,
+                                        268
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Part2",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        743,
+                        172,
+                        849,
+                        223
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                742,
+                                171,
+                                847,
+                                225
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        742,
+                                        171,
+                                        847,
+                                        225
+                                    ],
+                                    "score": 1.0,
+                                    "content": "雅思",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        372,
+                        223,
+                        520,
+                        248
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                375,
+                                224,
+                                518,
+                                247
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        375,
+                                        224,
+                                        518,
+                                        247
+                                    ],
+                                    "score": 0.93,
+                                    "content": "IELTS BR",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        90,
+                        292,
+                        491,
+                        328
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                92,
+                                293,
+                                488,
+                                327
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        293,
+                                        488,
+                                        327
+                                    ],
+                                    "score": 0.96,
+                                    "content": "Describe a TV series you like",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        90,
+                        334,
+                        316,
+                        367
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                91,
+                                334,
+                                300,
+                                367
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        91,
+                                        334,
+                                        300,
+                                        367
+                                    ],
+                                    "score": 0.97,
+                                    "content": "You should say:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        565,
+                        359,
+                        714,
+                        410
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                563,
+                                358,
+                                693,
+                                412
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        563,
+                                        358,
+                                        693,
+                                        412
+                                    ],
+                                    "score": 1.0,
+                                    "content": "雅思",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        }
+                    ],
+                    "index": 9
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        100,
+                        373,
+                        559,
+                        531
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                108,
+                                376,
+                                555,
+                                403
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        108,
+                                        376,
+                                        555,
+                                        403
+                                    ],
+                                    "score": 0.95,
+                                    "content": "What is thenameof theTVseries",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                105,
+                                414,
+                                394,
+                                451
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        414,
+                                        394,
+                                        451
+                                    ],
+                                    "score": 0.96,
+                                    "content": "When you watched it",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                108,
+                                457,
+                                322,
+                                485
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        108,
+                                        457,
+                                        322,
+                                        485
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Whatitisabout",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                106,
+                                497,
+                                470,
+                                529
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        497,
+                                        470,
+                                        529
+                                    ],
+                                    "score": 0.97,
+                                    "content": "And explain why you like it.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        }
+                    ],
+                    "index": 11.0
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        567,
+                        414,
+                        713,
+                        437
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                567,
+                                414,
+                                713,
+                                437
+                            ],
+                            "spans": [],
+                            "index": 11
+                        }
+                    ],
+                    "index": 11
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        119,
+                        563,
+                        228,
+                        599
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                120,
+                                563,
+                                227,
+                                599
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        120,
+                                        563,
+                                        199,
+                                        599
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Part",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        201,
+                                        564,
+                                        227,
+                                        597
+                                    ],
+                                    "score": 1.0,
+                                    "content": "3",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        }
+                    ],
+                    "index": 14
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        91,
+                        620,
+                        801,
+                        988
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                97,
+                                625,
+                                799,
+                                657
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        97,
+                                        625,
+                                        799,
+                                        657
+                                    ],
+                                    "score": 0.97,
+                                    "content": "1. ls it beneficial to insert advertisementswithin a TV",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                126,
+                                665,
+                                220,
+                                698
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        126,
+                                        665,
+                                        220,
+                                        698
+                                    ],
+                                    "score": 0.96,
+                                    "content": "series?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                95,
+                                706,
+                                702,
+                                738
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        706,
+                                        702,
+                                        738
+                                    ],
+                                    "score": 0.98,
+                                    "content": "2. Do you think that parents should limit their",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                127,
+                                745,
+                                700,
+                                780
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        127,
+                                        745,
+                                        700,
+                                        780
+                                    ],
+                                    "score": 0.92,
+                                    "content": "childrenfrom watching television？住忠号",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                96,
+                                788,
+                                703,
+                                820
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        96,
+                                        788,
+                                        638,
+                                        820
+                                    ],
+                                    "score": 0.96,
+                                    "content": "3.Would yourfamilywatchTV together?",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        673,
+                                        791,
+                                        703,
+                                        807
+                                    ],
+                                    "score": 0.77,
+                                    "content": "RC",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                94,
+                                825,
+                                733,
+                                862
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        94,
+                                        825,
+                                        733,
+                                        862
+                                    ],
+                                    "score": 0.96,
+                                    "content": "4.What are the differences in television viewing",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                124,
+                                865,
+                                747,
+                                904
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        124,
+                                        865,
+                                        747,
+                                        904
+                                    ],
+                                    "score": 0.99,
+                                    "content": "habits between the elderly and young people?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                95,
+                                907,
+                                737,
+                                945
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        907,
+                                        737,
+                                        945
+                                    ],
+                                    "score": 0.99,
+                                    "content": "5. How has technology changed the way people",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                129,
+                                951,
+                                355,
+                                978
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        129,
+                                        951,
+                                        355,
+                                        978
+                                    ],
+                                    "score": 0.98,
+                                    "content": "watchtelevision?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        }
+                    ],
+                    "index": 19
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        90,
+                        1066,
+                        735,
+                        1102
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                93,
+                                1071,
+                                726,
+                                1099
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        93,
+                                        1071,
+                                        726,
+                                        1099
+                                    ],
+                                    "score": 0.98,
+                                    "content": "温馨提示：非大陆考区疑似新题，随时关注更新哦",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        }
+                    ],
+                    "index": 24
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        189,
+                        1105,
+                        337,
+                        1155
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                186,
+                                1102,
+                                338,
+                                1158
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        186,
+                                        1102,
+                                        338,
+                                        1158
+                                    ],
+                                    "score": 1.0,
+                                    "content": "雅思哥",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        }
+                    ],
+                    "index": 25
+                }
+            ],
+            "layout_bboxes": [],
+            "page_idx": 0,
+            "page_size": [
+                900.0,
+                1350.0
+            ],
+            "_layout_tree": [],
+            "images": [],
+            "tables": [],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        100,
+                        1227,
+                        793,
+                        1257
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        45,
+                        1,
+                        131,
+                        140
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        48,
+                        1279,
+                        850,
+                        1349
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        72,
+                        0,
+                        859,
+                        72
+                    ],
+                    "lines": []
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        723,
+                        82,
+                        797,
+                        123
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                725,
+                                83,
+                                798,
+                                124
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        725,
+                                        83,
+                                        798,
+                                        124
+                                    ],
+                                    "score": 1.0,
+                                    "content": "新题",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        90,
+                        157,
+                        351,
+                        206
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                93,
+                                162,
+                                346,
+                                203
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        93,
+                                        162,
+                                        346,
+                                        203
+                                    ],
+                                    "score": 1.0,
+                                    "content": "喜欢的电视剧",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        }
+                    ],
+                    "index": 1,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        374,
+                        169,
+                        522,
+                        221
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                372,
+                                169,
+                                523,
+                                222
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        372,
+                                        169,
+                                        523,
+                                        222
+                                    ],
+                                    "score": 1.0,
+                                    "content": "雅思哥",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 2,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        119,
+                        233,
+                        228,
+                        268
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                120,
+                                233,
+                                229,
+                                268
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        120,
+                                        233,
+                                        229,
+                                        268
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Part2",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        743,
+                        172,
+                        849,
+                        223
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                742,
+                                171,
+                                847,
+                                225
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        742,
+                                        171,
+                                        847,
+                                        225
+                                    ],
+                                    "score": 1.0,
+                                    "content": "雅思",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 4,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        372,
+                        223,
+                        520,
+                        248
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                375,
+                                224,
+                                518,
+                                247
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        375,
+                                        224,
+                                        518,
+                                        247
+                                    ],
+                                    "score": 0.93,
+                                    "content": "IELTS BR",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        }
+                    ],
+                    "index": 5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        375,
+                        224,
+                        518,
+                        247
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        90,
+                        292,
+                        491,
+                        328
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                92,
+                                293,
+                                488,
+                                327
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        293,
+                                        488,
+                                        327
+                                    ],
+                                    "score": 0.96,
+                                    "content": "Describe a TV series you like",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        }
+                    ],
+                    "index": 6,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        92,
+                        293,
+                        488,
+                        327
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        90,
+                        334,
+                        316,
+                        367
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                91,
+                                334,
+                                300,
+                                367
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        91,
+                                        334,
+                                        300,
+                                        367
+                                    ],
+                                    "score": 0.97,
+                                    "content": "You should say:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        }
+                    ],
+                    "index": 7,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        91,
+                        334,
+                        300,
+                        367
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        565,
+                        359,
+                        714,
+                        410
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                563,
+                                358,
+                                693,
+                                412
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        563,
+                                        358,
+                                        693,
+                                        412
+                                    ],
+                                    "score": 1.0,
+                                    "content": "雅思",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        }
+                    ],
+                    "index": 9,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "list",
+                    "bbox": [
+                        100,
+                        373,
+                        559,
+                        531
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                108,
+                                376,
+                                555,
+                                403
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        108,
+                                        376,
+                                        555,
+                                        403
+                                    ],
+                                    "score": 0.95,
+                                    "content": "What is thenameof theTVseries",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                105,
+                                414,
+                                394,
+                                451
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        414,
+                                        394,
+                                        451
+                                    ],
+                                    "score": 0.96,
+                                    "content": "When you watched it",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                108,
+                                457,
+                                322,
+                                485
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        108,
+                                        457,
+                                        322,
+                                        485
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Whatitisabout",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12,
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                106,
+                                497,
+                                470,
+                                529
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        497,
+                                        470,
+                                        529
+                                    ],
+                                    "score": 0.97,
+                                    "content": "And explain why you like it.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13,
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        }
+                    ],
+                    "index": 11.0,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        105,
+                        376,
+                        555,
+                        529
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        567,
+                        414,
+                        713,
+                        437
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                567,
+                                414,
+                                713,
+                                437
+                            ],
+                            "spans": [],
+                            "index": 11
+                        }
+                    ],
+                    "index": 11,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        567,
+                        414,
+                        713,
+                        437
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        119,
+                        563,
+                        228,
+                        599
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                120,
+                                563,
+                                227,
+                                599
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        120,
+                                        563,
+                                        199,
+                                        599
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Part",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        201,
+                                        564,
+                                        227,
+                                        597
+                                    ],
+                                    "score": 1.0,
+                                    "content": "3",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        }
+                    ],
+                    "index": 14,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "list",
+                    "bbox": [
+                        91,
+                        620,
+                        801,
+                        988
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                97,
+                                625,
+                                799,
+                                657
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        97,
+                                        625,
+                                        799,
+                                        657
+                                    ],
+                                    "score": 0.97,
+                                    "content": "1. ls it beneficial to insert advertisementswithin a TV",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                126,
+                                665,
+                                220,
+                                698
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        126,
+                                        665,
+                                        220,
+                                        698
+                                    ],
+                                    "score": 0.96,
+                                    "content": "series?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                95,
+                                706,
+                                702,
+                                738
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        706,
+                                        702,
+                                        738
+                                    ],
+                                    "score": 0.98,
+                                    "content": "2. Do you think that parents should limit their",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17,
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                127,
+                                745,
+                                700,
+                                780
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        127,
+                                        745,
+                                        700,
+                                        780
+                                    ],
+                                    "score": 0.92,
+                                    "content": "childrenfrom watching television？住忠号",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                96,
+                                788,
+                                703,
+                                820
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        96,
+                                        788,
+                                        638,
+                                        820
+                                    ],
+                                    "score": 0.96,
+                                    "content": "3.Would yourfamilywatchTV together?",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        673,
+                                        791,
+                                        703,
+                                        807
+                                    ],
+                                    "score": 0.77,
+                                    "content": "RC",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19,
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                94,
+                                825,
+                                733,
+                                862
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        94,
+                                        825,
+                                        733,
+                                        862
+                                    ],
+                                    "score": 0.96,
+                                    "content": "4.What are the differences in television viewing",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20,
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                124,
+                                865,
+                                747,
+                                904
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        124,
+                                        865,
+                                        747,
+                                        904
+                                    ],
+                                    "score": 0.99,
+                                    "content": "habits between the elderly and young people?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                95,
+                                907,
+                                737,
+                                945
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        907,
+                                        737,
+                                        945
+                                    ],
+                                    "score": 0.99,
+                                    "content": "5. How has technology changed the way people",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22,
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                129,
+                                951,
+                                355,
+                                978
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        129,
+                                        951,
+                                        355,
+                                        978
+                                    ],
+                                    "score": 0.98,
+                                    "content": "watchtelevision?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23,
+                            "is_list_end_line": true
+                        }
+                    ],
+                    "index": 19,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        94,
+                        625,
+                        799,
+                        978
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        90,
+                        1066,
+                        735,
+                        1102
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                93,
+                                1071,
+                                726,
+                                1099
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        93,
+                                        1071,
+                                        726,
+                                        1099
+                                    ],
+                                    "score": 0.98,
+                                    "content": "温馨提示：非大陆考区疑似新题，随时关注更新哦",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        }
+                    ],
+                    "index": 24,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        93,
+                        1071,
+                        726,
+                        1099
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        189,
+                        1105,
+                        337,
+                        1155
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                186,
+                                1102,
+                                338,
+                                1158
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        186,
+                                        1102,
+                                        338,
+                                        1158
+                                    ],
+                                    "score": 1.0,
+                                    "content": "雅思哥",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        }
+                    ],
+                    "index": 25,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                }
+            ]
+        }
+    ],
+    "_parse_type": "ocr",
+    "_version_name": "1.2.2"
+}

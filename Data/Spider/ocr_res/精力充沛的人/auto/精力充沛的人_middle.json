@@ -1,0 +1,1759 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        89,
+                        157,
+                        351,
+                        207
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                92,
+                                162,
+                                347,
+                                203
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        162,
+                                        347,
+                                        203
+                                    ],
+                                    "score": 0.98,
+                                    "content": "精力充沛的人",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        373,
+                        168,
+                        522,
+                        221
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                371,
+                                169,
+                                522,
+                                222
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        371,
+                                        169,
+                                        522,
+                                        222
+                                    ],
+                                    "score": 1.0,
+                                    "content": "雅思哥",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        119,
+                        233,
+                        228,
+                        268
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                120,
+                                233,
+                                229,
+                                268
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        120,
+                                        233,
+                                        229,
+                                        268
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Part2",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        372,
+                        223,
+                        520,
+                        248
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                383,
+                                226,
+                                517,
+                                246
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        383,
+                                        226,
+                                        517,
+                                        246
+                                    ],
+                                    "score": 0.86,
+                                    "content": "ELTS BR笛",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        87,
+                        292,
+                        712,
+                        368
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                92,
+                                293,
+                                707,
+                                330
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        293,
+                                        707,
+                                        330
+                                    ],
+                                    "score": 0.97,
+                                    "content": "Describe an energetic person that you know",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                92,
+                                331,
+                                302,
+                                370
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        331,
+                                        302,
+                                        370
+                                    ],
+                                    "score": 0.97,
+                                    "content": "You should say:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        }
+                    ],
+                    "index": 4.5
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        564,
+                        360,
+                        713,
+                        410
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                564,
+                                360,
+                                713,
+                                410
+                            ],
+                            "spans": [],
+                            "index": 7
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        114,
+                        374,
+                        707,
+                        531
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                118,
+                                360,
+                                679,
+                                412
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        118,
+                                        375,
+                                        368,
+                                        407
+                                    ],
+                                    "score": 0.97,
+                                    "content": "Whothisperson is",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        562,
+                                        360,
+                                        679,
+                                        412
+                                    ],
+                                    "score": 1.0,
+                                    "content": "雅思",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                119,
+                                417,
+                                698,
+                                447
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        119,
+                                        417,
+                                        473,
+                                        447
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Howyouknewthisperson",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        626,
+                                        419,
+                                        698,
+                                        432
+                                    ],
+                                    "score": 0.77,
+                                    "content": "SBRC",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                117,
+                                455,
+                                630,
+                                490
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        117,
+                                        455,
+                                        630,
+                                        490
+                                    ],
+                                    "score": 0.95,
+                                    "content": "Why you think this person is energetic",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                118,
+                                497,
+                                698,
+                                531
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        118,
+                                        497,
+                                        698,
+                                        531
+                                    ],
+                                    "score": 0.96,
+                                    "content": "And explain how you feel about this person",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        }
+                    ],
+                    "index": 8.5
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        52,
+                        534,
+                        147,
+                        583
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                53,
+                                532,
+                                148,
+                                585
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        53,
+                                        532,
+                                        148,
+                                        585
+                                    ],
+                                    "score": 1.0,
+                                    "content": "思哥",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        }
+                    ],
+                    "index": 11
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        119,
+                        604,
+                        228,
+                        640
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                120,
+                                604,
+                                227,
+                                640
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        120,
+                                        604,
+                                        227,
+                                        640
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Part3",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        }
+                    ],
+                    "index": 12
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        91,
+                        663,
+                        801,
+                        1063
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                97,
+                                664,
+                                753,
+                                699
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        97,
+                                        664,
+                                        753,
+                                        699
+                                    ],
+                                    "score": 0.97,
+                                    "content": "1. What kinds of jobs need a lot of physical work?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                94,
+                                704,
+                                762,
+                                739
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        94,
+                                        704,
+                                        762,
+                                        739
+                                    ],
+                                    "score": 0.97,
+                                    "content": "2. What's the difference between the payment for",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                127,
+                                747,
+                                663,
+                                777
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        127,
+                                        747,
+                                        663,
+                                        777
+                                    ],
+                                    "score": 0.98,
+                                    "content": "physical work and that for mental work?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                95,
+                                787,
+                                797,
+                                821
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        787,
+                                        797,
+                                        821
+                                    ],
+                                    "score": 0.96,
+                                    "content": "3. Can physical workers receive higher salaries in the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                126,
+                                828,
+                                224,
+                                861
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        126,
+                                        828,
+                                        224,
+                                        861
+                                    ],
+                                    "score": 0.99,
+                                    "content": "future?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                95,
+                                867,
+                                718,
+                                901
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        867,
+                                        718,
+                                        901
+                                    ],
+                                    "score": 0.96,
+                                    "content": "4.Do you think machinescould replace human",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                127,
+                                908,
+                                419,
+                                939
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        127,
+                                        908,
+                                        419,
+                                        939
+                                    ],
+                                    "score": 0.95,
+                                    "content": "workers in thefuture?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                96,
+                                948,
+                                692,
+                                987
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        96,
+                                        948,
+                                        692,
+                                        987
+                                    ],
+                                    "score": 0.99,
+                                    "content": "5. Do you think you are an energetic person?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                96,
+                                988,
+                                788,
+                                1024
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        96,
+                                        988,
+                                        788,
+                                        1024
+                                    ],
+                                    "score": 0.97,
+                                    "content": "6. Do you think there was more physical labor in the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                128,
+                                1033,
+                                439,
+                                1059
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        128,
+                                        1033,
+                                        439,
+                                        1059
+                                    ],
+                                    "score": 0.99,
+                                    "content": "pastthanthereisnow?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        }
+                    ],
+                    "index": 17.5
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        188,
+                        1102,
+                        337,
+                        1155
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                186,
+                                1102,
+                                336,
+                                1158
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        186,
+                                        1102,
+                                        336,
+                                        1158
+                                    ],
+                                    "score": 1.0,
+                                    "content": "雅思哥",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        }
+                    ],
+                    "index": 23
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        563,
+                        1103,
+                        715,
+                        1157
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                562,
+                                1104,
+                                703,
+                                1158
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        562,
+                                        1104,
+                                        703,
+                                        1158
+                                    ],
+                                    "score": 0.97,
+                                    "content": "雅思哥",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        }
+                    ],
+                    "index": 24
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        189,
+                        1157,
+                        335,
+                        1182
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                194,
+                                1160,
+                                334,
+                                1180
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        194,
+                                        1160,
+                                        334,
+                                        1180
+                                    ],
+                                    "score": 0.88,
+                                    "content": "IELTS BRO",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        }
+                    ],
+                    "index": 25
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        565,
+                        1160,
+                        711,
+                        1184
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                648,
+                                1164,
+                                707,
+                                1181
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        648,
+                                        1164,
+                                        707,
+                                        1181
+                                    ],
+                                    "score": 0.73,
+                                    "content": "BR号",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        }
+                    ],
+                    "index": 26
+                }
+            ],
+            "layout_bboxes": [],
+            "page_idx": 0,
+            "page_size": [
+                900.0,
+                1350.0
+            ],
+            "_layout_tree": [],
+            "images": [],
+            "tables": [],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        741,
+                        171,
+                        853,
+                        250
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        210,
+                        1226,
+                        688,
+                        1256
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        48,
+                        1280,
+                        852,
+                        1349
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        43,
+                        1,
+                        131,
+                        140
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        665,
+                        72,
+                        854,
+                        132
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        94,
+                        0,
+                        859,
+                        72
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        741,
+                        536,
+                        852,
+                        615
+                    ],
+                    "lines": []
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        89,
+                        157,
+                        351,
+                        207
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                92,
+                                162,
+                                347,
+                                203
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        162,
+                                        347,
+                                        203
+                                    ],
+                                    "score": 0.98,
+                                    "content": "精力充沛的人",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        373,
+                        168,
+                        522,
+                        221
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                371,
+                                169,
+                                522,
+                                222
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        371,
+                                        169,
+                                        522,
+                                        222
+                                    ],
+                                    "score": 1.0,
+                                    "content": "雅思哥",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        }
+                    ],
+                    "index": 1,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        119,
+                        233,
+                        228,
+                        268
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                120,
+                                233,
+                                229,
+                                268
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        120,
+                                        233,
+                                        229,
+                                        268
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Part2",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 2,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        372,
+                        223,
+                        520,
+                        248
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                383,
+                                226,
+                                517,
+                                246
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        383,
+                                        226,
+                                        517,
+                                        246
+                                    ],
+                                    "score": 0.86,
+                                    "content": "ELTS BR笛",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        383,
+                        226,
+                        517,
+                        246
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        87,
+                        292,
+                        712,
+                        368
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                92,
+                                293,
+                                707,
+                                330
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        293,
+                                        707,
+                                        330
+                                    ],
+                                    "score": 0.97,
+                                    "content": "Describe an energetic person that you know",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                92,
+                                331,
+                                302,
+                                370
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        331,
+                                        302,
+                                        370
+                                    ],
+                                    "score": 0.97,
+                                    "content": "You should say:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        }
+                    ],
+                    "index": 4.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        92,
+                        293,
+                        707,
+                        370
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        564,
+                        360,
+                        713,
+                        410
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                564,
+                                360,
+                                713,
+                                410
+                            ],
+                            "spans": [],
+                            "index": 7
+                        }
+                    ],
+                    "index": 7,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        114,
+                        374,
+                        707,
+                        531
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                118,
+                                360,
+                                679,
+                                412
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        118,
+                                        375,
+                                        368,
+                                        407
+                                    ],
+                                    "score": 0.97,
+                                    "content": "Whothisperson is",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        562,
+                                        360,
+                                        679,
+                                        412
+                                    ],
+                                    "score": 1.0,
+                                    "content": "雅思",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                119,
+                                417,
+                                698,
+                                447
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        119,
+                                        417,
+                                        473,
+                                        447
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Howyouknewthisperson",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        626,
+                                        419,
+                                        698,
+                                        432
+                                    ],
+                                    "score": 0.77,
+                                    "content": "SBRC",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                117,
+                                455,
+                                630,
+                                490
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        117,
+                                        455,
+                                        630,
+                                        490
+                                    ],
+                                    "score": 0.95,
+                                    "content": "Why you think this person is energetic",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                118,
+                                497,
+                                698,
+                                531
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        118,
+                                        497,
+                                        698,
+                                        531
+                                    ],
+                                    "score": 0.96,
+                                    "content": "And explain how you feel about this person",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        }
+                    ],
+                    "index": 8.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        117,
+                        360,
+                        698,
+                        531
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        52,
+                        534,
+                        147,
+                        583
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                53,
+                                532,
+                                148,
+                                585
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        53,
+                                        532,
+                                        148,
+                                        585
+                                    ],
+                                    "score": 1.0,
+                                    "content": "思哥",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        }
+                    ],
+                    "index": 11,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        119,
+                        604,
+                        228,
+                        640
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                120,
+                                604,
+                                227,
+                                640
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        120,
+                                        604,
+                                        227,
+                                        640
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Part3",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        }
+                    ],
+                    "index": 12,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "list",
+                    "bbox": [
+                        91,
+                        663,
+                        801,
+                        1063
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                97,
+                                664,
+                                753,
+                                699
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        97,
+                                        664,
+                                        753,
+                                        699
+                                    ],
+                                    "score": 0.97,
+                                    "content": "1. What kinds of jobs need a lot of physical work?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13,
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                94,
+                                704,
+                                762,
+                                739
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        94,
+                                        704,
+                                        762,
+                                        739
+                                    ],
+                                    "score": 0.97,
+                                    "content": "2. What's the difference between the payment for",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                127,
+                                747,
+                                663,
+                                777
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        127,
+                                        747,
+                                        663,
+                                        777
+                                    ],
+                                    "score": 0.98,
+                                    "content": "physical work and that for mental work?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                95,
+                                787,
+                                797,
+                                821
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        787,
+                                        797,
+                                        821
+                                    ],
+                                    "score": 0.96,
+                                    "content": "3. Can physical workers receive higher salaries in the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                126,
+                                828,
+                                224,
+                                861
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        126,
+                                        828,
+                                        224,
+                                        861
+                                    ],
+                                    "score": 0.99,
+                                    "content": "future?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                95,
+                                867,
+                                718,
+                                901
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        867,
+                                        718,
+                                        901
+                                    ],
+                                    "score": 0.96,
+                                    "content": "4.Do you think machinescould replace human",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18,
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                127,
+                                908,
+                                419,
+                                939
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        127,
+                                        908,
+                                        419,
+                                        939
+                                    ],
+                                    "score": 0.95,
+                                    "content": "workers in thefuture?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                96,
+                                948,
+                                692,
+                                987
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        96,
+                                        948,
+                                        692,
+                                        987
+                                    ],
+                                    "score": 0.99,
+                                    "content": "5. Do you think you are an energetic person?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20,
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                96,
+                                988,
+                                788,
+                                1024
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        96,
+                                        988,
+                                        788,
+                                        1024
+                                    ],
+                                    "score": 0.97,
+                                    "content": "6. Do you think there was more physical labor in the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                128,
+                                1033,
+                                439,
+                                1059
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        128,
+                                        1033,
+                                        439,
+                                        1059
+                                    ],
+                                    "score": 0.99,
+                                    "content": "pastthanthereisnow?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22,
+                            "is_list_end_line": true
+                        }
+                    ],
+                    "index": 17.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        94,
+                        664,
+                        797,
+                        1059
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        188,
+                        1102,
+                        337,
+                        1155
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                186,
+                                1102,
+                                336,
+                                1158
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        186,
+                                        1102,
+                                        336,
+                                        1158
+                                    ],
+                                    "score": 1.0,
+                                    "content": "雅思哥",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        }
+                    ],
+                    "index": 23,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        563,
+                        1103,
+                        715,
+                        1157
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                562,
+                                1104,
+                                703,
+                                1158
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        562,
+                                        1104,
+                                        703,
+                                        1158
+                                    ],
+                                    "score": 0.97,
+                                    "content": "雅思哥",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        }
+                    ],
+                    "index": 24,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        189,
+                        1157,
+                        335,
+                        1182
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                194,
+                                1160,
+                                334,
+                                1180
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        194,
+                                        1160,
+                                        334,
+                                        1180
+                                    ],
+                                    "score": 0.88,
+                                    "content": "IELTS BRO",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        }
+                    ],
+                    "index": 25,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        194,
+                        1160,
+                        334,
+                        1180
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        565,
+                        1160,
+                        711,
+                        1184
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                648,
+                                1164,
+                                707,
+                                1181
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        648,
+                                        1164,
+                                        707,
+                                        1181
+                                    ],
+                                    "score": 0.73,
+                                    "content": "BR号",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        }
+                    ],
+                    "index": 26,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        648,
+                        1164,
+                        707,
+                        1181
+                    ]
+                }
+            ]
+        }
+    ],
+    "_parse_type": "ocr",
+    "_version_name": "1.2.2"
+}

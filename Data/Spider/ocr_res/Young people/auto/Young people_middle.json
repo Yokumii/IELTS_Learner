@@ -1,0 +1,930 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        91,
+                        161,
+                        377,
+                        210
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                95,
+                                167,
+                                375,
+                                209
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        169,
+                                        224,
+                                        205
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Young",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        227,
+                                        167,
+                                        375,
+                                        209
+                                    ],
+                                    "score": 1.0,
+                                    "content": "people",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        387,
+                        169,
+                        523,
+                        221
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                382,
+                                169,
+                                522,
+                                222
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        382,
+                                        169,
+                                        522,
+                                        222
+                                    ],
+                                    "score": 0.77,
+                                    "content": "维思哥",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        119,
+                        232,
+                        225,
+                        268
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                120,
+                                232,
+                                224,
+                                268
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        120,
+                                        232,
+                                        224,
+                                        268
+                                    ],
+                                    "score": 0.91,
+                                    "content": "Part 1",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        372,
+                        223,
+                        520,
+                        248
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                386,
+                                227,
+                                517,
+                                245
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        386,
+                                        227,
+                                        517,
+                                        245
+                                    ],
+                                    "score": 0.86,
+                                    "content": "ELTSBR笛",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        87,
+                        291,
+                        808,
+                        450
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                95,
+                                292,
+                                792,
+                                332
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        292,
+                                        792,
+                                        332
+                                    ],
+                                    "score": 0.98,
+                                    "content": "1. What activities do young people like to do in your",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                125,
+                                334,
+                                246,
+                                370
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        125,
+                                        334,
+                                        246,
+                                        370
+                                    ],
+                                    "score": 0.99,
+                                    "content": "country?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                94,
+                                372,
+                                806,
+                                411
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        94,
+                                        372,
+                                        806,
+                                        411
+                                    ],
+                                    "score": 0.99,
+                                    "content": "2. Do you know what the fashion trend among young",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                126,
+                                417,
+                                523,
+                                451
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        126,
+                                        417,
+                                        523,
+                                        451
+                                    ],
+                                    "score": 0.97,
+                                    "content": "people is like in your country?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        }
+                    ],
+                    "index": 5.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        86,
+                        492,
+                        735,
+                        528
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                92,
+                                497,
+                                726,
+                                524
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        497,
+                                        726,
+                                        524
+                                    ],
+                                    "score": 0.98,
+                                    "content": "温馨提示：非大陆考区疑似新题，随时关注更新哦",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        }
+                    ],
+                    "index": 8
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        41,
+                        529,
+                        852,
+                        1330
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                41,
+                                529,
+                                852,
+                                1330
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        41,
+                                        529,
+                                        852,
+                                        1330
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                41,
+                                                529,
+                                                852,
+                                                1330
+                                            ],
+                                            "score": 0.838,
+                                            "type": "image",
+                                            "image_path": "0ac81528cee4c45c62b4f6e1776f61bc4c6dbb55ceb113c92856ff179fef7577.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 10,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        41,
+                                        529,
+                                        852,
+                                        796.0
+                                    ],
+                                    "spans": [],
+                                    "index": 9
+                                },
+                                {
+                                    "bbox": [
+                                        41,
+                                        796.0,
+                                        852,
+                                        1063.0
+                                    ],
+                                    "spans": [],
+                                    "index": 10
+                                },
+                                {
+                                    "bbox": [
+                                        41,
+                                        1063.0,
+                                        852,
+                                        1330.0
+                                    ],
+                                    "spans": [],
+                                    "index": 11
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 10
+                }
+            ],
+            "layout_bboxes": [],
+            "page_idx": 0,
+            "page_size": [
+                900.0,
+                1350.0
+            ],
+            "_layout_tree": [],
+            "images": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        41,
+                        529,
+                        852,
+                        1330
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                41,
+                                529,
+                                852,
+                                1330
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        41,
+                                        529,
+                                        852,
+                                        1330
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                41,
+                                                529,
+                                                852,
+                                                1330
+                                            ],
+                                            "score": 0.838,
+                                            "type": "image",
+                                            "image_path": "0ac81528cee4c45c62b4f6e1776f61bc4c6dbb55ceb113c92856ff179fef7577.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 10,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        41,
+                                        529,
+                                        852,
+                                        796.0
+                                    ],
+                                    "spans": [],
+                                    "index": 9
+                                },
+                                {
+                                    "bbox": [
+                                        41,
+                                        796.0,
+                                        852,
+                                        1063.0
+                                    ],
+                                    "spans": [],
+                                    "index": 10
+                                },
+                                {
+                                    "bbox": [
+                                        41,
+                                        1063.0,
+                                        852,
+                                        1330.0
+                                    ],
+                                    "spans": [],
+                                    "index": 11
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 10
+                }
+            ],
+            "tables": [],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        741,
+                        171,
+                        854,
+                        250
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        664,
+                        71,
+                        855,
+                        132
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        43,
+                        1,
+                        131,
+                        141
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        47,
+                        1281,
+                        850,
+                        1349
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        112,
+                        0,
+                        858,
+                        72
+                    ],
+                    "lines": []
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        91,
+                        161,
+                        377,
+                        210
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                95,
+                                167,
+                                375,
+                                209
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        169,
+                                        224,
+                                        205
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Young",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        227,
+                                        167,
+                                        375,
+                                        209
+                                    ],
+                                    "score": 1.0,
+                                    "content": "people",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        387,
+                        169,
+                        523,
+                        221
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                382,
+                                169,
+                                522,
+                                222
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        382,
+                                        169,
+                                        522,
+                                        222
+                                    ],
+                                    "score": 0.77,
+                                    "content": "维思哥",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        }
+                    ],
+                    "index": 1,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        119,
+                        232,
+                        225,
+                        268
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                120,
+                                232,
+                                224,
+                                268
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        120,
+                                        232,
+                                        224,
+                                        268
+                                    ],
+                                    "score": 0.91,
+                                    "content": "Part 1",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 2,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        372,
+                        223,
+                        520,
+                        248
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                386,
+                                227,
+                                517,
+                                245
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        386,
+                                        227,
+                                        517,
+                                        245
+                                    ],
+                                    "score": 0.86,
+                                    "content": "ELTSBR笛",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        386,
+                        227,
+                        517,
+                        245
+                    ]
+                },
+                {
+                    "type": "list",
+                    "bbox": [
+                        87,
+                        291,
+                        808,
+                        450
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                95,
+                                292,
+                                792,
+                                332
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        292,
+                                        792,
+                                        332
+                                    ],
+                                    "score": 0.98,
+                                    "content": "1. What activities do young people like to do in your",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                125,
+                                334,
+                                246,
+                                370
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        125,
+                                        334,
+                                        246,
+                                        370
+                                    ],
+                                    "score": 0.99,
+                                    "content": "country?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                94,
+                                372,
+                                806,
+                                411
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        94,
+                                        372,
+                                        806,
+                                        411
+                                    ],
+                                    "score": 0.99,
+                                    "content": "2. Do you know what the fashion trend among young",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                126,
+                                417,
+                                523,
+                                451
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        126,
+                                        417,
+                                        523,
+                                        451
+                                    ],
+                                    "score": 0.97,
+                                    "content": "people is like in your country?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7,
+                            "is_list_end_line": true
+                        }
+                    ],
+                    "index": 5.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        94,
+                        292,
+                        806,
+                        451
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        86,
+                        492,
+                        735,
+                        528
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                92,
+                                497,
+                                726,
+                                524
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        497,
+                                        726,
+                                        524
+                                    ],
+                                    "score": 0.98,
+                                    "content": "温馨提示：非大陆考区疑似新题，随时关注更新哦",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        }
+                    ],
+                    "index": 8,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        92,
+                        497,
+                        726,
+                        524
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        41,
+                        529,
+                        852,
+                        1330
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                41,
+                                529,
+                                852,
+                                1330
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        41,
+                                        529,
+                                        852,
+                                        1330
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                41,
+                                                529,
+                                                852,
+                                                1330
+                                            ],
+                                            "score": 0.838,
+                                            "type": "image",
+                                            "image_path": "0ac81528cee4c45c62b4f6e1776f61bc4c6dbb55ceb113c92856ff179fef7577.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 10,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        41,
+                                        529,
+                                        852,
+                                        796.0
+                                    ],
+                                    "spans": [],
+                                    "index": 9
+                                },
+                                {
+                                    "bbox": [
+                                        41,
+                                        796.0,
+                                        852,
+                                        1063.0
+                                    ],
+                                    "spans": [],
+                                    "index": 10
+                                },
+                                {
+                                    "bbox": [
+                                        41,
+                                        1063.0,
+                                        852,
+                                        1330.0
+                                    ],
+                                    "spans": [],
+                                    "index": 11
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 10,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                }
+            ]
+        }
+    ],
+    "_parse_type": "ocr",
+    "_version_name": "1.2.2"
+}

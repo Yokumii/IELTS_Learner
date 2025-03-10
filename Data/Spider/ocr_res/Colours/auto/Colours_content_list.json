@@ -1,0 +1,37 @@
+[
+    {
+        "type": "text",
+        "text": "Colours ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Part1 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "雅思哥",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ELTS BR笛 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.What's yourfavorite colour?   \n2. What's the colour you dislike? Why?   \n3. What colours do your friends like most?   \n4. What colour makes you uncomfortable in youn   \nroom? ",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/0a33c390b6900533a2a65b2f66ce19d36653798a5906d89283ec3fe36d7c07c6.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    }
+]

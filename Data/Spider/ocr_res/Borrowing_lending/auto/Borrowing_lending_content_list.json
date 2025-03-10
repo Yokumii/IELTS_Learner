@@ -1,0 +1,31 @@
+[
+    {
+        "type": "text",
+        "text": "Borrowing/lending ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Part1 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ELTS BRO ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.Haveyouborrowed booksfrom others?   \n2. Have you ever borrowed money from others?   \n3. Do you like to lend things to others?   \n4. How do you feel when people don't return things   \ntheyborrowedfromyou? ",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/dccb89525ccfb37517bb9f7876fd51617c1e05c6048fa3dde19704c306533f86.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    }
+]

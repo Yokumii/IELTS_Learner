@@ -1,0 +1,1607 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        88,
+                        156,
+                        545,
+                        206
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                95,
+                                163,
+                                536,
+                                202
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        163,
+                                        536,
+                                        202
+                                    ],
+                                    "score": 0.99,
+                                    "content": "感兴趣的科学学科/领域",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        119,
+                        233,
+                        228,
+                        268
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                120,
+                                233,
+                                228,
+                                268
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        120,
+                                        233,
+                                        228,
+                                        268
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Part2",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        372,
+                        222,
+                        520,
+                        248
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                378,
+                                226,
+                                518,
+                                246
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        378,
+                                        226,
+                                        518,
+                                        246
+                                    ],
+                                    "score": 0.91,
+                                    "content": "ELTSBR笛",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        88,
+                        291,
+                        804,
+                        408
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                90,
+                                291,
+                                711,
+                                330
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        90,
+                                        291,
+                                        711,
+                                        330
+                                    ],
+                                    "score": 0.95,
+                                    "content": "Describe an area/subject of science (biology,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                92,
+                                336,
+                                799,
+                                367
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        336,
+                                        799,
+                                        367
+                                    ],
+                                    "score": 0.97,
+                                    "content": "robotics, etc.) that you are interested in and would",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                92,
+                                377,
+                                427,
+                                405
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        377,
+                                        427,
+                                        405
+                                    ],
+                                    "score": 0.94,
+                                    "content": "like to learnmore about",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        91,
+                        415,
+                        301,
+                        448
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                91,
+                                411,
+                                301,
+                                451
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        91,
+                                        411,
+                                        301,
+                                        451
+                                    ],
+                                    "score": 0.98,
+                                    "content": "You should say:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        111,
+                        455,
+                        768,
+                        693
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                119,
+                                454,
+                                432,
+                                490
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        119,
+                                        454,
+                                        432,
+                                        490
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Whicharea/subjectitis",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                116,
+                                494,
+                                656,
+                                532
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        116,
+                                        494,
+                                        656,
+                                        532
+                                    ],
+                                    "score": 0.96,
+                                    "content": "When and where you came to know this",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                119,
+                                538,
+                                287,
+                                570
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        119,
+                                        538,
+                                        287,
+                                        570
+                                    ],
+                                    "score": 0.99,
+                                    "content": "area/subject",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                119,
+                                579,
+                                769,
+                                610
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        119,
+                                        579,
+                                        769,
+                                        610
+                                    ],
+                                    "score": 0.97,
+                                    "content": "Howyou get information about this area/subject",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                119,
+                                619,
+                                676,
+                                651
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        119,
+                                        619,
+                                        676,
+                                        651
+                                    ],
+                                    "score": 0.96,
+                                    "content": "And explainwhy you are interested in this",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                118,
+                                660,
+                                286,
+                                692
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        118,
+                                        660,
+                                        286,
+                                        692
+                                    ],
+                                    "score": 0.99,
+                                    "content": "area/subject",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        }
+                    ],
+                    "index": 9.5
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        119,
+                        725,
+                        228,
+                        761
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                120,
+                                725,
+                                227,
+                                761
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        120,
+                                        725,
+                                        200,
+                                        761
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Part",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        200,
+                                        726,
+                                        227,
+                                        758
+                                    ],
+                                    "score": 1.0,
+                                    "content": "3",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        }
+                    ],
+                    "index": 13
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        96,
+                        785,
+                        792,
+                        858
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                96,
+                                785,
+                                790,
+                                823
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        96,
+                                        785,
+                                        790,
+                                        823
+                                    ],
+                                    "score": 0.98,
+                                    "content": "1. Why do some children not like learning science at",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                125,
+                                829,
+                                228,
+                                861
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        125,
+                                        829,
+                                        228,
+                                        861
+                                    ],
+                                    "score": 0.95,
+                                    "content": "school?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        }
+                    ],
+                    "index": 14.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        91,
+                        866,
+                        686,
+                        902
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                95,
+                                868,
+                                682,
+                                902
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        868,
+                                        682,
+                                        902
+                                    ],
+                                    "score": 0.97,
+                                    "content": "2. Is it important to study science at school?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        }
+                    ],
+                    "index": 16
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        95,
+                        907,
+                        766,
+                        981
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                96,
+                                908,
+                                765,
+                                940
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        96,
+                                        908,
+                                        765,
+                                        940
+                                    ],
+                                    "score": 0.99,
+                                    "content": "3. Which science subject is the most important for",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                129,
+                                951,
+                                358,
+                                979
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        129,
+                                        951,
+                                        358,
+                                        979
+                                    ],
+                                    "score": 0.97,
+                                    "content": "childrentolearn?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        }
+                    ],
+                    "index": 17.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        95,
+                        988,
+                        753,
+                        1063
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                96,
+                                990,
+                                742,
+                                1023
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        96,
+                                        990,
+                                        742,
+                                        1023
+                                    ],
+                                    "score": 0.95,
+                                    "content": "4.Should people continue to study science after",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                127,
+                                1033,
+                                453,
+                                1062
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        127,
+                                        1033,
+                                        453,
+                                        1062
+                                    ],
+                                    "score": 0.95,
+                                    "content": "graduating from school?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        }
+                    ],
+                    "index": 19.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        92,
+                        1069,
+                        761,
+                        1104
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                97,
+                                1072,
+                                759,
+                                1102
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        97,
+                                        1072,
+                                        759,
+                                        1102
+                                    ],
+                                    "score": 0.95,
+                                    "content": "5.How doyou get toknow about scientific news?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        }
+                    ],
+                    "index": 21
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        94,
+                        1110,
+                        777,
+                        1185
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                96,
+                                1110,
+                                774,
+                                1145
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        96,
+                                        1110,
+                                        774,
+                                        1145
+                                    ],
+                                    "score": 0.97,
+                                    "content": "6. Should scientists explain the research process to",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                126,
+                                1152,
+                                276,
+                                1185
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        126,
+                                        1152,
+                                        276,
+                                        1185
+                                    ],
+                                    "score": 0.99,
+                                    "content": "thepublic?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        }
+                    ],
+                    "index": 22.5
+                }
+            ],
+            "layout_bboxes": [],
+            "page_idx": 0,
+            "page_size": [
+                900.0,
+                1350.0
+            ],
+            "_layout_tree": [],
+            "images": [],
+            "tables": [],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        742,
+                        171,
+                        853,
+                        249
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        210,
+                        1226,
+                        688,
+                        1256
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        664,
+                        72,
+                        855,
+                        132
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        49,
+                        1276,
+                        852,
+                        1349
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        43,
+                        1,
+                        131,
+                        140
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        101,
+                        0,
+                        858,
+                        72
+                    ],
+                    "lines": []
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        88,
+                        156,
+                        545,
+                        206
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                95,
+                                163,
+                                536,
+                                202
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        163,
+                                        536,
+                                        202
+                                    ],
+                                    "score": 0.99,
+                                    "content": "感兴趣的科学学科/领域",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        119,
+                        233,
+                        228,
+                        268
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                120,
+                                233,
+                                228,
+                                268
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        120,
+                                        233,
+                                        228,
+                                        268
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Part2",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        }
+                    ],
+                    "index": 1,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        372,
+                        222,
+                        520,
+                        248
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                378,
+                                226,
+                                518,
+                                246
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        378,
+                                        226,
+                                        518,
+                                        246
+                                    ],
+                                    "score": 0.91,
+                                    "content": "ELTSBR笛",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 2,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        378,
+                        226,
+                        518,
+                        246
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        88,
+                        291,
+                        804,
+                        408
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                90,
+                                291,
+                                711,
+                                330
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        90,
+                                        291,
+                                        711,
+                                        330
+                                    ],
+                                    "score": 0.95,
+                                    "content": "Describe an area/subject of science (biology,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                92,
+                                336,
+                                799,
+                                367
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        336,
+                                        799,
+                                        367
+                                    ],
+                                    "score": 0.97,
+                                    "content": "robotics, etc.) that you are interested in and would",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                92,
+                                377,
+                                427,
+                                405
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        377,
+                                        427,
+                                        405
+                                    ],
+                                    "score": 0.94,
+                                    "content": "like to learnmore about",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        }
+                    ],
+                    "index": 4,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        90,
+                        291,
+                        799,
+                        405
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        91,
+                        415,
+                        301,
+                        448
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                91,
+                                411,
+                                301,
+                                451
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        91,
+                                        411,
+                                        301,
+                                        451
+                                    ],
+                                    "score": 0.98,
+                                    "content": "You should say:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        }
+                    ],
+                    "index": 6,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        91,
+                        411,
+                        301,
+                        451
+                    ]
+                },
+                {
+                    "type": "list",
+                    "bbox": [
+                        111,
+                        455,
+                        768,
+                        693
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                119,
+                                454,
+                                432,
+                                490
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        119,
+                                        454,
+                                        432,
+                                        490
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Whicharea/subjectitis",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                116,
+                                494,
+                                656,
+                                532
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        116,
+                                        494,
+                                        656,
+                                        532
+                                    ],
+                                    "score": 0.96,
+                                    "content": "When and where you came to know this",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                119,
+                                538,
+                                287,
+                                570
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        119,
+                                        538,
+                                        287,
+                                        570
+                                    ],
+                                    "score": 0.99,
+                                    "content": "area/subject",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                119,
+                                579,
+                                769,
+                                610
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        119,
+                                        579,
+                                        769,
+                                        610
+                                    ],
+                                    "score": 0.97,
+                                    "content": "Howyou get information about this area/subject",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                119,
+                                619,
+                                676,
+                                651
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        119,
+                                        619,
+                                        676,
+                                        651
+                                    ],
+                                    "score": 0.96,
+                                    "content": "And explainwhy you are interested in this",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                118,
+                                660,
+                                286,
+                                692
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        118,
+                                        660,
+                                        286,
+                                        692
+                                    ],
+                                    "score": 0.99,
+                                    "content": "area/subject",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12,
+                            "is_list_start_line": true
+                        }
+                    ],
+                    "index": 9.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        116,
+                        454,
+                        769,
+                        692
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        119,
+                        725,
+                        228,
+                        761
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                120,
+                                725,
+                                227,
+                                761
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        120,
+                                        725,
+                                        200,
+                                        761
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Part",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        200,
+                                        726,
+                                        227,
+                                        758
+                                    ],
+                                    "score": 1.0,
+                                    "content": "3",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        }
+                    ],
+                    "index": 13,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        96,
+                        785,
+                        792,
+                        858
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                96,
+                                785,
+                                790,
+                                823
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        96,
+                                        785,
+                                        790,
+                                        823
+                                    ],
+                                    "score": 0.98,
+                                    "content": "1. Why do some children not like learning science at",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                125,
+                                829,
+                                228,
+                                861
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        125,
+                                        829,
+                                        228,
+                                        861
+                                    ],
+                                    "score": 0.95,
+                                    "content": "school?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        }
+                    ],
+                    "index": 14.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        96,
+                        785,
+                        790,
+                        861
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        91,
+                        866,
+                        686,
+                        902
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                95,
+                                868,
+                                682,
+                                902
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        868,
+                                        682,
+                                        902
+                                    ],
+                                    "score": 0.97,
+                                    "content": "2. Is it important to study science at school?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        }
+                    ],
+                    "index": 16,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        95,
+                        868,
+                        682,
+                        902
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        95,
+                        907,
+                        766,
+                        981
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                96,
+                                908,
+                                765,
+                                940
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        96,
+                                        908,
+                                        765,
+                                        940
+                                    ],
+                                    "score": 0.99,
+                                    "content": "3. Which science subject is the most important for",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                129,
+                                951,
+                                358,
+                                979
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        129,
+                                        951,
+                                        358,
+                                        979
+                                    ],
+                                    "score": 0.97,
+                                    "content": "childrentolearn?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        }
+                    ],
+                    "index": 17.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        96,
+                        908,
+                        765,
+                        979
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        95,
+                        988,
+                        753,
+                        1063
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                96,
+                                990,
+                                742,
+                                1023
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        96,
+                                        990,
+                                        742,
+                                        1023
+                                    ],
+                                    "score": 0.95,
+                                    "content": "4.Should people continue to study science after",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                127,
+                                1033,
+                                453,
+                                1062
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        127,
+                                        1033,
+                                        453,
+                                        1062
+                                    ],
+                                    "score": 0.95,
+                                    "content": "graduating from school?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        }
+                    ],
+                    "index": 19.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        96,
+                        990,
+                        742,
+                        1062
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        92,
+                        1069,
+                        761,
+                        1104
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                97,
+                                1072,
+                                759,
+                                1102
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        97,
+                                        1072,
+                                        759,
+                                        1102
+                                    ],
+                                    "score": 0.95,
+                                    "content": "5.How doyou get toknow about scientific news?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        }
+                    ],
+                    "index": 21,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        97,
+                        1072,
+                        759,
+                        1102
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        94,
+                        1110,
+                        777,
+                        1185
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                96,
+                                1110,
+                                774,
+                                1145
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        96,
+                                        1110,
+                                        774,
+                                        1145
+                                    ],
+                                    "score": 0.97,
+                                    "content": "6. Should scientists explain the research process to",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                126,
+                                1152,
+                                276,
+                                1185
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        126,
+                                        1152,
+                                        276,
+                                        1185
+                                    ],
+                                    "score": 0.99,
+                                    "content": "thepublic?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        }
+                    ],
+                    "index": 22.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        96,
+                        1110,
+                        774,
+                        1185
+                    ]
+                }
+            ]
+        }
+    ],
+    "_parse_type": "ocr",
+    "_version_name": "1.2.2"
+}

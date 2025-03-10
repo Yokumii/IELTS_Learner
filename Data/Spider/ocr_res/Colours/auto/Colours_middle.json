@@ -1,0 +1,884 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        92,
+                        162,
+                        254,
+                        205
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                94,
+                                164,
+                                253,
+                                203
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        94,
+                                        164,
+                                        253,
+                                        203
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Colours",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        119,
+                        232,
+                        225,
+                        268
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                120,
+                                233,
+                                224,
+                                268
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        120,
+                                        233,
+                                        224,
+                                        268
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Part1",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        372,
+                        167,
+                        523,
+                        221
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                371,
+                                169,
+                                523,
+                                223
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        371,
+                                        169,
+                                        523,
+                                        223
+                                    ],
+                                    "score": 1.0,
+                                    "content": "雅思哥",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        373,
+                        223,
+                        520,
+                        248
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                385,
+                                225,
+                                518,
+                                246
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        385,
+                                        225,
+                                        518,
+                                        246
+                                    ],
+                                    "score": 0.89,
+                                    "content": "ELTS BR笛",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        93,
+                        291,
+                        750,
+                        489
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                97,
+                                294,
+                                500,
+                                326
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        97,
+                                        294,
+                                        500,
+                                        326
+                                    ],
+                                    "score": 0.96,
+                                    "content": "1.What's yourfavorite colour?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                95,
+                                334,
+                                601,
+                                368
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        334,
+                                        601,
+                                        368
+                                    ],
+                                    "score": 0.96,
+                                    "content": "2. What's the colour you dislike? Why?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                94,
+                                375,
+                                657,
+                                409
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        94,
+                                        375,
+                                        657,
+                                        409
+                                    ],
+                                    "score": 0.99,
+                                    "content": "3. What colours do your friends like most?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                93,
+                                415,
+                                743,
+                                448
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        93,
+                                        415,
+                                        743,
+                                        448
+                                    ],
+                                    "score": 0.96,
+                                    "content": "4. What colour makes you uncomfortable in youn",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                126,
+                                456,
+                                213,
+                                489
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        126,
+                                        456,
+                                        213,
+                                        489
+                                    ],
+                                    "score": 0.96,
+                                    "content": "room?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        41,
+                        492,
+                        852,
+                        1338
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                41,
+                                492,
+                                852,
+                                1338
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        41,
+                                        492,
+                                        852,
+                                        1338
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                41,
+                                                492,
+                                                852,
+                                                1338
+                                            ],
+                                            "score": 0.635,
+                                            "type": "image",
+                                            "image_path": "0a33c390b6900533a2a65b2f66ce19d36653798a5906d89283ec3fe36d7c07c6.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 10,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        41,
+                                        492,
+                                        852,
+                                        774.0
+                                    ],
+                                    "spans": [],
+                                    "index": 9
+                                },
+                                {
+                                    "bbox": [
+                                        41,
+                                        774.0,
+                                        852,
+                                        1056.0
+                                    ],
+                                    "spans": [],
+                                    "index": 10
+                                },
+                                {
+                                    "bbox": [
+                                        41,
+                                        1056.0,
+                                        852,
+                                        1338.0
+                                    ],
+                                    "spans": [],
+                                    "index": 11
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 10
+                }
+            ],
+            "layout_bboxes": [],
+            "page_idx": 0,
+            "page_size": [
+                900.0,
+                1350.0
+            ],
+            "_layout_tree": [],
+            "images": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        41,
+                        492,
+                        852,
+                        1338
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                41,
+                                492,
+                                852,
+                                1338
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        41,
+                                        492,
+                                        852,
+                                        1338
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                41,
+                                                492,
+                                                852,
+                                                1338
+                                            ],
+                                            "score": 0.635,
+                                            "type": "image",
+                                            "image_path": "0a33c390b6900533a2a65b2f66ce19d36653798a5906d89283ec3fe36d7c07c6.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 10,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        41,
+                                        492,
+                                        852,
+                                        774.0
+                                    ],
+                                    "spans": [],
+                                    "index": 9
+                                },
+                                {
+                                    "bbox": [
+                                        41,
+                                        774.0,
+                                        852,
+                                        1056.0
+                                    ],
+                                    "spans": [],
+                                    "index": 10
+                                },
+                                {
+                                    "bbox": [
+                                        41,
+                                        1056.0,
+                                        852,
+                                        1338.0
+                                    ],
+                                    "spans": [],
+                                    "index": 11
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 10
+                }
+            ],
+            "tables": [],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        740,
+                        170,
+                        854,
+                        250
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        210,
+                        1226,
+                        688,
+                        1256
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        43,
+                        1,
+                        131,
+                        141
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        47,
+                        1283,
+                        852,
+                        1349
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        105,
+                        0,
+                        860,
+                        72
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        665,
+                        72,
+                        854,
+                        132
+                    ],
+                    "lines": []
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        92,
+                        162,
+                        254,
+                        205
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                94,
+                                164,
+                                253,
+                                203
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        94,
+                                        164,
+                                        253,
+                                        203
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Colours",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        119,
+                        232,
+                        225,
+                        268
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                120,
+                                233,
+                                224,
+                                268
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        120,
+                                        233,
+                                        224,
+                                        268
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Part1",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        }
+                    ],
+                    "index": 1,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        372,
+                        167,
+                        523,
+                        221
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                371,
+                                169,
+                                523,
+                                223
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        371,
+                                        169,
+                                        523,
+                                        223
+                                    ],
+                                    "score": 1.0,
+                                    "content": "雅思哥",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 2,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        373,
+                        223,
+                        520,
+                        248
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                385,
+                                225,
+                                518,
+                                246
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        385,
+                                        225,
+                                        518,
+                                        246
+                                    ],
+                                    "score": 0.89,
+                                    "content": "ELTS BR笛",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        385,
+                        225,
+                        518,
+                        246
+                    ]
+                },
+                {
+                    "type": "index",
+                    "bbox": [
+                        93,
+                        291,
+                        750,
+                        489
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                97,
+                                294,
+                                500,
+                                326
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        97,
+                                        294,
+                                        500,
+                                        326
+                                    ],
+                                    "score": 0.96,
+                                    "content": "1.What's yourfavorite colour?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                95,
+                                334,
+                                601,
+                                368
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        334,
+                                        601,
+                                        368
+                                    ],
+                                    "score": 0.96,
+                                    "content": "2. What's the colour you dislike? Why?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                94,
+                                375,
+                                657,
+                                409
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        94,
+                                        375,
+                                        657,
+                                        409
+                                    ],
+                                    "score": 0.99,
+                                    "content": "3. What colours do your friends like most?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                93,
+                                415,
+                                743,
+                                448
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        93,
+                                        415,
+                                        743,
+                                        448
+                                    ],
+                                    "score": 0.96,
+                                    "content": "4. What colour makes you uncomfortable in youn",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                126,
+                                456,
+                                213,
+                                489
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        126,
+                                        456,
+                                        213,
+                                        489
+                                    ],
+                                    "score": 0.96,
+                                    "content": "room?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8,
+                            "is_list_start_line": true
+                        }
+                    ],
+                    "index": 6,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        93,
+                        294,
+                        743,
+                        489
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        41,
+                        492,
+                        852,
+                        1338
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                41,
+                                492,
+                                852,
+                                1338
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        41,
+                                        492,
+                                        852,
+                                        1338
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                41,
+                                                492,
+                                                852,
+                                                1338
+                                            ],
+                                            "score": 0.635,
+                                            "type": "image",
+                                            "image_path": "0a33c390b6900533a2a65b2f66ce19d36653798a5906d89283ec3fe36d7c07c6.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 10,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        41,
+                                        492,
+                                        852,
+                                        774.0
+                                    ],
+                                    "spans": [],
+                                    "index": 9
+                                },
+                                {
+                                    "bbox": [
+                                        41,
+                                        774.0,
+                                        852,
+                                        1056.0
+                                    ],
+                                    "spans": [],
+                                    "index": 10
+                                },
+                                {
+                                    "bbox": [
+                                        41,
+                                        1056.0,
+                                        852,
+                                        1338.0
+                                    ],
+                                    "spans": [],
+                                    "index": 11
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 10,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                }
+            ]
+        }
+    ],
+    "_parse_type": "ocr",
+    "_version_name": "1.2.2"
+}

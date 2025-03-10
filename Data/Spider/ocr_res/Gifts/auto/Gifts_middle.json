@@ -1,0 +1,1204 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        154,
+                        20,
+                        383,
+                        59
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                156,
+                                23,
+                                381,
+                                57
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        156,
+                                        23,
+                                        278,
+                                        57
+                                    ],
+                                    "score": 0.99,
+                                    "content": "【2025年",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        279,
+                                        24,
+                                        381,
+                                        56
+                                    ],
+                                    "score": 0.99,
+                                    "content": "1-4月】",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        93,
+                        161,
+                        196,
+                        203
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                93,
+                                161,
+                                196,
+                                204
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        93,
+                                        161,
+                                        196,
+                                        204
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Gifts",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        119,
+                        232,
+                        225,
+                        268
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                120,
+                                233,
+                                224,
+                                268
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        120,
+                                        233,
+                                        224,
+                                        268
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Part1",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        372,
+                        167,
+                        523,
+                        221
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                371,
+                                169,
+                                523,
+                                222
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        371,
+                                        169,
+                                        523,
+                                        222
+                                    ],
+                                    "score": 1.0,
+                                    "content": "雅思哥",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        372,
+                        223,
+                        521,
+                        248
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                376,
+                                224,
+                                519,
+                                247
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        376,
+                                        224,
+                                        519,
+                                        247
+                                    ],
+                                    "score": 0.85,
+                                    "content": "IELTS BR笛",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        93,
+                        292,
+                        743,
+                        491
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                97,
+                                294,
+                                743,
+                                327
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        97,
+                                        294,
+                                        743,
+                                        327
+                                    ],
+                                    "score": 0.95,
+                                    "content": "1.Haveyou ever sent handmade gifts to others?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                95,
+                                335,
+                                607,
+                                368
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        335,
+                                        607,
+                                        368
+                                    ],
+                                    "score": 0.98,
+                                    "content": "2. Have you ever received a great gift?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                96,
+                                376,
+                                721,
+                                408
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        96,
+                                        376,
+                                        721,
+                                        408
+                                    ],
+                                    "score": 0.98,
+                                    "content": "3. What do you consider when choosing a gift?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                96,
+                                418,
+                                725,
+                                448
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        96,
+                                        418,
+                                        725,
+                                        448
+                                    ],
+                                    "score": 0.95,
+                                    "content": "4. Do you think you are good at choosing gifts?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                96,
+                                457,
+                                629,
+                                490
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        96,
+                                        457,
+                                        629,
+                                        490
+                                    ],
+                                    "score": 0.96,
+                                    "content": "5.What gifthaveyou received recently?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        52,
+                        533,
+                        149,
+                        582
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                53,
+                                532,
+                                149,
+                                584
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        53,
+                                        532,
+                                        149,
+                                        584
+                                    ],
+                                    "score": 1.0,
+                                    "content": "思哥",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        }
+                    ],
+                    "index": 10
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        372,
+                        532,
+                        523,
+                        586
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                375,
+                                534,
+                                523,
+                                585
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        375,
+                                        534,
+                                        523,
+                                        585
+                                    ],
+                                    "score": 1.0,
+                                    "content": "雅思哥",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        }
+                    ],
+                    "index": 11
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        89,
+                        614,
+                        733,
+                        651
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                93,
+                                619,
+                                727,
+                                647
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        93,
+                                        619,
+                                        727,
+                                        647
+                                    ],
+                                    "score": 0.98,
+                                    "content": "温馨提示：非大陆考区疑似新题，随时关注更新哦！",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        }
+                    ],
+                    "index": 12
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        42,
+                        699,
+                        851,
+                        1262
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                42,
+                                699,
+                                851,
+                                1262
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        42,
+                                        699,
+                                        850,
+                                        1262
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                42,
+                                                699,
+                                                850,
+                                                1262
+                                            ],
+                                            "score": 0.375,
+                                            "type": "image",
+                                            "image_path": "abdc02433f3b7335c170550c6cfd7a1fc8f2a0e363b84ea0f27016c28f943fa5.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 14,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        42,
+                                        699,
+                                        851,
+                                        886.6666666666666
+                                    ],
+                                    "spans": [],
+                                    "index": 13
+                                },
+                                {
+                                    "bbox": [
+                                        42,
+                                        886.6666666666666,
+                                        851,
+                                        1074.3333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 14
+                                },
+                                {
+                                    "bbox": [
+                                        42,
+                                        1074.3333333333333,
+                                        851,
+                                        1262.0
+                                    ],
+                                    "spans": [],
+                                    "index": 15
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 14
+                }
+            ],
+            "layout_bboxes": [],
+            "page_idx": 0,
+            "page_size": [
+                900.0,
+                1350.0
+            ],
+            "_layout_tree": [],
+            "images": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        42,
+                        699,
+                        851,
+                        1262
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                42,
+                                699,
+                                851,
+                                1262
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        42,
+                                        699,
+                                        850,
+                                        1262
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                42,
+                                                699,
+                                                850,
+                                                1262
+                                            ],
+                                            "score": 0.375,
+                                            "type": "image",
+                                            "image_path": "abdc02433f3b7335c170550c6cfd7a1fc8f2a0e363b84ea0f27016c28f943fa5.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 14,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        42,
+                                        699,
+                                        851,
+                                        886.6666666666666
+                                    ],
+                                    "spans": [],
+                                    "index": 13
+                                },
+                                {
+                                    "bbox": [
+                                        42,
+                                        886.6666666666666,
+                                        851,
+                                        1074.3333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 14
+                                },
+                                {
+                                    "bbox": [
+                                        42,
+                                        1074.3333333333333,
+                                        851,
+                                        1262.0
+                                    ],
+                                    "spans": [],
+                                    "index": 15
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 14
+                }
+            ],
+            "tables": [],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        741,
+                        170,
+                        854,
+                        250
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        99,
+                        1227,
+                        793,
+                        1256
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        44,
+                        1,
+                        131,
+                        140
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        742,
+                        537,
+                        854,
+                        614
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        47,
+                        1280,
+                        850,
+                        1348
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        665,
+                        72,
+                        854,
+                        132
+                    ],
+                    "lines": []
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        154,
+                        20,
+                        383,
+                        59
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                156,
+                                23,
+                                381,
+                                57
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        156,
+                                        23,
+                                        278,
+                                        57
+                                    ],
+                                    "score": 0.99,
+                                    "content": "【2025年",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        279,
+                                        24,
+                                        381,
+                                        56
+                                    ],
+                                    "score": 0.99,
+                                    "content": "1-4月】",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        93,
+                        161,
+                        196,
+                        203
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                93,
+                                161,
+                                196,
+                                204
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        93,
+                                        161,
+                                        196,
+                                        204
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Gifts",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        }
+                    ],
+                    "index": 1,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        119,
+                        232,
+                        225,
+                        268
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                120,
+                                233,
+                                224,
+                                268
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        120,
+                                        233,
+                                        224,
+                                        268
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Part1",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 2,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        372,
+                        167,
+                        523,
+                        221
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                371,
+                                169,
+                                523,
+                                222
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        371,
+                                        169,
+                                        523,
+                                        222
+                                    ],
+                                    "score": 1.0,
+                                    "content": "雅思哥",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        372,
+                        223,
+                        521,
+                        248
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                376,
+                                224,
+                                519,
+                                247
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        376,
+                                        224,
+                                        519,
+                                        247
+                                    ],
+                                    "score": 0.85,
+                                    "content": "IELTS BR笛",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 4,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        376,
+                        224,
+                        519,
+                        247
+                    ]
+                },
+                {
+                    "type": "index",
+                    "bbox": [
+                        93,
+                        292,
+                        743,
+                        491
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                97,
+                                294,
+                                743,
+                                327
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        97,
+                                        294,
+                                        743,
+                                        327
+                                    ],
+                                    "score": 0.95,
+                                    "content": "1.Haveyou ever sent handmade gifts to others?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                95,
+                                335,
+                                607,
+                                368
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        335,
+                                        607,
+                                        368
+                                    ],
+                                    "score": 0.98,
+                                    "content": "2. Have you ever received a great gift?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                96,
+                                376,
+                                721,
+                                408
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        96,
+                                        376,
+                                        721,
+                                        408
+                                    ],
+                                    "score": 0.98,
+                                    "content": "3. What do you consider when choosing a gift?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                96,
+                                418,
+                                725,
+                                448
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        96,
+                                        418,
+                                        725,
+                                        448
+                                    ],
+                                    "score": 0.95,
+                                    "content": "4. Do you think you are good at choosing gifts?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                96,
+                                457,
+                                629,
+                                490
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        96,
+                                        457,
+                                        629,
+                                        490
+                                    ],
+                                    "score": 0.96,
+                                    "content": "5.What gifthaveyou received recently?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9,
+                            "is_list_start_line": true
+                        }
+                    ],
+                    "index": 7,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        95,
+                        294,
+                        743,
+                        490
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        52,
+                        533,
+                        149,
+                        582
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                53,
+                                532,
+                                149,
+                                584
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        53,
+                                        532,
+                                        149,
+                                        584
+                                    ],
+                                    "score": 1.0,
+                                    "content": "思哥",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        }
+                    ],
+                    "index": 10,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        372,
+                        532,
+                        523,
+                        586
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                375,
+                                534,
+                                523,
+                                585
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        375,
+                                        534,
+                                        523,
+                                        585
+                                    ],
+                                    "score": 1.0,
+                                    "content": "雅思哥",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        }
+                    ],
+                    "index": 11,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        89,
+                        614,
+                        733,
+                        651
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                93,
+                                619,
+                                727,
+                                647
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        93,
+                                        619,
+                                        727,
+                                        647
+                                    ],
+                                    "score": 0.98,
+                                    "content": "温馨提示：非大陆考区疑似新题，随时关注更新哦！",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        }
+                    ],
+                    "index": 12,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        93,
+                        619,
+                        727,
+                        647
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        42,
+                        699,
+                        851,
+                        1262
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                42,
+                                699,
+                                851,
+                                1262
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        42,
+                                        699,
+                                        850,
+                                        1262
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                42,
+                                                699,
+                                                850,
+                                                1262
+                                            ],
+                                            "score": 0.375,
+                                            "type": "image",
+                                            "image_path": "abdc02433f3b7335c170550c6cfd7a1fc8f2a0e363b84ea0f27016c28f943fa5.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 14,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        42,
+                                        699,
+                                        851,
+                                        886.6666666666666
+                                    ],
+                                    "spans": [],
+                                    "index": 13
+                                },
+                                {
+                                    "bbox": [
+                                        42,
+                                        886.6666666666666,
+                                        851,
+                                        1074.3333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 14
+                                },
+                                {
+                                    "bbox": [
+                                        42,
+                                        1074.3333333333333,
+                                        851,
+                                        1262.0
+                                    ],
+                                    "spans": [],
+                                    "index": 15
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 14,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                }
+            ]
+        }
+    ],
+    "_parse_type": "ocr",
+    "_version_name": "1.2.2"
+}

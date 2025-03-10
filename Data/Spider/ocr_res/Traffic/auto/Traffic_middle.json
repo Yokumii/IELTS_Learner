@@ -1,0 +1,1010 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        154,
+                        20,
+                        383,
+                        59
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                156,
+                                23,
+                                381,
+                                57
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        156,
+                                        23,
+                                        277,
+                                        57
+                                    ],
+                                    "score": 0.99,
+                                    "content": "【2025年",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        279,
+                                        25,
+                                        381,
+                                        56
+                                    ],
+                                    "score": 0.99,
+                                    "content": "1-4月】",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        91,
+                        160,
+                        227,
+                        205
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                93,
+                                162,
+                                226,
+                                202
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        93,
+                                        162,
+                                        226,
+                                        202
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Traffic",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        119,
+                        232,
+                        225,
+                        268
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                120,
+                                233,
+                                224,
+                                268
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        120,
+                                        233,
+                                        224,
+                                        268
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Part1",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        372,
+                        167,
+                        523,
+                        221
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                371,
+                                169,
+                                522,
+                                223
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        371,
+                                        169,
+                                        522,
+                                        223
+                                    ],
+                                    "score": 1.0,
+                                    "content": "雅思哥",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        372,
+                        223,
+                        520,
+                        248
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                375,
+                                224,
+                                518,
+                                247
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        375,
+                                        224,
+                                        518,
+                                        247
+                                    ],
+                                    "score": 0.93,
+                                    "content": "IELTS BR",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        91,
+                        290,
+                        786,
+                        450
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                96,
+                                294,
+                                736,
+                                325
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        96,
+                                        294,
+                                        736,
+                                        325
+                                    ],
+                                    "score": 0.96,
+                                    "content": "1.Are there a lotofcrosswalksaround theplace",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                128,
+                                336,
+                                333,
+                                367
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        128,
+                                        336,
+                                        333,
+                                        367
+                                    ],
+                                    "score": 0.95,
+                                    "content": "whereyou live?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                96,
+                                374,
+                                782,
+                                408
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        96,
+                                        374,
+                                        782,
+                                        408
+                                    ],
+                                    "score": 0.98,
+                                    "content": "2. Is there anything you would like to change about",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                128,
+                                417,
+                                435,
+                                448
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        128,
+                                        417,
+                                        435,
+                                        448
+                                    ],
+                                    "score": 0.96,
+                                    "content": "the trafficinyour area?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        }
+                    ],
+                    "index": 6.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        86,
+                        492,
+                        735,
+                        529
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                92,
+                                497,
+                                727,
+                                525
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        497,
+                                        727,
+                                        525
+                                    ],
+                                    "score": 0.98,
+                                    "content": "温馨提示：非大陆考区疑似新题，随时关注更新哦！",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        }
+                    ],
+                    "index": 9
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        41,
+                        529,
+                        852,
+                        1334
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                41,
+                                529,
+                                852,
+                                1334
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        41,
+                                        529,
+                                        852,
+                                        1334
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                41,
+                                                529,
+                                                852,
+                                                1334
+                                            ],
+                                            "score": 0.781,
+                                            "type": "image",
+                                            "image_path": "8e6a77207a342a7fbd49c9eef360ced0f70fcd376a4b384c38821527b935d4bc.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 11,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        41,
+                                        529,
+                                        852,
+                                        797.3333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 10
+                                },
+                                {
+                                    "bbox": [
+                                        41,
+                                        797.3333333333333,
+                                        852,
+                                        1065.6666666666665
+                                    ],
+                                    "spans": [],
+                                    "index": 11
+                                },
+                                {
+                                    "bbox": [
+                                        41,
+                                        1065.6666666666665,
+                                        852,
+                                        1333.9999999999998
+                                    ],
+                                    "spans": [],
+                                    "index": 12
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 11
+                }
+            ],
+            "layout_bboxes": [],
+            "page_idx": 0,
+            "page_size": [
+                900.0,
+                1350.0
+            ],
+            "_layout_tree": [],
+            "images": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        41,
+                        529,
+                        852,
+                        1334
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                41,
+                                529,
+                                852,
+                                1334
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        41,
+                                        529,
+                                        852,
+                                        1334
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                41,
+                                                529,
+                                                852,
+                                                1334
+                                            ],
+                                            "score": 0.781,
+                                            "type": "image",
+                                            "image_path": "8e6a77207a342a7fbd49c9eef360ced0f70fcd376a4b384c38821527b935d4bc.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 11,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        41,
+                                        529,
+                                        852,
+                                        797.3333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 10
+                                },
+                                {
+                                    "bbox": [
+                                        41,
+                                        797.3333333333333,
+                                        852,
+                                        1065.6666666666665
+                                    ],
+                                    "spans": [],
+                                    "index": 11
+                                },
+                                {
+                                    "bbox": [
+                                        41,
+                                        1065.6666666666665,
+                                        852,
+                                        1333.9999999999998
+                                    ],
+                                    "spans": [],
+                                    "index": 12
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 11
+                }
+            ],
+            "tables": [],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        741,
+                        171,
+                        854,
+                        250
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        44,
+                        1,
+                        131,
+                        141
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        99,
+                        1226,
+                        794,
+                        1257
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        47,
+                        1281,
+                        851,
+                        1349
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        665,
+                        72,
+                        854,
+                        132
+                    ],
+                    "lines": []
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        154,
+                        20,
+                        383,
+                        59
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                156,
+                                23,
+                                381,
+                                57
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        156,
+                                        23,
+                                        277,
+                                        57
+                                    ],
+                                    "score": 0.99,
+                                    "content": "【2025年",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        279,
+                                        25,
+                                        381,
+                                        56
+                                    ],
+                                    "score": 0.99,
+                                    "content": "1-4月】",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        156,
+                        23,
+                        381,
+                        57
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        91,
+                        160,
+                        227,
+                        205
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                93,
+                                162,
+                                226,
+                                202
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        93,
+                                        162,
+                                        226,
+                                        202
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Traffic",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        }
+                    ],
+                    "index": 1,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        119,
+                        232,
+                        225,
+                        268
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                120,
+                                233,
+                                224,
+                                268
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        120,
+                                        233,
+                                        224,
+                                        268
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Part1",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 2,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        372,
+                        167,
+                        523,
+                        221
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                371,
+                                169,
+                                522,
+                                223
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        371,
+                                        169,
+                                        522,
+                                        223
+                                    ],
+                                    "score": 1.0,
+                                    "content": "雅思哥",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        372,
+                        223,
+                        520,
+                        248
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                375,
+                                224,
+                                518,
+                                247
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        375,
+                                        224,
+                                        518,
+                                        247
+                                    ],
+                                    "score": 0.93,
+                                    "content": "IELTS BR",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 4,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        375,
+                        224,
+                        518,
+                        247
+                    ]
+                },
+                {
+                    "type": "list",
+                    "bbox": [
+                        91,
+                        290,
+                        786,
+                        450
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                96,
+                                294,
+                                736,
+                                325
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        96,
+                                        294,
+                                        736,
+                                        325
+                                    ],
+                                    "score": 0.96,
+                                    "content": "1.Are there a lotofcrosswalksaround theplace",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5,
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                128,
+                                336,
+                                333,
+                                367
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        128,
+                                        336,
+                                        333,
+                                        367
+                                    ],
+                                    "score": 0.95,
+                                    "content": "whereyou live?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                96,
+                                374,
+                                782,
+                                408
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        96,
+                                        374,
+                                        782,
+                                        408
+                                    ],
+                                    "score": 0.98,
+                                    "content": "2. Is there anything you would like to change about",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                128,
+                                417,
+                                435,
+                                448
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        128,
+                                        417,
+                                        435,
+                                        448
+                                    ],
+                                    "score": 0.96,
+                                    "content": "the trafficinyour area?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8,
+                            "is_list_end_line": true
+                        }
+                    ],
+                    "index": 6.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        96,
+                        294,
+                        782,
+                        448
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        86,
+                        492,
+                        735,
+                        529
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                92,
+                                497,
+                                727,
+                                525
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        497,
+                                        727,
+                                        525
+                                    ],
+                                    "score": 0.98,
+                                    "content": "温馨提示：非大陆考区疑似新题，随时关注更新哦！",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        }
+                    ],
+                    "index": 9,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        92,
+                        497,
+                        727,
+                        525
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        41,
+                        529,
+                        852,
+                        1334
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                41,
+                                529,
+                                852,
+                                1334
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        41,
+                                        529,
+                                        852,
+                                        1334
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                41,
+                                                529,
+                                                852,
+                                                1334
+                                            ],
+                                            "score": 0.781,
+                                            "type": "image",
+                                            "image_path": "8e6a77207a342a7fbd49c9eef360ced0f70fcd376a4b384c38821527b935d4bc.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 11,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        41,
+                                        529,
+                                        852,
+                                        797.3333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 10
+                                },
+                                {
+                                    "bbox": [
+                                        41,
+                                        797.3333333333333,
+                                        852,
+                                        1065.6666666666665
+                                    ],
+                                    "spans": [],
+                                    "index": 11
+                                },
+                                {
+                                    "bbox": [
+                                        41,
+                                        1065.6666666666665,
+                                        852,
+                                        1333.9999999999998
+                                    ],
+                                    "spans": [],
+                                    "index": 12
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 11,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                }
+            ]
+        }
+    ],
+    "_parse_type": "ocr",
+    "_version_name": "1.2.2"
+}

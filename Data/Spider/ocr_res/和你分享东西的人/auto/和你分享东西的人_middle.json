@@ -1,0 +1,1796 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        154,
+                        20,
+                        383,
+                        59
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                157,
+                                23,
+                                381,
+                                57
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        157,
+                                        23,
+                                        276,
+                                        57
+                                    ],
+                                    "score": 0.99,
+                                    "content": "【2025年",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        280,
+                                        24,
+                                        381,
+                                        57
+                                    ],
+                                    "score": 0.99,
+                                    "content": "1-4月】",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        89,
+                        156,
+                        432,
+                        206
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                93,
+                                162,
+                                431,
+                                204
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        93,
+                                        162,
+                                        431,
+                                        204
+                                    ],
+                                    "score": 0.99,
+                                    "content": "和你分享东西的人",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        119,
+                        233,
+                        228,
+                        268
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                120,
+                                233,
+                                229,
+                                268
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        120,
+                                        233,
+                                        229,
+                                        268
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Part2",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        372,
+                        222,
+                        520,
+                        248
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                377,
+                                226,
+                                518,
+                                246
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        377,
+                                        226,
+                                        518,
+                                        246
+                                    ],
+                                    "score": 0.85,
+                                    "content": "LELTSBR笛",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        88,
+                        292,
+                        770,
+                        367
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                91,
+                                294,
+                                765,
+                                327
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        91,
+                                        294,
+                                        765,
+                                        327
+                                    ],
+                                    "score": 0.97,
+                                    "content": "Describe someone who is willing to openly share",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                91,
+                                335,
+                                309,
+                                370
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        91,
+                                        335,
+                                        309,
+                                        370
+                                    ],
+                                    "score": 0.95,
+                                    "content": "thingswith you",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        }
+                    ],
+                    "index": 4.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        90,
+                        374,
+                        300,
+                        408
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                91,
+                                372,
+                                302,
+                                411
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        91,
+                                        372,
+                                        302,
+                                        411
+                                    ],
+                                    "score": 1.0,
+                                    "content": "You should say:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        564,
+                        359,
+                        714,
+                        411
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                562,
+                                358,
+                                709,
+                                412
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        562,
+                                        358,
+                                        709,
+                                        412
+                                    ],
+                                    "score": 1.0,
+                                    "content": "雅思哥",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        99,
+                        414,
+                        587,
+                        572
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                106,
+                                415,
+                                357,
+                                448
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        415,
+                                        357,
+                                        448
+                                    ],
+                                    "score": 0.98,
+                                    "content": "Who this person is",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                106,
+                                456,
+                                464,
+                                489
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        456,
+                                        464,
+                                        489
+                                    ],
+                                    "score": 0.96,
+                                    "content": "How youknew thisperson",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                105,
+                                495,
+                                529,
+                                532
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        495,
+                                        529,
+                                        532
+                                    ],
+                                    "score": 0.98,
+                                    "content": "What this person openly shares",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                104,
+                                536,
+                                583,
+                                571
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        104,
+                                        536,
+                                        583,
+                                        571
+                                    ],
+                                    "score": 1.0,
+                                    "content": "And how you feel about the sharing",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        }
+                    ],
+                    "index": 9.5
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        119,
+                        604,
+                        228,
+                        640
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                120,
+                                604,
+                                227,
+                                640
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        120,
+                                        604,
+                                        227,
+                                        640
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Part3",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        }
+                    ],
+                    "index": 12
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        93,
+                        663,
+                        788,
+                        902
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                96,
+                                664,
+                                784,
+                                702
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        96,
+                                        664,
+                                        784,
+                                        702
+                                    ],
+                                    "score": 0.99,
+                                    "content": "1. What kinds of emotional support do people need",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                126,
+                                705,
+                                243,
+                                738
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        126,
+                                        705,
+                                        243,
+                                        738
+                                    ],
+                                    "score": 0.99,
+                                    "content": "atwork?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                96,
+                                747,
+                                662,
+                                779
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        96,
+                                        747,
+                                        662,
+                                        779
+                                    ],
+                                    "score": 0.98,
+                                    "content": "2. Would you share your feelings with your",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                128,
+                                789,
+                                278,
+                                816
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        128,
+                                        789,
+                                        278,
+                                        816
+                                    ],
+                                    "score": 0.99,
+                                    "content": "coworkers?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                94,
+                                827,
+                                780,
+                                861
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        94,
+                                        827,
+                                        780,
+                                        861
+                                    ],
+                                    "score": 0.95,
+                                    "content": "3. ls it possible to know a job applicant's emotional",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                128,
+                                870,
+                                678,
+                                901
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        128,
+                                        870,
+                                        678,
+                                        901
+                                    ],
+                                    "score": 0.96,
+                                    "content": "resilience through the recruiting process?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        }
+                    ],
+                    "index": 15.5
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        50,
+                        914,
+                        148,
+                        965
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                53,
+                                916,
+                                147,
+                                964
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        53,
+                                        916,
+                                        147,
+                                        964
+                                    ],
+                                    "score": 1.0,
+                                    "content": "思哥",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        }
+                    ],
+                    "index": 19
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        372,
+                        913,
+                        522,
+                        969
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                373,
+                                916,
+                                522,
+                                968
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        373,
+                                        916,
+                                        522,
+                                        968
+                                    ],
+                                    "score": 1.0,
+                                    "content": "雅思哥",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        }
+                    ],
+                    "index": 20
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        90,
+                        986,
+                        734,
+                        1022
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                93,
+                                990,
+                                727,
+                                1018
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        93,
+                                        990,
+                                        727,
+                                        1018
+                                    ],
+                                    "score": 0.98,
+                                    "content": "温馨提示：非大陆考区疑似新题，随时关注更新哦！",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        }
+                    ],
+                    "index": 21
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        187,
+                        1102,
+                        337,
+                        1154
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                186,
+                                1101,
+                                336,
+                                1158
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        186,
+                                        1101,
+                                        336,
+                                        1158
+                                    ],
+                                    "score": 1.0,
+                                    "content": "雅思哥",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        }
+                    ],
+                    "index": 22
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        563,
+                        1104,
+                        715,
+                        1157
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                562,
+                                1105,
+                                702,
+                                1158
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        562,
+                                        1105,
+                                        702,
+                                        1158
+                                    ],
+                                    "score": 0.98,
+                                    "content": "雅思哥",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        }
+                    ],
+                    "index": 23
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        188,
+                        1157,
+                        335,
+                        1182
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                195,
+                                1161,
+                                333,
+                                1180
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        195,
+                                        1161,
+                                        333,
+                                        1180
+                                    ],
+                                    "score": 0.97,
+                                    "content": "ELTSBRO",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        }
+                    ],
+                    "index": 24
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        566,
+                        1161,
+                        711,
+                        1184
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                652,
+                                1164,
+                                706,
+                                1180
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        652,
+                                        1164,
+                                        706,
+                                        1180
+                                    ],
+                                    "score": 0.72,
+                                    "content": "BRe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        }
+                    ],
+                    "index": 25
+                }
+            ],
+            "layout_bboxes": [],
+            "page_idx": 0,
+            "page_size": [
+                900.0,
+                1350.0
+            ],
+            "_layout_tree": [],
+            "images": [],
+            "tables": [],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        741,
+                        171,
+                        854,
+                        250
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        100,
+                        1227,
+                        793,
+                        1256
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        43,
+                        1,
+                        131,
+                        140
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        665,
+                        72,
+                        854,
+                        132
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        48,
+                        1281,
+                        848,
+                        1348
+                    ],
+                    "lines": []
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        154,
+                        20,
+                        383,
+                        59
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                157,
+                                23,
+                                381,
+                                57
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        157,
+                                        23,
+                                        276,
+                                        57
+                                    ],
+                                    "score": 0.99,
+                                    "content": "【2025年",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        280,
+                                        24,
+                                        381,
+                                        57
+                                    ],
+                                    "score": 0.99,
+                                    "content": "1-4月】",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        157,
+                        23,
+                        381,
+                        57
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        89,
+                        156,
+                        432,
+                        206
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                93,
+                                162,
+                                431,
+                                204
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        93,
+                                        162,
+                                        431,
+                                        204
+                                    ],
+                                    "score": 0.99,
+                                    "content": "和你分享东西的人",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        }
+                    ],
+                    "index": 1,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        119,
+                        233,
+                        228,
+                        268
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                120,
+                                233,
+                                229,
+                                268
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        120,
+                                        233,
+                                        229,
+                                        268
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Part2",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 2,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        372,
+                        222,
+                        520,
+                        248
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                377,
+                                226,
+                                518,
+                                246
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        377,
+                                        226,
+                                        518,
+                                        246
+                                    ],
+                                    "score": 0.85,
+                                    "content": "LELTSBR笛",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        377,
+                        226,
+                        518,
+                        246
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        88,
+                        292,
+                        770,
+                        367
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                91,
+                                294,
+                                765,
+                                327
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        91,
+                                        294,
+                                        765,
+                                        327
+                                    ],
+                                    "score": 0.97,
+                                    "content": "Describe someone who is willing to openly share",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                91,
+                                335,
+                                309,
+                                370
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        91,
+                                        335,
+                                        309,
+                                        370
+                                    ],
+                                    "score": 0.95,
+                                    "content": "thingswith you",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        }
+                    ],
+                    "index": 4.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        91,
+                        294,
+                        765,
+                        370
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        90,
+                        374,
+                        300,
+                        408
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                91,
+                                372,
+                                302,
+                                411
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        91,
+                                        372,
+                                        302,
+                                        411
+                                    ],
+                                    "score": 1.0,
+                                    "content": "You should say:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        }
+                    ],
+                    "index": 6,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        91,
+                        372,
+                        302,
+                        411
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        564,
+                        359,
+                        714,
+                        411
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                562,
+                                358,
+                                709,
+                                412
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        562,
+                                        358,
+                                        709,
+                                        412
+                                    ],
+                                    "score": 1.0,
+                                    "content": "雅思哥",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        }
+                    ],
+                    "index": 7,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        99,
+                        414,
+                        587,
+                        572
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                106,
+                                415,
+                                357,
+                                448
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        415,
+                                        357,
+                                        448
+                                    ],
+                                    "score": 0.98,
+                                    "content": "Who this person is",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                106,
+                                456,
+                                464,
+                                489
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        456,
+                                        464,
+                                        489
+                                    ],
+                                    "score": 0.96,
+                                    "content": "How youknew thisperson",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                105,
+                                495,
+                                529,
+                                532
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        495,
+                                        529,
+                                        532
+                                    ],
+                                    "score": 0.98,
+                                    "content": "What this person openly shares",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                104,
+                                536,
+                                583,
+                                571
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        104,
+                                        536,
+                                        583,
+                                        571
+                                    ],
+                                    "score": 1.0,
+                                    "content": "And how you feel about the sharing",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        }
+                    ],
+                    "index": 9.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        104,
+                        415,
+                        583,
+                        571
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        119,
+                        604,
+                        228,
+                        640
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                120,
+                                604,
+                                227,
+                                640
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        120,
+                                        604,
+                                        227,
+                                        640
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Part3",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        }
+                    ],
+                    "index": 12,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "list",
+                    "bbox": [
+                        93,
+                        663,
+                        788,
+                        902
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                96,
+                                664,
+                                784,
+                                702
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        96,
+                                        664,
+                                        784,
+                                        702
+                                    ],
+                                    "score": 0.99,
+                                    "content": "1. What kinds of emotional support do people need",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                126,
+                                705,
+                                243,
+                                738
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        126,
+                                        705,
+                                        243,
+                                        738
+                                    ],
+                                    "score": 0.99,
+                                    "content": "atwork?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                96,
+                                747,
+                                662,
+                                779
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        96,
+                                        747,
+                                        662,
+                                        779
+                                    ],
+                                    "score": 0.98,
+                                    "content": "2. Would you share your feelings with your",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15,
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                128,
+                                789,
+                                278,
+                                816
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        128,
+                                        789,
+                                        278,
+                                        816
+                                    ],
+                                    "score": 0.99,
+                                    "content": "coworkers?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                94,
+                                827,
+                                780,
+                                861
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        94,
+                                        827,
+                                        780,
+                                        861
+                                    ],
+                                    "score": 0.95,
+                                    "content": "3. ls it possible to know a job applicant's emotional",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                128,
+                                870,
+                                678,
+                                901
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        128,
+                                        870,
+                                        678,
+                                        901
+                                    ],
+                                    "score": 0.96,
+                                    "content": "resilience through the recruiting process?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18,
+                            "is_list_end_line": true
+                        }
+                    ],
+                    "index": 15.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        94,
+                        664,
+                        784,
+                        901
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        50,
+                        914,
+                        148,
+                        965
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                53,
+                                916,
+                                147,
+                                964
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        53,
+                                        916,
+                                        147,
+                                        964
+                                    ],
+                                    "score": 1.0,
+                                    "content": "思哥",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        }
+                    ],
+                    "index": 19,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        372,
+                        913,
+                        522,
+                        969
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                373,
+                                916,
+                                522,
+                                968
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        373,
+                                        916,
+                                        522,
+                                        968
+                                    ],
+                                    "score": 1.0,
+                                    "content": "雅思哥",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        }
+                    ],
+                    "index": 20,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        90,
+                        986,
+                        734,
+                        1022
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                93,
+                                990,
+                                727,
+                                1018
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        93,
+                                        990,
+                                        727,
+                                        1018
+                                    ],
+                                    "score": 0.98,
+                                    "content": "温馨提示：非大陆考区疑似新题，随时关注更新哦！",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        }
+                    ],
+                    "index": 21,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        93,
+                        990,
+                        727,
+                        1018
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        187,
+                        1102,
+                        337,
+                        1154
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                186,
+                                1101,
+                                336,
+                                1158
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        186,
+                                        1101,
+                                        336,
+                                        1158
+                                    ],
+                                    "score": 1.0,
+                                    "content": "雅思哥",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        }
+                    ],
+                    "index": 22,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        563,
+                        1104,
+                        715,
+                        1157
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                562,
+                                1105,
+                                702,
+                                1158
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        562,
+                                        1105,
+                                        702,
+                                        1158
+                                    ],
+                                    "score": 0.98,
+                                    "content": "雅思哥",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        }
+                    ],
+                    "index": 23,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        188,
+                        1157,
+                        335,
+                        1182
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                195,
+                                1161,
+                                333,
+                                1180
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        195,
+                                        1161,
+                                        333,
+                                        1180
+                                    ],
+                                    "score": 0.97,
+                                    "content": "ELTSBRO",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        }
+                    ],
+                    "index": 24,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        195,
+                        1161,
+                        333,
+                        1180
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        566,
+                        1161,
+                        711,
+                        1184
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                652,
+                                1164,
+                                706,
+                                1180
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        652,
+                                        1164,
+                                        706,
+                                        1180
+                                    ],
+                                    "score": 0.72,
+                                    "content": "BRe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        }
+                    ],
+                    "index": 25,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        652,
+                        1164,
+                        706,
+                        1180
+                    ]
+                }
+            ]
+        }
+    ],
+    "_parse_type": "ocr",
+    "_version_name": "1.2.2"
+}

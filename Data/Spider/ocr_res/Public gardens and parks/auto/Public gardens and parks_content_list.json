@@ -1,0 +1,36 @@
+[
+    {
+        "type": "text",
+        "text": "Public gardens and parks ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Part1 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ELTSBR笛 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Would you like to play in a public garden or park?   \n2. What do you like to do when visiting a park?   \n3. How are the parks today different from those you visited asakid?   \n4. Would you prefer to play in a personal garden or publicgarden? ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "温馨提示：非大陆考区疑似新题，随时关注更新哦！",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/5345e825c0402b0ed46620499348770a2cee6289c5af20be806f23e2c50c0a95.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    }
+]

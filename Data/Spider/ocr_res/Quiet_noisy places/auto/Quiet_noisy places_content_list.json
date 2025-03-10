@@ -1,0 +1,36 @@
+[
+    {
+        "type": "text",
+        "text": "Quiet/noisy places ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Part1 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Do you like quiet or noisy places? 2. Would you like to go to quiet or noisy places on weekendswhenyouarefree? 旺 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "BRG ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "温馨提示：非大陆考区疑似新题，随时关注更新哦！",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/a8be0f33573cff8f55893fbdb1e847aa6939b5f30b4a2a12e44880ecfea1bc69.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    }
+]

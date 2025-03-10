@@ -1,0 +1,1531 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        90,
+                        156,
+                        496,
+                        206
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                94,
+                                161,
+                                492,
+                                204
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        94,
+                                        161,
+                                        492,
+                                        204
+                                    ],
+                                    "score": 0.96,
+                                    "content": "仰慕的运动员/体育队",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        119,
+                        233,
+                        228,
+                        268
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                120,
+                                233,
+                                229,
+                                268
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        120,
+                                        233,
+                                        229,
+                                        268
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Part2",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        372,
+                        223,
+                        520,
+                        248
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                378,
+                                226,
+                                518,
+                                246
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        378,
+                                        226,
+                                        518,
+                                        246
+                                    ],
+                                    "score": 0.86,
+                                    "content": "ELTS BR笛",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        90,
+                        291,
+                        709,
+                        368
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                91,
+                                292,
+                                703,
+                                333
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        91,
+                                        292,
+                                        703,
+                                        333
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Describe an athlete/sports team you admire",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                92,
+                                331,
+                                300,
+                                370
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        331,
+                                        300,
+                                        370
+                                    ],
+                                    "score": 1.0,
+                                    "content": "You should say:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 3.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        112,
+                        371,
+                        750,
+                        610
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                118,
+                                375,
+                                704,
+                                407
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        118,
+                                        375,
+                                        612,
+                                        407
+                                    ],
+                                    "score": 0.98,
+                                    "content": "Who/what the athlete/sports team is",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        622,
+                                        376,
+                                        704,
+                                        404
+                                    ],
+                                    "score": 0.68,
+                                    "content": "忠号",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                117,
+                                414,
+                                747,
+                                451
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        117,
+                                        414,
+                                        747,
+                                        451
+                                    ],
+                                    "score": 0.97,
+                                    "content": "Where/how you got to know the athlete/sports",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                115,
+                                458,
+                                190,
+                                488
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        115,
+                                        458,
+                                        190,
+                                        488
+                                    ],
+                                    "score": 1.0,
+                                    "content": "team",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                118,
+                                497,
+                                662,
+                                532
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        118,
+                                        497,
+                                        662,
+                                        532
+                                    ],
+                                    "score": 0.99,
+                                    "content": "How often you watch their sports games",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                118,
+                                537,
+                                743,
+                                570
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        118,
+                                        537,
+                                        743,
+                                        570
+                                    ],
+                                    "score": 0.98,
+                                    "content": "And explain why you admire the athlete/sports",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                115,
+                                581,
+                                189,
+                                609
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        115,
+                                        581,
+                                        189,
+                                        609
+                                    ],
+                                    "score": 1.0,
+                                    "content": "team",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        }
+                    ],
+                    "index": 7.5
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        119,
+                        685,
+                        228,
+                        720
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                120,
+                                685,
+                                228,
+                                720
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        120,
+                                        685,
+                                        228,
+                                        720
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Part3",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        }
+                    ],
+                    "index": 11
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        89,
+                        744,
+                        807,
+                        984
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                95,
+                                743,
+                                806,
+                                782
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        743,
+                                        806,
+                                        782
+                                    ],
+                                    "score": 0.98,
+                                    "content": "1. Do you think it is very important for students to do",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                126,
+                                786,
+                                227,
+                                824
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        126,
+                                        786,
+                                        227,
+                                        824
+                                    ],
+                                    "score": 0.99,
+                                    "content": "sports?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                94,
+                                826,
+                                801,
+                                864
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        94,
+                                        826,
+                                        801,
+                                        864
+                                    ],
+                                    "score": 0.99,
+                                    "content": "2. Does winning in a sports game make students feel",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                126,
+                                871,
+                                222,
+                                902
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        126,
+                                        871,
+                                        222,
+                                        902
+                                    ],
+                                    "score": 0.99,
+                                    "content": "proud?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                97,
+                                909,
+                                837,
+                                983
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        97,
+                                        909,
+                                        711,
+                                        943
+                                    ],
+                                    "score": 0.99,
+                                    "content": "3. Do you think winning is everything in sports",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        129,
+                                        950,
+                                        314,
+                                        983
+                                    ],
+                                    "score": 0.99,
+                                    "content": "competitions?",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        744,
+                                        918,
+                                        837,
+                                        970
+                                    ],
+                                    "score": 1.0,
+                                    "content": "雅思",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        }
+                    ],
+                    "index": 14
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        86,
+                        1025,
+                        735,
+                        1063
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                93,
+                                1031,
+                                728,
+                                1059
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        93,
+                                        1031,
+                                        728,
+                                        1059
+                                    ],
+                                    "score": 0.97,
+                                    "content": "温馨提示：非大陆考区疑似新题，随时关注更新哦！",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        }
+                    ],
+                    "index": 17
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        188,
+                        1102,
+                        337,
+                        1154
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                186,
+                                1102,
+                                337,
+                                1158
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        186,
+                                        1102,
+                                        337,
+                                        1158
+                                    ],
+                                    "score": 1.0,
+                                    "content": "雅思哥",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        }
+                    ],
+                    "index": 18
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        563,
+                        1104,
+                        715,
+                        1157
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                563,
+                                1105,
+                                703,
+                                1158
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        563,
+                                        1105,
+                                        703,
+                                        1158
+                                    ],
+                                    "score": 0.97,
+                                    "content": "雅思哥",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        }
+                    ],
+                    "index": 19
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        188,
+                        1157,
+                        335,
+                        1182
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                195,
+                                1161,
+                                333,
+                                1180
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        195,
+                                        1161,
+                                        333,
+                                        1180
+                                    ],
+                                    "score": 0.97,
+                                    "content": "ELTSBRO",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        }
+                    ],
+                    "index": 20
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        566,
+                        1160,
+                        710,
+                        1184
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                651,
+                                1165,
+                                705,
+                                1179
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        651,
+                                        1165,
+                                        705,
+                                        1179
+                                    ],
+                                    "score": 0.83,
+                                    "content": "BR电",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        }
+                    ],
+                    "index": 21
+                }
+            ],
+            "layout_bboxes": [],
+            "page_idx": 0,
+            "page_size": [
+                900.0,
+                1350.0
+            ],
+            "_layout_tree": [],
+            "images": [],
+            "tables": [],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        741,
+                        171,
+                        853,
+                        250
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        742,
+                        917,
+                        853,
+                        997
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        102,
+                        1227,
+                        792,
+                        1256
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        665,
+                        72,
+                        854,
+                        132
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        44,
+                        1,
+                        131,
+                        140
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        48,
+                        1280,
+                        849,
+                        1349
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        80,
+                        0,
+                        858,
+                        72
+                    ],
+                    "lines": []
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        90,
+                        156,
+                        496,
+                        206
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                94,
+                                161,
+                                492,
+                                204
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        94,
+                                        161,
+                                        492,
+                                        204
+                                    ],
+                                    "score": 0.96,
+                                    "content": "仰慕的运动员/体育队",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        119,
+                        233,
+                        228,
+                        268
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                120,
+                                233,
+                                229,
+                                268
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        120,
+                                        233,
+                                        229,
+                                        268
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Part2",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        }
+                    ],
+                    "index": 1,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        372,
+                        223,
+                        520,
+                        248
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                378,
+                                226,
+                                518,
+                                246
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        378,
+                                        226,
+                                        518,
+                                        246
+                                    ],
+                                    "score": 0.86,
+                                    "content": "ELTS BR笛",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 2,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        378,
+                        226,
+                        518,
+                        246
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        90,
+                        291,
+                        709,
+                        368
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                91,
+                                292,
+                                703,
+                                333
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        91,
+                                        292,
+                                        703,
+                                        333
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Describe an athlete/sports team you admire",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                92,
+                                331,
+                                300,
+                                370
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        331,
+                                        300,
+                                        370
+                                    ],
+                                    "score": 1.0,
+                                    "content": "You should say:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 3.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        91,
+                        292,
+                        703,
+                        370
+                    ]
+                },
+                {
+                    "type": "list",
+                    "bbox": [
+                        112,
+                        371,
+                        750,
+                        610
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                118,
+                                375,
+                                704,
+                                407
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        118,
+                                        375,
+                                        612,
+                                        407
+                                    ],
+                                    "score": 0.98,
+                                    "content": "Who/what the athlete/sports team is",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        622,
+                                        376,
+                                        704,
+                                        404
+                                    ],
+                                    "score": 0.68,
+                                    "content": "忠号",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                117,
+                                414,
+                                747,
+                                451
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        117,
+                                        414,
+                                        747,
+                                        451
+                                    ],
+                                    "score": 0.97,
+                                    "content": "Where/how you got to know the athlete/sports",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                115,
+                                458,
+                                190,
+                                488
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        115,
+                                        458,
+                                        190,
+                                        488
+                                    ],
+                                    "score": 1.0,
+                                    "content": "team",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                118,
+                                497,
+                                662,
+                                532
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        118,
+                                        497,
+                                        662,
+                                        532
+                                    ],
+                                    "score": 0.99,
+                                    "content": "How often you watch their sports games",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                118,
+                                537,
+                                743,
+                                570
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        118,
+                                        537,
+                                        743,
+                                        570
+                                    ],
+                                    "score": 0.98,
+                                    "content": "And explain why you admire the athlete/sports",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                115,
+                                581,
+                                189,
+                                609
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        115,
+                                        581,
+                                        189,
+                                        609
+                                    ],
+                                    "score": 1.0,
+                                    "content": "team",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10,
+                            "is_list_start_line": true
+                        }
+                    ],
+                    "index": 7.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        115,
+                        375,
+                        747,
+                        609
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        119,
+                        685,
+                        228,
+                        720
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                120,
+                                685,
+                                228,
+                                720
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        120,
+                                        685,
+                                        228,
+                                        720
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Part3",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        }
+                    ],
+                    "index": 11,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "list",
+                    "bbox": [
+                        89,
+                        744,
+                        807,
+                        984
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                95,
+                                743,
+                                806,
+                                782
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        743,
+                                        806,
+                                        782
+                                    ],
+                                    "score": 0.98,
+                                    "content": "1. Do you think it is very important for students to do",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                126,
+                                786,
+                                227,
+                                824
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        126,
+                                        786,
+                                        227,
+                                        824
+                                    ],
+                                    "score": 0.99,
+                                    "content": "sports?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                94,
+                                826,
+                                801,
+                                864
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        94,
+                                        826,
+                                        801,
+                                        864
+                                    ],
+                                    "score": 0.99,
+                                    "content": "2. Does winning in a sports game make students feel",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                126,
+                                871,
+                                222,
+                                902
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        126,
+                                        871,
+                                        222,
+                                        902
+                                    ],
+                                    "score": 0.99,
+                                    "content": "proud?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                97,
+                                909,
+                                837,
+                                983
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        97,
+                                        909,
+                                        711,
+                                        943
+                                    ],
+                                    "score": 0.99,
+                                    "content": "3. Do you think winning is everything in sports",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        129,
+                                        950,
+                                        314,
+                                        983
+                                    ],
+                                    "score": 0.99,
+                                    "content": "competitions?",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        744,
+                                        918,
+                                        837,
+                                        970
+                                    ],
+                                    "score": 1.0,
+                                    "content": "雅思",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16,
+                            "is_list_start_line": true
+                        }
+                    ],
+                    "index": 14,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        94,
+                        743,
+                        837,
+                        983
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        86,
+                        1025,
+                        735,
+                        1063
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                93,
+                                1031,
+                                728,
+                                1059
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        93,
+                                        1031,
+                                        728,
+                                        1059
+                                    ],
+                                    "score": 0.97,
+                                    "content": "温馨提示：非大陆考区疑似新题，随时关注更新哦！",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        }
+                    ],
+                    "index": 17,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        93,
+                        1031,
+                        728,
+                        1059
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        188,
+                        1102,
+                        337,
+                        1154
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                186,
+                                1102,
+                                337,
+                                1158
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        186,
+                                        1102,
+                                        337,
+                                        1158
+                                    ],
+                                    "score": 1.0,
+                                    "content": "雅思哥",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        }
+                    ],
+                    "index": 18,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        563,
+                        1104,
+                        715,
+                        1157
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                563,
+                                1105,
+                                703,
+                                1158
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        563,
+                                        1105,
+                                        703,
+                                        1158
+                                    ],
+                                    "score": 0.97,
+                                    "content": "雅思哥",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        }
+                    ],
+                    "index": 19,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        188,
+                        1157,
+                        335,
+                        1182
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                195,
+                                1161,
+                                333,
+                                1180
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        195,
+                                        1161,
+                                        333,
+                                        1180
+                                    ],
+                                    "score": 0.97,
+                                    "content": "ELTSBRO",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        }
+                    ],
+                    "index": 20,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        195,
+                        1161,
+                        333,
+                        1180
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        566,
+                        1160,
+                        710,
+                        1184
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                651,
+                                1165,
+                                705,
+                                1179
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        651,
+                                        1165,
+                                        705,
+                                        1179
+                                    ],
+                                    "score": 0.83,
+                                    "content": "BR电",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        }
+                    ],
+                    "index": 21,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        651,
+                        1165,
+                        705,
+                        1179
+                    ]
+                }
+            ]
+        }
+    ],
+    "_parse_type": "ocr",
+    "_version_name": "1.2.2"
+}

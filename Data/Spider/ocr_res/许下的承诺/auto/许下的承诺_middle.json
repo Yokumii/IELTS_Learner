@@ -1,0 +1,1540 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        154,
+                        20,
+                        383,
+                        59
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                157,
+                                23,
+                                381,
+                                57
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        157,
+                                        23,
+                                        276,
+                                        57
+                                    ],
+                                    "score": 0.99,
+                                    "content": "【2025年",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        280,
+                                        24,
+                                        381,
+                                        57
+                                    ],
+                                    "score": 0.99,
+                                    "content": "1-4月】",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        91,
+                        157,
+                        309,
+                        207
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                92,
+                                160,
+                                306,
+                                204
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        160,
+                                        306,
+                                        204
+                                    ],
+                                    "score": 1.0,
+                                    "content": "许下的承诺",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        372,
+                        168,
+                        522,
+                        221
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                371,
+                                169,
+                                522,
+                                221
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        371,
+                                        169,
+                                        522,
+                                        221
+                                    ],
+                                    "score": 1.0,
+                                    "content": "雅思哥",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        119,
+                        233,
+                        228,
+                        268
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                120,
+                                232,
+                                229,
+                                269
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        120,
+                                        232,
+                                        229,
+                                        269
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Part2",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        373,
+                        223,
+                        520,
+                        248
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                387,
+                                225,
+                                517,
+                                246
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        387,
+                                        228,
+                                        448,
+                                        244
+                                    ],
+                                    "score": 0.98,
+                                    "content": "ELTS",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        451,
+                                        225,
+                                        517,
+                                        246
+                                    ],
+                                    "score": 0.83,
+                                    "content": "BR笛",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        88,
+                        293,
+                        771,
+                        368
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                92,
+                                294,
+                                766,
+                                329
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        294,
+                                        766,
+                                        329
+                                    ],
+                                    "score": 0.98,
+                                    "content": "Describe a time you made a promise to someone",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                91,
+                                334,
+                                300,
+                                369
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        91,
+                                        334,
+                                        300,
+                                        369
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Youshouldsay:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        }
+                    ],
+                    "index": 5.5
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        563,
+                        359,
+                        715,
+                        437
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                563,
+                                359,
+                                715,
+                                437
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        563,
+                                        359,
+                                        715,
+                                        437
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                563,
+                                                359,
+                                                715,
+                                                437
+                                            ],
+                                            "score": 0.337,
+                                            "type": "image",
+                                            "image_path": "90b727d9e7238a1534f04e15e7acb110cb54a09231093bce11834a9406d59e1f.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 9.0,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        563,
+                                        359,
+                                        715,
+                                        398.0
+                                    ],
+                                    "spans": [],
+                                    "index": 8
+                                },
+                                {
+                                    "bbox": [
+                                        563,
+                                        398.0,
+                                        715,
+                                        437.0
+                                    ],
+                                    "spans": [],
+                                    "index": 10
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 9.0
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        99,
+                        373,
+                        634,
+                        531
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                106,
+                                376,
+                                406,
+                                407
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        376,
+                                        406,
+                                        407
+                                    ],
+                                    "score": 0.95,
+                                    "content": "What the promisewas",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                104,
+                                415,
+                                397,
+                                450
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        104,
+                                        415,
+                                        397,
+                                        450
+                                    ],
+                                    "score": 0.98,
+                                    "content": "To whom you made it",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                105,
+                                455,
+                                629,
+                                490
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        455,
+                                        629,
+                                        490
+                                    ],
+                                    "score": 0.93,
+                                    "content": "Whether it was easy or difficult tokeep",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                105,
+                                497,
+                                496,
+                                529
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        497,
+                                        496,
+                                        529
+                                    ],
+                                    "score": 0.96,
+                                    "content": "And explainwhyyou made it",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        }
+                    ],
+                    "index": 10.0
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        119,
+                        563,
+                        228,
+                        599
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                120,
+                                563,
+                                227,
+                                599
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        120,
+                                        563,
+                                        199,
+                                        599
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Part",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        201,
+                                        564,
+                                        227,
+                                        597
+                                    ],
+                                    "score": 1.0,
+                                    "content": "3",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        }
+                    ],
+                    "index": 13
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        92,
+                        622,
+                        778,
+                        901
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                99,
+                                626,
+                                776,
+                                662
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        99,
+                                        626,
+                                        776,
+                                        662
+                                    ],
+                                    "score": 0.97,
+                                    "content": "1. Why do some people fail to keep their promises?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                94,
+                                665,
+                                565,
+                                700
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        94,
+                                        665,
+                                        565,
+                                        700
+                                    ],
+                                    "score": 0.96,
+                                    "content": "2. Do children keep their promises?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                96,
+                                707,
+                                691,
+                                737
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        96,
+                                        707,
+                                        691,
+                                        737
+                                    ],
+                                    "score": 0.96,
+                                    "content": "3.Do parents in China make promise to their",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                127,
+                                747,
+                                250,
+                                776
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        127,
+                                        747,
+                                        250,
+                                        776
+                                    ],
+                                    "score": 0.99,
+                                    "content": "children?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                94,
+                                784,
+                                757,
+                                825
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        94,
+                                        784,
+                                        757,
+                                        825
+                                    ],
+                                    "score": 0.96,
+                                    "content": "4. What kinds of promises do people often make?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                95,
+                                828,
+                                585,
+                                863
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        828,
+                                        585,
+                                        863
+                                    ],
+                                    "score": 0.96,
+                                    "content": "5. Do you often keep your promises?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                96,
+                                868,
+                                596,
+                                900
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        96,
+                                        868,
+                                        596,
+                                        900
+                                    ],
+                                    "score": 0.96,
+                                    "content": "6. Is it useful to write down promises?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        }
+                    ],
+                    "index": 17
+                }
+            ],
+            "layout_bboxes": [],
+            "page_idx": 0,
+            "page_size": [
+                900.0,
+                1350.0
+            ],
+            "_layout_tree": [],
+            "images": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        563,
+                        359,
+                        715,
+                        437
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                563,
+                                359,
+                                715,
+                                437
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        563,
+                                        359,
+                                        715,
+                                        437
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                563,
+                                                359,
+                                                715,
+                                                437
+                                            ],
+                                            "score": 0.337,
+                                            "type": "image",
+                                            "image_path": "90b727d9e7238a1534f04e15e7acb110cb54a09231093bce11834a9406d59e1f.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 9.0,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        563,
+                                        359,
+                                        715,
+                                        398.0
+                                    ],
+                                    "spans": [],
+                                    "index": 8
+                                },
+                                {
+                                    "bbox": [
+                                        563,
+                                        398.0,
+                                        715,
+                                        437.0
+                                    ],
+                                    "spans": [],
+                                    "index": 10
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 9.0
+                }
+            ],
+            "tables": [],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        741,
+                        171,
+                        854,
+                        250
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        100,
+                        1227,
+                        793,
+                        1256
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        44,
+                        1,
+                        131,
+                        140
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        90,
+                        945,
+                        734,
+                        981
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        47,
+                        1283,
+                        847,
+                        1348
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        666,
+                        72,
+                        854,
+                        132
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        566,
+                        1161,
+                        711,
+                        1184
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        188,
+                        1157,
+                        335,
+                        1182
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        563,
+                        1104,
+                        715,
+                        1157
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        187,
+                        1102,
+                        338,
+                        1154
+                    ],
+                    "lines": []
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        154,
+                        20,
+                        383,
+                        59
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                157,
+                                23,
+                                381,
+                                57
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        157,
+                                        23,
+                                        276,
+                                        57
+                                    ],
+                                    "score": 0.99,
+                                    "content": "【2025年",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        280,
+                                        24,
+                                        381,
+                                        57
+                                    ],
+                                    "score": 0.99,
+                                    "content": "1-4月】",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        157,
+                        23,
+                        381,
+                        57
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        91,
+                        157,
+                        309,
+                        207
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                92,
+                                160,
+                                306,
+                                204
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        160,
+                                        306,
+                                        204
+                                    ],
+                                    "score": 1.0,
+                                    "content": "许下的承诺",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        }
+                    ],
+                    "index": 1,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        372,
+                        168,
+                        522,
+                        221
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                371,
+                                169,
+                                522,
+                                221
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        371,
+                                        169,
+                                        522,
+                                        221
+                                    ],
+                                    "score": 1.0,
+                                    "content": "雅思哥",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 2,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        119,
+                        233,
+                        228,
+                        268
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                120,
+                                232,
+                                229,
+                                269
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        120,
+                                        232,
+                                        229,
+                                        269
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Part2",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        373,
+                        223,
+                        520,
+                        248
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                387,
+                                225,
+                                517,
+                                246
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        387,
+                                        228,
+                                        448,
+                                        244
+                                    ],
+                                    "score": 0.98,
+                                    "content": "ELTS",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        451,
+                                        225,
+                                        517,
+                                        246
+                                    ],
+                                    "score": 0.83,
+                                    "content": "BR笛",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 4,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        387,
+                        225,
+                        517,
+                        246
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        88,
+                        293,
+                        771,
+                        368
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                92,
+                                294,
+                                766,
+                                329
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        294,
+                                        766,
+                                        329
+                                    ],
+                                    "score": 0.98,
+                                    "content": "Describe a time you made a promise to someone",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                91,
+                                334,
+                                300,
+                                369
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        91,
+                                        334,
+                                        300,
+                                        369
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Youshouldsay:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        }
+                    ],
+                    "index": 5.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        91,
+                        294,
+                        766,
+                        369
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        563,
+                        359,
+                        715,
+                        437
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                563,
+                                359,
+                                715,
+                                437
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        563,
+                                        359,
+                                        715,
+                                        437
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                563,
+                                                359,
+                                                715,
+                                                437
+                                            ],
+                                            "score": 0.337,
+                                            "type": "image",
+                                            "image_path": "90b727d9e7238a1534f04e15e7acb110cb54a09231093bce11834a9406d59e1f.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 9.0,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        563,
+                                        359,
+                                        715,
+                                        398.0
+                                    ],
+                                    "spans": [],
+                                    "index": 8
+                                },
+                                {
+                                    "bbox": [
+                                        563,
+                                        398.0,
+                                        715,
+                                        437.0
+                                    ],
+                                    "spans": [],
+                                    "index": 10
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 9.0,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "list",
+                    "bbox": [
+                        99,
+                        373,
+                        634,
+                        531
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                106,
+                                376,
+                                406,
+                                407
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        376,
+                                        406,
+                                        407
+                                    ],
+                                    "score": 0.95,
+                                    "content": "What the promisewas",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                104,
+                                415,
+                                397,
+                                450
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        104,
+                                        415,
+                                        397,
+                                        450
+                                    ],
+                                    "score": 0.98,
+                                    "content": "To whom you made it",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                105,
+                                455,
+                                629,
+                                490
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        455,
+                                        629,
+                                        490
+                                    ],
+                                    "score": 0.93,
+                                    "content": "Whether it was easy or difficult tokeep",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                105,
+                                497,
+                                496,
+                                529
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        497,
+                                        496,
+                                        529
+                                    ],
+                                    "score": 0.96,
+                                    "content": "And explainwhyyou made it",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12,
+                            "is_list_start_line": true
+                        }
+                    ],
+                    "index": 10.0,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        104,
+                        376,
+                        629,
+                        529
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        119,
+                        563,
+                        228,
+                        599
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                120,
+                                563,
+                                227,
+                                599
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        120,
+                                        563,
+                                        199,
+                                        599
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Part",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        201,
+                                        564,
+                                        227,
+                                        597
+                                    ],
+                                    "score": 1.0,
+                                    "content": "3",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        }
+                    ],
+                    "index": 13,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "index",
+                    "bbox": [
+                        92,
+                        622,
+                        778,
+                        901
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                99,
+                                626,
+                                776,
+                                662
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        99,
+                                        626,
+                                        776,
+                                        662
+                                    ],
+                                    "score": 0.97,
+                                    "content": "1. Why do some people fail to keep their promises?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                94,
+                                665,
+                                565,
+                                700
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        94,
+                                        665,
+                                        565,
+                                        700
+                                    ],
+                                    "score": 0.96,
+                                    "content": "2. Do children keep their promises?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                96,
+                                707,
+                                691,
+                                737
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        96,
+                                        707,
+                                        691,
+                                        737
+                                    ],
+                                    "score": 0.96,
+                                    "content": "3.Do parents in China make promise to their",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                127,
+                                747,
+                                250,
+                                776
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        127,
+                                        747,
+                                        250,
+                                        776
+                                    ],
+                                    "score": 0.99,
+                                    "content": "children?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                94,
+                                784,
+                                757,
+                                825
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        94,
+                                        784,
+                                        757,
+                                        825
+                                    ],
+                                    "score": 0.96,
+                                    "content": "4. What kinds of promises do people often make?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                95,
+                                828,
+                                585,
+                                863
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        828,
+                                        585,
+                                        863
+                                    ],
+                                    "score": 0.96,
+                                    "content": "5. Do you often keep your promises?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                96,
+                                868,
+                                596,
+                                900
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        96,
+                                        868,
+                                        596,
+                                        900
+                                    ],
+                                    "score": 0.96,
+                                    "content": "6. Is it useful to write down promises?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20,
+                            "is_list_start_line": true
+                        }
+                    ],
+                    "index": 17,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        94,
+                        626,
+                        776,
+                        900
+                    ]
+                }
+            ]
+        }
+    ],
+    "_parse_type": "ocr",
+    "_version_name": "1.2.2"
+}

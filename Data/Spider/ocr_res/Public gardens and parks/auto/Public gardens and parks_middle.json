@@ -1,0 +1,946 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        91,
+                        159,
+                        621,
+                        209
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                159,
+                                621,
+                                212
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        159,
+                                        621,
+                                        212
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Public gardens and parks",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        119,
+                        232,
+                        225,
+                        268
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                120,
+                                232,
+                                225,
+                                269
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        120,
+                                        232,
+                                        225,
+                                        269
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Part1",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        372,
+                        222,
+                        521,
+                        248
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                378,
+                                226,
+                                518,
+                                246
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        378,
+                                        226,
+                                        518,
+                                        246
+                                    ],
+                                    "score": 0.91,
+                                    "content": "ELTSBR笛",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        91,
+                        292,
+                        792,
+                        531
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                98,
+                                294,
+                                784,
+                                330
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        98,
+                                        294,
+                                        784,
+                                        330
+                                    ],
+                                    "score": 0.98,
+                                    "content": "1. Would you like to play in a public garden or park?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                95,
+                                335,
+                                722,
+                                367
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        335,
+                                        722,
+                                        367
+                                    ],
+                                    "score": 0.96,
+                                    "content": "2. What do you like to do when visiting a park?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                96,
+                                375,
+                                785,
+                                409
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        96,
+                                        375,
+                                        785,
+                                        409
+                                    ],
+                                    "score": 0.98,
+                                    "content": "3. How are the parks today different from those you",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                128,
+                                415,
+                                337,
+                                446
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        128,
+                                        415,
+                                        337,
+                                        446
+                                    ],
+                                    "score": 0.96,
+                                    "content": "visited asakid?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                96,
+                                455,
+                                775,
+                                492
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        96,
+                                        455,
+                                        775,
+                                        492
+                                    ],
+                                    "score": 0.96,
+                                    "content": "4. Would you prefer to play in a personal garden or",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                127,
+                                496,
+                                327,
+                                531
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        127,
+                                        496,
+                                        327,
+                                        531
+                                    ],
+                                    "score": 0.99,
+                                    "content": "publicgarden?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        }
+                    ],
+                    "index": 5.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        93,
+                        573,
+                        734,
+                        611
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                93,
+                                578,
+                                727,
+                                606
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        93,
+                                        578,
+                                        727,
+                                        606
+                                    ],
+                                    "score": 0.98,
+                                    "content": "温馨提示：非大陆考区疑似新题，随时关注更新哦！",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        }
+                    ],
+                    "index": 9
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        41,
+                        608,
+                        851,
+                        1294
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                41,
+                                608,
+                                851,
+                                1294
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        41,
+                                        608,
+                                        851,
+                                        1294
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                41,
+                                                608,
+                                                851,
+                                                1294
+                                            ],
+                                            "score": 0.468,
+                                            "type": "image",
+                                            "image_path": "5345e825c0402b0ed46620499348770a2cee6289c5af20be806f23e2c50c0a95.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 11,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        41,
+                                        608,
+                                        851,
+                                        836.6666666666666
+                                    ],
+                                    "spans": [],
+                                    "index": 10
+                                },
+                                {
+                                    "bbox": [
+                                        41,
+                                        836.6666666666666,
+                                        851,
+                                        1065.3333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 11
+                                },
+                                {
+                                    "bbox": [
+                                        41,
+                                        1065.3333333333333,
+                                        851,
+                                        1294.0
+                                    ],
+                                    "spans": [],
+                                    "index": 12
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 11
+                }
+            ],
+            "layout_bboxes": [],
+            "page_idx": 0,
+            "page_size": [
+                900.0,
+                1350.0
+            ],
+            "_layout_tree": [],
+            "images": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        41,
+                        608,
+                        851,
+                        1294
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                41,
+                                608,
+                                851,
+                                1294
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        41,
+                                        608,
+                                        851,
+                                        1294
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                41,
+                                                608,
+                                                851,
+                                                1294
+                                            ],
+                                            "score": 0.468,
+                                            "type": "image",
+                                            "image_path": "5345e825c0402b0ed46620499348770a2cee6289c5af20be806f23e2c50c0a95.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 11,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        41,
+                                        608,
+                                        851,
+                                        836.6666666666666
+                                    ],
+                                    "spans": [],
+                                    "index": 10
+                                },
+                                {
+                                    "bbox": [
+                                        41,
+                                        836.6666666666666,
+                                        851,
+                                        1065.3333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 11
+                                },
+                                {
+                                    "bbox": [
+                                        41,
+                                        1065.3333333333333,
+                                        851,
+                                        1294.0
+                                    ],
+                                    "spans": [],
+                                    "index": 12
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 11
+                }
+            ],
+            "tables": [],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        741,
+                        170,
+                        854,
+                        250
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        664,
+                        72,
+                        855,
+                        132
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        99,
+                        1227,
+                        794,
+                        1256
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        43,
+                        1,
+                        131,
+                        140
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        740,
+                        537,
+                        854,
+                        615
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        48,
+                        1282,
+                        850,
+                        1349
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        94,
+                        0,
+                        858,
+                        72
+                    ],
+                    "lines": []
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        91,
+                        159,
+                        621,
+                        209
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                159,
+                                621,
+                                212
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        159,
+                                        621,
+                                        212
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Public gardens and parks",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        119,
+                        232,
+                        225,
+                        268
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                120,
+                                232,
+                                225,
+                                269
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        120,
+                                        232,
+                                        225,
+                                        269
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Part1",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        }
+                    ],
+                    "index": 1,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        372,
+                        222,
+                        521,
+                        248
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                378,
+                                226,
+                                518,
+                                246
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        378,
+                                        226,
+                                        518,
+                                        246
+                                    ],
+                                    "score": 0.91,
+                                    "content": "ELTSBR笛",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 2,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        378,
+                        226,
+                        518,
+                        246
+                    ]
+                },
+                {
+                    "type": "list",
+                    "bbox": [
+                        91,
+                        292,
+                        792,
+                        531
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                98,
+                                294,
+                                784,
+                                330
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        98,
+                                        294,
+                                        784,
+                                        330
+                                    ],
+                                    "score": 0.98,
+                                    "content": "1. Would you like to play in a public garden or park?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                95,
+                                335,
+                                722,
+                                367
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        335,
+                                        722,
+                                        367
+                                    ],
+                                    "score": 0.96,
+                                    "content": "2. What do you like to do when visiting a park?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4,
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                96,
+                                375,
+                                785,
+                                409
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        96,
+                                        375,
+                                        785,
+                                        409
+                                    ],
+                                    "score": 0.98,
+                                    "content": "3. How are the parks today different from those you",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                128,
+                                415,
+                                337,
+                                446
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        128,
+                                        415,
+                                        337,
+                                        446
+                                    ],
+                                    "score": 0.96,
+                                    "content": "visited asakid?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                96,
+                                455,
+                                775,
+                                492
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        96,
+                                        455,
+                                        775,
+                                        492
+                                    ],
+                                    "score": 0.96,
+                                    "content": "4. Would you prefer to play in a personal garden or",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                127,
+                                496,
+                                327,
+                                531
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        127,
+                                        496,
+                                        327,
+                                        531
+                                    ],
+                                    "score": 0.99,
+                                    "content": "publicgarden?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8,
+                            "is_list_end_line": true
+                        }
+                    ],
+                    "index": 5.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        95,
+                        294,
+                        785,
+                        531
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        93,
+                        573,
+                        734,
+                        611
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                93,
+                                578,
+                                727,
+                                606
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        93,
+                                        578,
+                                        727,
+                                        606
+                                    ],
+                                    "score": 0.98,
+                                    "content": "温馨提示：非大陆考区疑似新题，随时关注更新哦！",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        }
+                    ],
+                    "index": 9,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        93,
+                        578,
+                        727,
+                        606
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        41,
+                        608,
+                        851,
+                        1294
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                41,
+                                608,
+                                851,
+                                1294
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        41,
+                                        608,
+                                        851,
+                                        1294
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                41,
+                                                608,
+                                                851,
+                                                1294
+                                            ],
+                                            "score": 0.468,
+                                            "type": "image",
+                                            "image_path": "5345e825c0402b0ed46620499348770a2cee6289c5af20be806f23e2c50c0a95.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 11,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        41,
+                                        608,
+                                        851,
+                                        836.6666666666666
+                                    ],
+                                    "spans": [],
+                                    "index": 10
+                                },
+                                {
+                                    "bbox": [
+                                        41,
+                                        836.6666666666666,
+                                        851,
+                                        1065.3333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 11
+                                },
+                                {
+                                    "bbox": [
+                                        41,
+                                        1065.3333333333333,
+                                        851,
+                                        1294.0
+                                    ],
+                                    "spans": [],
+                                    "index": 12
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 11,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                }
+            ]
+        }
+    ],
+    "_parse_type": "ocr",
+    "_version_name": "1.2.2"
+}

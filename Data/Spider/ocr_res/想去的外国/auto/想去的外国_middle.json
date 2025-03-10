@@ -1,0 +1,1736 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        90,
+                        156,
+                        308,
+                        206
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                93,
+                                162,
+                                303,
+                                203
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        93,
+                                        162,
+                                        303,
+                                        203
+                                    ],
+                                    "score": 1.0,
+                                    "content": "想去的外国",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        372,
+                        168,
+                        522,
+                        221
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                371,
+                                169,
+                                522,
+                                221
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        371,
+                                        169,
+                                        522,
+                                        221
+                                    ],
+                                    "score": 1.0,
+                                    "content": "雅思哥",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        119,
+                        233,
+                        228,
+                        268
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                120,
+                                232,
+                                229,
+                                269
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        120,
+                                        232,
+                                        229,
+                                        269
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Part2",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        372,
+                        223,
+                        520,
+                        248
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                383,
+                                226,
+                                517,
+                                246
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        383,
+                                        226,
+                                        517,
+                                        246
+                                    ],
+                                    "score": 0.86,
+                                    "content": "ELTS BR笛",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        89,
+                        292,
+                        813,
+                        362
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                90,
+                                293,
+                                810,
+                                331
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        90,
+                                        293,
+                                        810,
+                                        331
+                                    ],
+                                    "score": 0.98,
+                                    "content": "Describe a foreign country you would like to visit in",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                91,
+                                336,
+                                235,
+                                367
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        91,
+                                        336,
+                                        235,
+                                        367
+                                    ],
+                                    "score": 0.99,
+                                    "content": "thefuture",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        }
+                    ],
+                    "index": 4.5
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        564,
+                        359,
+                        713,
+                        410
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                564,
+                                359,
+                                713,
+                                410
+                            ],
+                            "spans": [],
+                            "index": 7
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        565,
+                        413,
+                        712,
+                        437
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                565,
+                                413,
+                                712,
+                                437
+                            ],
+                            "spans": [],
+                            "index": 9
+                        }
+                    ],
+                    "index": 9
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        90,
+                        374,
+                        664,
+                        572
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                91,
+                                358,
+                                704,
+                                412
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        91,
+                                        372,
+                                        302,
+                                        411
+                                    ],
+                                    "score": 1.0,
+                                    "content": "You should say:",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        562,
+                                        358,
+                                        704,
+                                        412
+                                    ],
+                                    "score": 0.99,
+                                    "content": "雅思哥",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                117,
+                                416,
+                                247,
+                                446
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        117,
+                                        416,
+                                        247,
+                                        446
+                                    ],
+                                    "score": 0.96,
+                                    "content": "Whatitis",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                116,
+                                455,
+                                532,
+                                489
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        116,
+                                        455,
+                                        532,
+                                        489
+                                    ],
+                                    "score": 0.95,
+                                    "content": "Whatyou haveknown about it",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                116,
+                                496,
+                                604,
+                                531
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        116,
+                                        496,
+                                        604,
+                                        531
+                                    ],
+                                    "score": 0.95,
+                                    "content": "Who youwould like to go therewith",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                117,
+                                538,
+                                664,
+                                570
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        117,
+                                        538,
+                                        664,
+                                        570
+                                    ],
+                                    "score": 0.98,
+                                    "content": "And explain why you would like to visit it",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        }
+                    ],
+                    "index": 10
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        119,
+                        644,
+                        228,
+                        680
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                120,
+                                644,
+                                228,
+                                680
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        120,
+                                        644,
+                                        228,
+                                        680
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Part3",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        }
+                    ],
+                    "index": 13
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        91,
+                        702,
+                        803,
+                        1065
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                97,
+                                706,
+                                647,
+                                738
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        97,
+                                        706,
+                                        647,
+                                        738
+                                    ],
+                                    "score": 0.98,
+                                    "content": "1. What do you think of national identity?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                95,
+                                746,
+                                690,
+                                779
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        746,
+                                        690,
+                                        779
+                                    ],
+                                    "score": 0.98,
+                                    "content": "2. What are the advantages of working in an",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                125,
+                                784,
+                                441,
+                                822
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        125,
+                                        784,
+                                        441,
+                                        822
+                                    ],
+                                    "score": 0.98,
+                                    "content": "international company?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                95,
+                                826,
+                                783,
+                                864
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        826,
+                                        783,
+                                        864
+                                    ],
+                                    "score": 0.98,
+                                    "content": "3. How does travelling abroad affect young people?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                95,
+                                867,
+                                716,
+                                901
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        867,
+                                        716,
+                                        901
+                                    ],
+                                    "score": 0.97,
+                                    "content": "4. How do people get information about other",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                127,
+                                909,
+                                516,
+                                944
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        127,
+                                        909,
+                                        265,
+                                        939
+                                    ],
+                                    "score": 0.99,
+                                    "content": "countries?",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        376,
+                                        918,
+                                        516,
+                                        944
+                                    ],
+                                    "score": 0.66,
+                                    "content": "件用司",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                95,
+                                946,
+                                803,
+                                987
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        946,
+                                        803,
+                                        987
+                                    ],
+                                    "score": 0.97,
+                                    "content": "5. Do you think reading is a good way to get to know",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                126,
+                                989,
+                                423,
+                                1023
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        126,
+                                        989,
+                                        423,
+                                        1023
+                                    ],
+                                    "score": 0.98,
+                                    "content": "othercountries?Why?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                97,
+                                1030,
+                                733,
+                                1062
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        97,
+                                        1030,
+                                        733,
+                                        1062
+                                    ],
+                                    "score": 0.98,
+                                    "content": "6.What do you think makes countries different?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        }
+                    ],
+                    "index": 18
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        188,
+                        1102,
+                        337,
+                        1154
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                186,
+                                1101,
+                                337,
+                                1158
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        186,
+                                        1101,
+                                        337,
+                                        1158
+                                    ],
+                                    "score": 1.0,
+                                    "content": "雅思哥",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        }
+                    ],
+                    "index": 23
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        563,
+                        1104,
+                        714,
+                        1157
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                562,
+                                1105,
+                                704,
+                                1158
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        562,
+                                        1105,
+                                        704,
+                                        1158
+                                    ],
+                                    "score": 0.98,
+                                    "content": "雅思哥",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        }
+                    ],
+                    "index": 24
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        189,
+                        1157,
+                        335,
+                        1182
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                194,
+                                1160,
+                                334,
+                                1180
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        194,
+                                        1160,
+                                        334,
+                                        1180
+                                    ],
+                                    "score": 0.88,
+                                    "content": "IELTS BRO",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        }
+                    ],
+                    "index": 25
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        565,
+                        1160,
+                        711,
+                        1184
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                648,
+                                1164,
+                                707,
+                                1180
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        648,
+                                        1164,
+                                        707,
+                                        1180
+                                    ],
+                                    "score": 0.77,
+                                    "content": "BRe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        }
+                    ],
+                    "index": 26
+                }
+            ],
+            "layout_bboxes": [],
+            "page_idx": 0,
+            "page_size": [
+                900.0,
+                1350.0
+            ],
+            "_layout_tree": [],
+            "images": [],
+            "tables": [],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        741,
+                        171,
+                        854,
+                        250
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        210,
+                        1226,
+                        688,
+                        1256
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        43,
+                        1,
+                        131,
+                        140
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        48,
+                        1280,
+                        852,
+                        1349
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        665,
+                        72,
+                        854,
+                        132
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        85,
+                        0,
+                        858,
+                        72
+                    ],
+                    "lines": []
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        90,
+                        156,
+                        308,
+                        206
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                93,
+                                162,
+                                303,
+                                203
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        93,
+                                        162,
+                                        303,
+                                        203
+                                    ],
+                                    "score": 1.0,
+                                    "content": "想去的外国",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        372,
+                        168,
+                        522,
+                        221
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                371,
+                                169,
+                                522,
+                                221
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        371,
+                                        169,
+                                        522,
+                                        221
+                                    ],
+                                    "score": 1.0,
+                                    "content": "雅思哥",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        }
+                    ],
+                    "index": 1,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        119,
+                        233,
+                        228,
+                        268
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                120,
+                                232,
+                                229,
+                                269
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        120,
+                                        232,
+                                        229,
+                                        269
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Part2",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 2,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        372,
+                        223,
+                        520,
+                        248
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                383,
+                                226,
+                                517,
+                                246
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        383,
+                                        226,
+                                        517,
+                                        246
+                                    ],
+                                    "score": 0.86,
+                                    "content": "ELTS BR笛",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        383,
+                        226,
+                        517,
+                        246
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        89,
+                        292,
+                        813,
+                        362
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                90,
+                                293,
+                                810,
+                                331
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        90,
+                                        293,
+                                        810,
+                                        331
+                                    ],
+                                    "score": 0.98,
+                                    "content": "Describe a foreign country you would like to visit in",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                91,
+                                336,
+                                235,
+                                367
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        91,
+                                        336,
+                                        235,
+                                        367
+                                    ],
+                                    "score": 0.99,
+                                    "content": "thefuture",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        }
+                    ],
+                    "index": 4.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        90,
+                        293,
+                        810,
+                        367
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        564,
+                        359,
+                        713,
+                        410
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                564,
+                                359,
+                                713,
+                                410
+                            ],
+                            "spans": [],
+                            "index": 7
+                        }
+                    ],
+                    "index": 7,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        565,
+                        413,
+                        712,
+                        437
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                565,
+                                413,
+                                712,
+                                437
+                            ],
+                            "spans": [],
+                            "index": 9
+                        }
+                    ],
+                    "index": 9,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        565,
+                        413,
+                        712,
+                        437
+                    ]
+                },
+                {
+                    "type": "list",
+                    "bbox": [
+                        90,
+                        374,
+                        664,
+                        572
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                91,
+                                358,
+                                704,
+                                412
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        91,
+                                        372,
+                                        302,
+                                        411
+                                    ],
+                                    "score": 1.0,
+                                    "content": "You should say:",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        562,
+                                        358,
+                                        704,
+                                        412
+                                    ],
+                                    "score": 0.99,
+                                    "content": "雅思哥",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                117,
+                                416,
+                                247,
+                                446
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        117,
+                                        416,
+                                        247,
+                                        446
+                                    ],
+                                    "score": 0.96,
+                                    "content": "Whatitis",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                116,
+                                455,
+                                532,
+                                489
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        116,
+                                        455,
+                                        532,
+                                        489
+                                    ],
+                                    "score": 0.95,
+                                    "content": "Whatyou haveknown about it",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                116,
+                                496,
+                                604,
+                                531
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        116,
+                                        496,
+                                        604,
+                                        531
+                                    ],
+                                    "score": 0.95,
+                                    "content": "Who youwould like to go therewith",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                117,
+                                538,
+                                664,
+                                570
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        117,
+                                        538,
+                                        664,
+                                        570
+                                    ],
+                                    "score": 0.98,
+                                    "content": "And explain why you would like to visit it",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12,
+                            "is_list_start_line": true
+                        }
+                    ],
+                    "index": 10,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        91,
+                        358,
+                        704,
+                        570
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        119,
+                        644,
+                        228,
+                        680
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                120,
+                                644,
+                                228,
+                                680
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        120,
+                                        644,
+                                        228,
+                                        680
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Part3",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        }
+                    ],
+                    "index": 13,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "list",
+                    "bbox": [
+                        91,
+                        702,
+                        803,
+                        1065
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                97,
+                                706,
+                                647,
+                                738
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        97,
+                                        706,
+                                        647,
+                                        738
+                                    ],
+                                    "score": 0.98,
+                                    "content": "1. What do you think of national identity?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14,
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                95,
+                                746,
+                                690,
+                                779
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        746,
+                                        690,
+                                        779
+                                    ],
+                                    "score": 0.98,
+                                    "content": "2. What are the advantages of working in an",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15,
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                125,
+                                784,
+                                441,
+                                822
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        125,
+                                        784,
+                                        441,
+                                        822
+                                    ],
+                                    "score": 0.98,
+                                    "content": "international company?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                95,
+                                826,
+                                783,
+                                864
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        826,
+                                        783,
+                                        864
+                                    ],
+                                    "score": 0.98,
+                                    "content": "3. How does travelling abroad affect young people?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                95,
+                                867,
+                                716,
+                                901
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        867,
+                                        716,
+                                        901
+                                    ],
+                                    "score": 0.97,
+                                    "content": "4. How do people get information about other",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18,
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                127,
+                                909,
+                                516,
+                                944
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        127,
+                                        909,
+                                        265,
+                                        939
+                                    ],
+                                    "score": 0.99,
+                                    "content": "countries?",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        376,
+                                        918,
+                                        516,
+                                        944
+                                    ],
+                                    "score": 0.66,
+                                    "content": "件用司",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                95,
+                                946,
+                                803,
+                                987
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        946,
+                                        803,
+                                        987
+                                    ],
+                                    "score": 0.97,
+                                    "content": "5. Do you think reading is a good way to get to know",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                126,
+                                989,
+                                423,
+                                1023
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        126,
+                                        989,
+                                        423,
+                                        1023
+                                    ],
+                                    "score": 0.98,
+                                    "content": "othercountries?Why?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                97,
+                                1030,
+                                733,
+                                1062
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        97,
+                                        1030,
+                                        733,
+                                        1062
+                                    ],
+                                    "score": 0.98,
+                                    "content": "6.What do you think makes countries different?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22,
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        }
+                    ],
+                    "index": 18,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        95,
+                        706,
+                        803,
+                        1062
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        188,
+                        1102,
+                        337,
+                        1154
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                186,
+                                1101,
+                                337,
+                                1158
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        186,
+                                        1101,
+                                        337,
+                                        1158
+                                    ],
+                                    "score": 1.0,
+                                    "content": "雅思哥",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        }
+                    ],
+                    "index": 23,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        563,
+                        1104,
+                        714,
+                        1157
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                562,
+                                1105,
+                                704,
+                                1158
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        562,
+                                        1105,
+                                        704,
+                                        1158
+                                    ],
+                                    "score": 0.98,
+                                    "content": "雅思哥",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        }
+                    ],
+                    "index": 24,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        189,
+                        1157,
+                        335,
+                        1182
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                194,
+                                1160,
+                                334,
+                                1180
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        194,
+                                        1160,
+                                        334,
+                                        1180
+                                    ],
+                                    "score": 0.88,
+                                    "content": "IELTS BRO",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        }
+                    ],
+                    "index": 25,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        194,
+                        1160,
+                        334,
+                        1180
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        565,
+                        1160,
+                        711,
+                        1184
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                648,
+                                1164,
+                                707,
+                                1180
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        648,
+                                        1164,
+                                        707,
+                                        1180
+                                    ],
+                                    "score": 0.77,
+                                    "content": "BRe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        }
+                    ],
+                    "index": 26,
+                    "page_num": "page_0",
+                    "page_size": [
+                        900.0,
+                        1350.0
+                    ],
+                    "bbox_fs": [
+                        648,
+                        1164,
+                        707,
+                        1180
+                    ]
+                }
+            ]
+        }
+    ],
+    "_parse_type": "ocr",
+    "_version_name": "1.2.2"
+}
