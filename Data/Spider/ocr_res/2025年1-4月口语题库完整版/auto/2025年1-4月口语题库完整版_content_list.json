@@ -1,0 +1,1629 @@
+[
+    {
+        "type": "text",
+        "text": "Part 1 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Study ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Do you work or are you a student? Do you think your school is suitable for study? Is there anything that can be improved? Do you prefer to study in the morning or the afternoon? ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Work ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Do you work or are you a student? What is the most challenging thing in your job? Do you work best in the morning or the evening? Do you see yourself continuing to do this job in the future? ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Accommodation ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Do you live in a house or a flat?   \nCan you tell me something about the room you live in?   \nIs there anything that makes your home pleasant?   \nWill you continue living ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Area you live in ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Do you like the area you live in?   \nDo you know your neighbors?   \nIs that a good place for family with children to live?   \nWhat do you think your living area would be improved? ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Hometown ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Are you from a big city or a small town? Is your city suitable for young people to stay in? Do you know much about the history of your hometown? What do you think would improve where you live? ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "新题 4 个",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Colors ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "What's your favorite color?   \nWhat's the color you dislike?   \nWhat color you your friends like most?   \nHave you ever bought something because of its color? ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Stories ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Do you love stories in your childhood? Do you prefer listening to stories or reading them? Did you ever write a story when you were a child? Do you enjoy telling stories to your friends and family? ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Borrowing and lending ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Have you borrowed books from others?   \nHave you ever borrowed money from others?   \nDo you like to lend things to others?   \nHow do you feel when people don't return things they borrowed from you? ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Hats/Caps ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Is wearing hats popular in your country? Where do you like to buy hats? What kinds of hats do you have? Is wearing hats popular in your country? ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "保留题 21 个",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Feeling bored ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "What kinds of things are boring to you?   \nWhat will you do when you feel bored?   \nWhat was the most boring thing you did when you were younger?   \nDo you feel more bored now than when you were younger? ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Old buildings ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Have you ever visited any old buildings? Do you prefer living in an old or a modern building? Do you think we should preserve old buildings in cities? Are there any old buildings you want to visit in the future? ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Art ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Do you like art? Do you like going to art galleries? Do you want to be an artist? Do you like modern art or traditional art? ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Sports ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Do you like playing sports? Did you do some sports when you were a child? What sports do you like to watch? Do you think students need more exercise? ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Mirrors ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Do you often look at yourself in the mirror?   \nHave you ever bought a mirror?   \nWould you like to decorate your room with mirrors?   \nWould you like to look at yourself in the mirror before buying any clothes? ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Friends ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Do you like making friends? Did you make a lot of friends when you were a child? Have you made any new friends recently? What do you often talk about with your new friends? ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Advertisements ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "How often do you see advertisements? What kind of advertisement do you enjoy? What kind of advertisements do you dislike? Was there an advert that impressed you when you were a kid? ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Swimming ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Do you like swimming? Is it difficult to learn how to swim? ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Where do people in your country like to go swimming? What’s the difference between swimming in a pool and in the sea? ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Reading ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Do you read books? Do you read more differently now than you did before? Have you ever read a novel that has been adapted into a film? Do you prefer reading or watching movies? ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Evening time ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Do you like the morning or evening? What do you usually do in the evening? What did you do in the evening when you were little? How will you feel if you stay up late? ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Sitting down ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Where is your favourite place to sit? Do you always sit down for a long time? Do you feel sleepy when you are sitting down? When you were a kid, did you usually sit on the floor? ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Computers ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In what conditions would you use a computer? When was the first time you used a computer? What would your life be like without computers? In what conditions would it be difficult for you to use a computer? ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Talents ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Do you have a talent or something you are good at? Was it mastered recently or when you were young? Do you think your talent can be useful for your future work? Why? Is there anyone in your family that has the same talent? ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Collecting things ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Do you collect things? ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Are there any things that you have kept since childhood?   \nWhere do you usually keep things that you need?   \nDo you prefer to keep things or throw them immediately after you don't need them anymore? ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Watches ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Do you wear a watch? Have you ever got a watch as a gift? Why do some people wear expensive watches? Do you think it is important to wear a watch? ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Cars ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "What kind of cars do you like? Do you prefer to be a passenger or a driver? Did you like to travel by car when you were a child? What kinds of cars would you like to buy? ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Lost and found ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Have you ever lost things? ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "What will you do if you find something lost by others? What can you do to prevent losing things? Will you post details on social media if you lose your item? ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Websites ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "What kinds of websites do you usually use? Are there any changes to the websites you often visit? What is your favourite website? What kinds of websites are popular in your country? ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Street markets ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "What do people usually buy at the street market? Do you prefer to shopping in the mall or at the street market? When was the last time you went to a street market? Are there many street markets in China? ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Time management ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "How do you plan your time in a day? Is it easy to manage time for you? When do you find it hard to allocate time? Do you like being busy? ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Dreams ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Do you often remember your dreams? Do you share your dreams with others? Do you think dreams have special meanings? Do you want to make your dreams come true? ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Emails ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Do you often send emails?   \nWhen would you send emails to others?   \nIs sending emails popular in China?   \nDo you think sending emails will be more or less popular in the future? ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Part 2 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "人物题",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "新题 1 个",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "精力充沛的人",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Describe an energetic person that you know. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "You should say: who this person is how you know him or her why he or she is energetic   \nand explain how you feel about this person. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Part 3 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "What kinds of jobs need a lot of physical work?   \nWhat's the difference between the payment for physical work and that for mental work?   \nCan physical workers receive higher salaries in the future?   \nDo you think machines could replace human workers in the future? ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "保留题 9 个",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "喜欢与之聊天的人",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Describe a person who you enjoy talking with. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "You should say: who this person is how you know him or her what you usually talk about   \nand explain why you enjoy talking with him or her. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Part 3 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Where do young people like to meet? What do young people talk about when they meet up? Do you think people should be honest when talking with friends? On what occasions do people talk with strangers? ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "想一起共事的家人",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Describe a family member who you want to work with in the future. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "You should say: who he or she is whether you worked together before what kind of work you would like to do with him or her   \nand explain why you want to work with this him or her. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Part 3 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "What kinds of family businesses are common in China? Is it good to work with family members? What are the benefits when working for big companies? Why do some people usually change jobs? ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "有趣的邻居",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Describe an interesting neighbour.   \nYou should say: who this person is how you know him or her what you do together   \nand explain why he or she is interesting ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Part 3 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Do you think people are familiar with their neighbours?   \nHow can people improve their relationship with neighbours in a community?   \nHow do children build relationships with others in a community?   \nIs it beneficial to get along well with neighbours? ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "社媒上常刷的人",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Describe a person who you follow on social media. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "You should say: who this person is how you know him or her what he or she puts on social media   \nand explain how you feel about him or her. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Part 3 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "What can people do on social media?   \nDo you think old people and young people will use the same kind of social media software?   \nDo older people spend much time on social media?   \nIs non-social media like television and newspaper still useful? ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "有趣的老人",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Describe an old person you have met who has an interesting life. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "You should say: who this person is when and where you met this person what the person did when you met him or her   \nand explain how you feel about this person. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Part 3 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Do you think the young and the old can share the same interests?   \nWhy is it hard to find some common ground between the young and the elderly nowadays?   \nWhat kinds of things that elderly people can help young people?   \nWhy do some people enjoy helping others while others are not? ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "国家名人",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Describe a famous person in your country. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "You should say: who this person is how you know about this person why he or she is popular   \nand explain how you feel about this person. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Part 3 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "What kinds of people are famous in China? Are there any differences between famous people in the past and nowadays? What do you think are the disadvantages of being famous? Do you think famous people have the duty to pay back to the society? ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "喜欢共度时光的人",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Describe someone you like to spend time with. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "You should say: who the person is how you knew him or her what you usually do together   \nand explain why you like to spend time with him or her. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Part 3 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "What makes a good listener? Where do young people like to meet? What do young people talk about when they meet up? On what occasions do people talk with strangers? ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "想更了解的人",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Describe a person you only met once and want to know more about. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "You should say: who this person is when you met him or her why you want to know more about him or her   \nand explain how you feel about him or her. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Part 3 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "How do people make friends in China?   \nOn what occasions do people like to make friends?   \nIs it important to have the same hobbies and interests when making friends?   \nWhat qualities make true friends? ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "对社会有贡献的人",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Describe a person whose job is useful to society.   \nYou should say: who this person is what job he or she does what skills he or she needs to do this job   \nand explain why this job is useful to society. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Part 3 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In your city, what occupations are the highest paid?   \nWhat kinds of businesses are popular in your country?   \nWould young people in your country like to start their own business or find a job?   \nWould people want to do online business or run a company in reality? ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "地点题",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "新题 1 个",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "中意国家",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Describe a foreign country you would like to visit in the future.   \nYou should say: where it is how you know about this place what you would do there   \nand explain why you would visit this place. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Part 3 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "What do you think of national identity? What are the advantages of working in an international company? How does travelling abroad affect young people? How do people get information about other countries? ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "保留题 5 个",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "去过的新地方",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Describe a time when you visited a new place.   \nYou should say: where the new place was when you went there why you went there   \nand explain how you felt about the place. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Part 3 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "How do people usually feel when they go to a new place? How do children feel when they go to a new school? Why do people usually travel to new cities? Do you think it’s better for old people to travel in a group? ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "重要江河湖",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Describe an important river or lake in your country.   \nYou should say: where it is how big or long it is what it looks like   \nand explain why it is important. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Part 3 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "How can rivers or lakes benefit local people? Do you think rivers or lakes attract tourists? How do rivers or lakes affect local tourism? Are there any jobs related to rivers? ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "乡村一隅 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Describe a place in a village that you visited.   \nYou should say: where it is when you visited this place what you did there   \nand how you feel about this place. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Part 3 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Is there anything special about the villages in China? Why do people want to go to the countryside? What do people usually do when going to a village? Do you think people will live in the village in the future? ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "安静的地方",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Describe a quiet place that you like to go to.   \nYou should say: where it is and what you do there how you knew it how often you go there   \nand explain how you feel about the place. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Part 3 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Is it easy to find quiet places in your country? Why?   \nWhy do old people prefer to live in quiet places?   \nWhy are there more noises made at home now than in the past?   \nWhy do some people like to use noise as background sound when working or studying? ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "有趣的城市",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Describe a city that you think is very interesting.   \nYou should say: where it is how you know about this city what it is famous for   \nand explain why you think it is very interesting. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Part 3 ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "What factors help a city attract tourists?   \nWhat can local people get from tourism?   \nSome tourists only go shopping when they visit a new city. What do you think about it?   \nWhy do young people like moving to big cities? ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "实物题",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "保留题 6 个",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "实用发明",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Describe an invention that has changed people’s lives.   \nYou should say: what it is what it is for how popular it is among different age groups   \nand explain why how it has changed people’s lives. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Part 3 ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "What are some common examples of home appliances?   \nDo you think these inventions tend to make people lazy?   \nCan you think of any other things, not yet invented, that might appear in people’s homes within the   \nnext 20 or 30 years?   \nWhat are some examples of electronic equipment that are used in schools? ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "传统物品",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Describe a traditional product in your country.   \nYou should say: what it is what it is made of where you see it   \nand explain how you feel about it. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Part 3 ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Are there any other traditional products in your country? ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Do you think it’s important for people to learn how to make traditional? What kinds of things should people know before they travel to another country? Do you think traditions should be protected? ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "想给朋友买的礼物",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Describe a gift you would like to buy for a friend. You should say: ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "what gift you would like to buy who you would like to give it to why you would like to buy a gift for him/her and explain why you choose that gift. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Part 3 ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "When do people send gifts to others? Do people give gifts or red packets at traditional festivals? Is it hard to choose a gift? Will people feel happy when receiving an expensive gift? ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "童年玩具",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Describe a toy you liked in your childhood.   \nYou should say: what it was when you received it how you played it   \nand explain why you liked it in your childhood. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Part 3 ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Do boys and girls like the same kind of toys? What factors should people consider when they buy toys? Is there any normal thing in the house that can be used as a toy for children? Do children like to play toys that are made related to a film? ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "喜欢的衣服",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Describe a piece of clothing you enjoy wearing.   \nYou should say: what it is how you got it what it looks like   \nand explain why you enjoy wearing it. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Part 3 ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "What factors will influence people’s decisions to wear different clothes? Why do you think people wear different clothes on different occasions? What are the advantages and disadvantages of wearing formal clothes? ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Do you think fashion has a different influence on different age groups? ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "生活必需品",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Describe a thing that you cannot live without.   \nYou should say: what it is how you got this how often you use it   \nand explain why you cannot live without it. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Part 3 ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Why do some people have a special attachment to some items? Why do young people enjoy high-tech items? What affects people's buying decisions? Does social media influence people's buying decisions? ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "虚物题",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "新题 2 个",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "感兴趣的科学",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Describe an area/ subject of science that you are interested in and would like to learn more   \nabout.   \nYou should say: what it is when you learnt about it what you have known about it   \nand explain why you are interested in it. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Part 3 ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Is it important to learn about science? Why do some children not like learning science at school? Which science subject is the most important for children to learn? Should people continue to study science after graduating from school? ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "近期日常改变",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Describe a positive change that you have made recently in your daily routine.   \nYou should say: what the change is why you think it is a positive change how you have changed your routine   \nand explain how you feel about the change. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Part 3 ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "What do people usually plan in their daily lives? What changes would people often make? Is time management very important in our daily lives? Is it good to change jobs frenquently? ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "保留题 7 个",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "提升注意力",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Describe something that can help you improve concentration.   \nYou should say： what it is how long you have used it how it works   \nand explain how you feel about it. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Part 3 ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Do you think it’s important for children to improve concentration? What kinds of jobs are important for maintaining concentration? Why do some people have a short attention span? How can employers make their employees concentrate on their work? ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "向长者学习的技能",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Describe a skill you learned from older people.   \nYou should say: what this skill is who you learned it from how you learned it   \nand explain how you feel about it. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Part 3 ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "What can children learn from their parents? What knowledge can children learn from their grandparents? What kind of help do you think older people need? What skills can young people learn from older people? ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "壮志未酬 ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Describe an ambition that you haven't achieved.   \nYou should say: what it is why you haven't achieved it what you have done   \nand how you felt about it. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Part 3 ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "What ambitions do children usually have? Do you think it's good for children to have ambitions? Why do you think some people have ambitions while others don’t? What do you think people should do to have work-life balance? ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "印象深刻的课程",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Describe a lesson you remember. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "You should say: what the lesson was about where you had it why you remember it   \nand explain how you feel about the lesson. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Part 3 ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Why do some people have a better memory? Do people like things of memorial significance? Which can help people remember things better, words or photos? Can technology help people remember things better? How? ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "保持健康",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Describe something you do to keep fit and healthy.   \nYou should say: what it is when you do it who you do it with   \nand explain why you think this method is important. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Part 3 ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Would you continue doing what you’re doing now to keep healthy? How do children and old people keep fit and healthy? What do people normally do to keep fit and healthy in your country? How can parents help and guide their kids to keep healthy? ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "重要规定",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Describe a rule that is important in your school or at work.   \nYou should say: what it is what happens when people break the rule why you think it is important   \nand explain how you feel about it. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Part 3 ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "What are the rules students should follow at school? Are the rules at school good or bad? Why? What rules should children follow at home? How are people punished when parking at the wrong spot? ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "想参加的比赛",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Describe a competition you would like to take part in. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "You should say: what competition it is what you would do in this competition when you would like to do it   \nand explain why you would like to take part in it. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Part 3 ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Why competition shows are popular?   \nDo you think is it necessary to encourage people to compete with others in companies?   \nWhat are the competitions that ordinary people can participate in?   \nWhat kinds of jobs are competitive? ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "事件题",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "新题 1 个",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "忘记要事",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Describe a time when you forgot something important.   \nYou should say: when it was what you forgot why you forgot it   \nand explain how you felt about it. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Part 3 ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "What kinds of things do people forget easily?   \nWhat kinds of people are more forgetful?   \nHow can people improve their memory?   \nWhat do you think of people using calendars to remind themselves of things? ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "保留题 17 个",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "丢失东西",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Describe a time when you lost something important.   \nYou should say: what you lost when and where you lost it what you did to find it   \nand explain how you felt about it. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Part 3 ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Why do people lose things? What kinds of things do people usually lose? What do people often do when they lose things? What kinds of people may lose things often? ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "特别一天",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Describe a special day out that didn't cost you much.   \nYou should say: when it was where you went how much you spent   \nand explain how you felt about it. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Part 3 ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Do people like to spend their leisure time out in your country? How do people spend their leisure time in your country? How does technology affect the way people spend their leisure time? Do you think only old people have time for leisure? ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "快乐活动",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Describe a happy event you organized.   \nYou should say: what it was where you had it who helped you to organize it   \nand explain how you felt about it. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Part 3 ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "How can parents help children to be organized? On what occasions do people need to be organized? Does everything need to be well prepared? Do people need others’ help when organizing things? ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "有趣讨论",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Describe an interesting discussion you had with your friend.   \nYou should say: who you spoke with where you were what the discussion was about   \nand explain why you think it was interesting. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Part 3 ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Do children have strong opinions?   \nShould parents request their kids to obey them?   \nIn what industries do you think communication is a necessary skill? ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Do you think communication skills can be developed? ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "好的服务",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Describe a good service you received.   \nYou should say: what the service was when you received it who you were with   \nand explain how you felt about it. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Part 3 ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "What do you think of the relationship between companies and customers? As a customer, what kinds of services would you expect to receive from a company? What kinds of jobs involve coping with the public? Why should companies react quickly when customers have difficulties? ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "交通堵塞",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Describe a time when you had to wait in a traffic jam.   \nYou should say: where it happened how long you were in the traffic jam what caused the traffic jam   \nand explain how you felt about it. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Part 3 ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Why do traffic jams occur?   \nWill future situation concerning traffic jams be worse, or better than it is today?   \nWhat actions could be done to reduce traffic jams?   \nWhat is the difference between commuting by bus and by car? ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "忙碌经历",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Describe a time when you were busy.   \nYou should say: when it happened where you were what you did   \nand explain how you felt about it. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Part 3 ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "What makes people busy nowadays? What are the advantages and disadvantages of people always being busy? Do you think children should learn from playing or under pressure? Do you think children should learn how to deal with pressure? ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "手机办事",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Describe a time when you used your cellphone to do something important. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "You should say: what happened when it happened how important your cellphone was   \nand explain how you felt about it. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Part 3 ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Many people think mobile phones can be annoying at times. What do you think of that?   \nDo you think there should be laws on the use of mobile phones?   \nWhat is your attitude to people who speak on the phone in public?   \nDo young and old people use phones in the same way? ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "重要决定",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Describe a difficult decision you once made but with a good result. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "You should say: what the decision was when you made this decision how long it took you to make this decision   \nand explain why it was difficult for you. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Part 3 ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "What decisions do people usually make in their daily lives? Why are so many young people unwilling to follow their parents’ advice? Do you think someone can make their decisions without asking others’advice? Do you think it’s necessary for kids to make their own decisions? ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "修理东西",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Describe a time when something in your home broke down and you fixed it. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "You should say: what broke down how you fixed it how long it took you to fix it   \nand explain how you felt after fixing it. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Part 3 ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "What kinds of things are easy to repair, and what are not? Do you think people used to fix all their household things by themselves in the past? Do you think young people are better at fixing things than old people? When do you think people need professionals to fix their household things? ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "寻求建议",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Describe a time when someone asked for your opinion. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "You should say: when it was who asked for your opinion what your opinion was   \nand explain how you felt about it. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Part 3 ",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "What kinds of jobs need to give suggestion?   \nWhy do people tend to have a stronger desire to express opinions online?   \nShould people prepare before giving an advice?   \nIs it good to ask for advice from strangers online? ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "特殊蛋糕 ",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Describe an occasion when you received a special cake.   \nYou should say: what kind of cake it was when you had it who gave it to you   \nand explain why it was special. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Part 3 ",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Do people have special food for special festivals?   \nDo people have special food for their birthdays?   \nDo some foods have special meanings in your culture?   \nWhy do many people think dinnertime helps increase close relationships in the family？ ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "庆祝活动",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Describe an important event you celebrated.   \nYou should say: what the event was when it happened who attended the event   \nand explain how you feel about the event ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Part 3 ",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Do you like to celebrate important events? Why?   \nWhat kinds of events do people usually celebrate?   \nDo people often celebrate events with a large group of people or just a few people?   \nDo people often celebrate festivals with families? ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "长途步行",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Describe a long walk you ever had.   \nYou should say: when this happened where you walked who you were with   \nand explain how you felt about this long walk. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Part 3 ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "What outdoor activities do people like?   \nWhat are the differences between the outdoor activities children did in the past and now?   \nIs leisure time important to everyone? Why?   \nDo women have more leisure time than men? ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "惊喜之事",
+        "text_level": 1,
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Describe something happy that surprised you.   \nYou should say: what the surprise was who gave you the surprise why they gave you this surprise   \nand explain why it made you feel happy. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Part 3 ",
+        "text_level": 1,
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "How do people express happiness in your culture? Do you think happiness has any effect on people? How? How can people be happy? Is it good for people to be unhappy? ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "学习外语",
+        "text_level": 1,
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Describe something you did that helped you learn a language.   \nYou should say: what it is what you did how it helped you learn the language   \nand explain how you felt about it. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Part 3 ",
+        "text_level": 1,
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "What difficulties do people face when learning a language? Do you think language learning is important? Why? Which is better, to study alone or study in a group? Why? What’s the best way to learn a language? ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "给与建议",
+        "text_level": 1,
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Describe an occasion when someone gave you positive advice about your work.   \nYou should say: who this person is what he/she said how the advice affected you   \nand explain how you felt about the advice. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Part 3 ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "What problems can people face if they ask many different people for advice?   \nIs it always bad to get conflicting advice?   \nWho do young people turn to for advice?   \nWhich do you think is better, advice from young people or advice from older people? ",
+        "page_idx": 20
+    }
+]
